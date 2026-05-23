@@ -145,9 +145,9 @@ function findThemeCommentPool(data, item, index) {
 }
 
 function buildReactionSummary(data) {
-  const comments = data.stats.find((item) => item.label.includes("коментар"));
-  const videos = data.stats.find((item) => item.label.includes("відео"));
-  const replies = data.stats.find((item) => item.label.includes("відповід"));
+  const comments = data.stats.find((item) => item.label.toLowerCase().includes("коментар"));
+  const videos = data.stats.find((item) => item.label.toLowerCase().includes("відео"));
+  const replies = data.stats.find((item) => item.label.toLowerCase().includes("відповід"));
   const themeLeader = data.theme_distribution[0];
 
   return [
@@ -224,13 +224,13 @@ function buildDefaultThemeSummary(data) {
   const overallQuotes = data.quotes.slice(0, 3);
   return {
     id: "overall-feedback",
-    label: "Загальна реакція",
+    label: "Загальна реакція аудиторії",
     count: data.question_distribution[0].count,
     color: "#8da15a",
-    description: "Базовий зріз по загальному тону аудиторії: тут збираються реакції на подачу, користь, ритм відео і те, що викликає найбільший відгук.",
+    description: "Базовий зріз по загальному тону аудиторії: тут збираються реакції на подачу, користь, ритм відео і те, що викликає найбільший відгук. Це окремий шар реакцій, а не сума всіх тематичних сигналів.",
     keywords: ["лайк", "цікаво", "чому", "корисно", "пояснення"],
     insights: [
-      `${data.question_distribution[0].count} згадок у кластері загальних реакцій.`,
+      "Окремий кластер загального тону, користі та ритму подачі.",
       `${data.request_distribution[0].count} прямих запитів на наступний контент.`
     ],
     quotes: overallQuotes
