@@ -239,7 +239,9 @@ function buildDefaultThemeSummary(data) {
 
 function renderHero(data) {
   const isMobile = window.innerWidth <= 720;
-  document.getElementById("hero-headline").innerHTML = isMobile && data.hero.mobile_headline ? data.hero.mobile_headline : data.hero.headline;
+  document.getElementById("hero-headline").innerHTML = isMobile && data.hero.mobile_headline
+    ? data.hero.mobile_headline
+    : data.hero.desktop_headline || data.hero.headline;
   const heroText = document.getElementById("hero-subheadline");
   heroText.textContent = isMobile ? data.hero.mobile_subheadline || data.hero.subheadline : data.hero.subheadline;
 

@@ -159,8 +159,16 @@ a {
 
 .hero h1 {
   margin-top: 10px;
-  max-width: 9ch;
-  font-size: clamp(3rem, 6vw, 5.6rem);
+  max-width: 7.1ch;
+  font-size: clamp(3rem, 5.1vw, 4.85rem);
+  line-height: 0.93;
+}
+
+.hero-accent {
+  color: var(--accent);
+  font-style: italic;
+  font-weight: 500;
+  letter-spacing: -0.04em;
 }
 
 .hero-text,
