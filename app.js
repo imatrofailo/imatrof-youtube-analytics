@@ -351,6 +351,7 @@ function renderThemeMap(themes, defaultSummary) {
   }
 
   function updateSummary(item) {
+    const evidenceItems = window.innerWidth >= 1100 ? item.quotes.slice(0, 2) : item.quotes;
     title.textContent = item.label;
     copy.textContent = item.description;
 
@@ -371,7 +372,7 @@ function renderThemeMap(themes, defaultSummary) {
     );
 
     evidence.replaceChildren(
-      ...item.quotes.map((quote) => {
+      ...evidenceItems.map((quote) => {
         const card = el("article", "summary-comment");
         card.append(
           el("p", "summary-comment-text", `“${truncate(quote.text, 170)}”`),

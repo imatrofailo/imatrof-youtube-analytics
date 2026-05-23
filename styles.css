@@ -423,6 +423,30 @@ a {
   font-size: clamp(2rem, 3.8vw, 3.35rem);
 }
 
+.analytics-overview {
+  display: grid;
+  grid-template-columns: minmax(320px, 0.7fr) minmax(0, 1.3fr);
+  gap: 18px;
+  align-items: start;
+}
+
+.analytics-overview .section-head {
+  margin-bottom: 0;
+}
+
+.analytics-overview .section-head h2 {
+  max-width: 10ch;
+  font-size: clamp(2rem, 3.1vw, 2.95rem);
+}
+
+.analytics-overview .section-lead {
+  max-width: 34ch;
+}
+
+.chart-panel {
+  min-width: 0;
+}
+
 .section-lead {
   margin: 12px 0 0;
   max-width: 58ch;
@@ -488,6 +512,11 @@ a {
   gap: 10px;
   width: 100%;
   overflow: hidden;
+}
+
+.analytics-overview .column-chart {
+  min-height: 220px;
+  max-width: 760px;
 }
 
 .chart-col {
@@ -620,6 +649,14 @@ a {
 .sentiment-panel {
   position: sticky;
   top: 18px;
+}
+
+.summary-panel .summary-comment-list {
+  gap: 12px;
+}
+
+.summary-panel .summary-comment {
+  padding: 14px;
 }
 
 .summary-copy {
@@ -893,6 +930,7 @@ a {
 
 @media (max-width: 1100px) {
   .hero,
+  .analytics-overview,
   .themes-layout,
   .summary-metrics,
   .insights-columns,
