@@ -480,12 +480,12 @@ a {
 }
 
 .themes-layout {
-  grid-template-columns: minmax(0, 1.3fr) 320px;
+  grid-template-columns: minmax(0, 1.32fr) 348px;
   align-items: start;
 }
 
 .summary-metrics {
-  grid-template-columns: minmax(0, 1.25fr) 320px;
+  grid-template-columns: minmax(0, 1.25fr) 348px;
   align-items: start;
 }
 
@@ -657,6 +657,26 @@ a {
 
 .summary-panel .summary-comment {
   padding: 14px;
+}
+
+.summary-panel .summary-copy {
+  font-size: 0.9rem;
+  line-height: 1.58;
+}
+
+.summary-panel .summary-stat,
+.summary-panel .summary-comment {
+  padding: 13px;
+}
+
+.summary-panel .summary-stat-value {
+  font-size: 0.92rem;
+  line-height: 1.42;
+}
+
+.summary-panel .summary-comment-text {
+  font-size: 0.9rem;
+  line-height: 1.58;
 }
 
 .summary-copy {

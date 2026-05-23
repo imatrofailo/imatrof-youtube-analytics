@@ -351,7 +351,9 @@ function renderThemeMap(themes, defaultSummary) {
   }
 
   function updateSummary(item) {
-    const evidenceItems = window.innerWidth >= 1100 ? item.quotes.slice(0, 2) : item.quotes;
+    const isDesktopWide = window.innerWidth >= 1100;
+    const evidenceItems = isDesktopWide ? item.quotes.slice(0, 1) : item.quotes;
+    const keywordItems = isDesktopWide ? item.keywords.slice(0, 4) : item.keywords;
     title.textContent = item.label;
     copy.textContent = item.description;
 
@@ -364,7 +366,7 @@ function renderThemeMap(themes, defaultSummary) {
     );
 
     keywords.replaceChildren(
-      ...item.keywords.map((keyword) => {
+      ...keywordItems.map((keyword) => {
         const pill = el("span", "keyword-pill", keyword);
         pill.style.setProperty("--keyword-color", item.color);
         return pill;
