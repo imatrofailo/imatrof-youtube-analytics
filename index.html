@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Аналітика коментарів YouTube | @imatrof</title>
+    <meta
+      name="description"
+      content="Український сайт аналітики YouTube-коментарів каналу @imatrof: теми, сигнали аудиторії, популярні відео, питання та інсайти на базі реальних даних."
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="grain"></div>
+    <header class="topbar">
+      <a class="brand" href="https://www.youtube.com/@imatrof" target="_blank" rel="noreferrer">imatrof</a>
+      <nav class="nav">
+        <a href="#oglyad">Огляд</a>
+        <a href="#analytics">Графіки</a>
+        <a href="#temy">Теми</a>
+        <a href="#insayty">Інсайти</a>
+        <a href="#proekt">Про проєкт</a>
+      </nav>
+    </header>
+
+    <main id="app">
+      <section class="hero shell" id="oglyad">
+        <div class="hero-copy">
+          <p class="eyebrow">Навігатор по коментарях каналу</p>
+          <h1 id="hero-headline">Завантаження...</h1>
+          <p class="hero-text" id="hero-subheadline"></p>
+          <div class="cta-row" id="hero-ctas"></div>
+          <div class="hero-metrics" id="hero-stats"></div>
+        </div>
+        <aside class="hero-panel">
+          <div class="hero-visual-stack">
+            <div class="floating-card grid-card">
+              <span class="floating-label">.сітка</span>
+              <div class="palette-row">
+                <span class="swatch swatch-1"></span>
+                <span class="swatch swatch-2"></span>
+                <span class="swatch swatch-3"></span>
+                <span class="swatch swatch-4"></span>
+              </div>
+              <p>теми / сигнали / питання</p>
+            </div>
+            <div class="update-card">
+              <span>Оновлено</span>
+              <strong id="generated-range"></strong>
+              <small id="hero-summary-note"></small>
+            </div>
+          </div>
+        </aside>
+      </section>
+
+      <section class="shell section analytics-overview" id="analytics">
+        <div class="section-head">
+          <p class="section-kicker">01</p>
+          <h2>Коли виходять відео і де збираються коментарі</h2>
+          <p class="section-lead">Головний зріз по місяцях: скільки відео вийшло, скільки коментарів вони сумарно зібрали і де саме утворюється найбільша щільність реакцій.</p>
+        </div>
+        <article class="panel chart-panel">
+          <div class="panel-head">
+            <div>
+              <p class="section-kicker">Відео + коментарі</p>
+              <h3>Кількість відео по місяцях</h3>
+            </div>
+          </div>
+          <p class="chart-copy">Наведи або тапни на стовпчик, щоб побачити кількість відео, сумарні коментарі та середню щільність реакції на одне відео.</p>
+          <div id="video-chart" class="column-chart monthly-chart" aria-label="Графік кількості відео по місяцях"></div>
+        </article>
+      </section>
+
+      <section class="shell section themes-layout" id="temy">
+        <div class="panel panel-large">
+          <div class="panel-head">
+            <div>
+              <p class="section-kicker">02</p>
+              <h3>Теми аудиторії</h3>
+              <p class="section-lead">Кожен квадрат прив’язаний до реального фрагмента коментаря. Наведи курсор або тапни, щоб побачити, про що саме говорить аудиторія всередині кожної теми.</p>
+            </div>
+          </div>
+          <div class="theme-map" id="theme-map"></div>
+        </div>
+
+        <aside class="panel summary-panel">
+          <div class="panel-head">
+            <div>
+              <p class="section-kicker">Вибрана тема</p>
+              <h3 id="theme-summary-title">Загальна реакція</h3>
+            </div>
+          </div>
+          <p class="summary-copy" id="theme-summary-copy"></p>
+          <div class="summary-stats" id="theme-summary-stats"></div>
+          <div class="summary-keywords">
+            <h4>Ключові слова</h4>
+            <div id="theme-summary-keywords" class="keyword-list"></div>
+          </div>
+          <div class="summary-evidence">
+            <h4>Ключові коментарі</h4>
+            <div id="theme-summary-evidence" class="summary-comment-list"></div>
+          </div>
+        </aside>
+      </section>
+
+      <section class="shell section summary-metrics">
+        <div class="panel">
+          <div class="panel-head">
+            <div>
+              <p class="section-kicker">03</p>
+              <h3>Запити та підсумкові метрики</h3>
+              <p class="section-lead">Короткий зріз по тому, що аудиторія просить показати далі та які питання створюють найбільший тиск.</p>
+            </div>
+          </div>
+          <div class="summary-card-grid" id="request-cards"></div>
+        </div>
+
+        <aside class="panel sentiment-panel">
+          <div class="panel-head">
+            <div>
+              <p class="section-kicker">Загальний баланс</p>
+              <h3>Загальні реакції</h3>
+            </div>
+          </div>
+          <div id="reaction-summary" class="reaction-summary"></div>
+        </aside>
+      </section>
+
+      <section class="shell section insights-layout" id="insayty">
+        <div class="section-head">
+          <p class="section-kicker">04</p>
+          <h2>Інсайти та ключові коментарі</h2>
+          <p class="section-lead">Фінальний редакторський блок з головними висновками, прямими цитатами й найпомітнішими відео-джерелами.</p>
+        </div>
+        <div class="insights-columns">
+          <div class="panel">
+            <div id="insight-cards" class="insight-stack"></div>
+          </div>
+
+          <div class="insights-side">
+            <div class="panel">
+              <div class="panel-head">
+                <div>
+                  <p class="section-kicker">Відео-джерела</p>
+                  <h3>Де зібралося найбільше реакцій</h3>
+                </div>
+              </div>
+              <div id="top-videos" class="video-list compact-list"></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="shell section" id="proekt">
+        <div class="panel project-panel">
+          <div class="project-head">
+            <div>
+              <p class="section-kicker">05</p>
+              <h3>Як працює проєкт і автоматичний деплой</h3>
+              <p class="section-lead">Цей сайт не є статичним макетом. Він збирається з живого контуру збору YouTube-даних, локальної аналітики, автоматизацій Codex і GitHub-контуру публікації.</p>
+            </div>
+          </div>
+
+          <div class="project-grid" id="project-flow"></div>
+
+          <div class="project-footer">
+            <div class="project-summary" id="project-summary"></div>
+            <div class="footer-links">
+              <a href="https://www.youtube.com/@imatrof" target="_blank" rel="noreferrer">Канал YouTube</a>
+              <a href="#analytics">Графіки</a>
+              <a href="#oglyad">Повернутися вгору</a>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
