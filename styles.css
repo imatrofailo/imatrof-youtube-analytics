@@ -217,6 +217,10 @@ a {
   gap: 12px;
 }
 
+.mobile-update-card {
+  display: none;
+}
+
 .metric-pill {
   min-width: 132px;
   padding: 12px 14px;
@@ -962,6 +966,11 @@ a {
     gap: 10px;
   }
 
+  .mobile-update-card {
+    display: block;
+    margin-top: 14px;
+  }
+
   .metric-pill {
     min-width: 0;
     padding: 10px 12px;
@@ -978,42 +987,13 @@ a {
   }
 
   .hero-panel {
-    min-height: 0;
-    display: block;
-    place-items: initial;
-    border-radius: 0;
-    background: transparent;
-    border: 0;
-    box-shadow: none;
-    backdrop-filter: none;
-  }
-
-  .grid-card {
     display: none;
   }
 
-  .palette-row {
-    margin-top: 34px;
-  }
-
-  .swatch {
-    width: 18px;
-    height: 18px;
-  }
-
-  .grid-card p {
-    left: 12px;
-    right: 12px;
-    bottom: 8px;
-    font-size: 0.56rem;
-  }
-
-  .update-card {
-    position: relative;
-    inset: auto;
-    width: 154px;
-    padding: 11px;
-    margin-left: auto;
+  .update-card-inline {
+    position: static;
+    width: 100%;
+    padding: 12px 14px;
   }
 
   .update-card strong {

@@ -245,9 +245,22 @@ function renderHero(data) {
 
   const refresh = data.meta.last_refresh;
   document.getElementById("generated-range").textContent = refresh?.label || data.meta.generated_from;
-  document.getElementById("hero-summary-note").textContent = refresh
+  const refreshText = refresh
     ? `${formatSignedDelta(refresh.new_videos_count, " відео")} · ${formatSignedDelta(refresh.new_top_level_comments_count, " коментарів")} · ${formatSignedDelta(refresh.new_replies_count, " відповідей")}`
     : `${data.stats[0].value} коментарів і ${data.stats[1].value} відео.`;
+  document.getElementById("hero-summary-note").textContent = refreshText;
+
+  const mobileUpdate = document.getElementById("hero-mobile-update");
+  mobileUpdate.replaceChildren();
+  if (isMobile) {
+    const card = el("div", "update-card update-card-inline");
+    card.append(
+      el("span", "", "Оновлено"),
+      el("strong", "", refresh?.label || data.meta.generated_from),
+      el("small", "", refreshText)
+    );
+    mobileUpdate.append(card);
+  }
 
   const ctas = document.getElementById("hero-ctas");
   ctas.append(link(data.hero.primary_cta.label, data.hero.primary_cta.url, "button"));
