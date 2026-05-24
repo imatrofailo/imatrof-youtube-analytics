@@ -6,14 +6,14 @@
     "report_url": "../outputs/YouTube_comment_insights.xlsx",
     "generated_from": "11 січня 2026 - 17 травня 2026",
     "last_refresh": {
-      "label": "23 травня 2026",
+      "label": "24 травня 2026",
       "new_videos_count": 0,
-      "new_top_level_comments_count": 2,
+      "new_top_level_comments_count": 0,
       "new_replies_count": 0
     }
   },
   "hero": {
-    "headline": "Карта <span class=\"hero-accent\">коментарних</span> сигналів<br>@imatrof",
+    "headline": "Перетворюю коментарі з YouTube на зрозумілу аналітику аудиторії",
     "mobile_headline": "Коментарі YouTube, зібрані в зрозумілу аналітику",
     "subheadline": "Сайт показує теми, запити, патерни, сигнали та готові до експорту інсайти з коментарів каналу @imatrof. Top-level коментарі, replies і тематичні сигнали тут рахуються окремо.",
     "mobile_subheadline": "Теми, сигнали й запити аудиторії з коментарів каналу @imatrof. Top-level коментарі, replies і сигнали рахуються окремо.",
@@ -4424,7 +4424,7 @@
   ],
   "request_distribution": [
     {
-      "label": "Безпека та локальний AI setup",
+      "label": "Безпека та локальний запуск ШІ",
       "count": 107
     },
     {
@@ -4450,15 +4450,15 @@
       "url": "https://www.youtube.com/watch?v=7wmJTCogL60",
       "published_at": "15 квітня 2026",
       "comment_count": 87,
-      "view_count": 13682,
-      "like_count": 1013
+      "view_count": 13694,
+      "like_count": 1014
     },
     {
       "title": "ВІДКРИТТЯ РОКУ! AI-агент, що ЗМІНИТЬ все",
       "url": "https://www.youtube.com/watch?v=PCaMCZ9FiNQ",
       "published_at": "30 січня 2026",
       "comment_count": 77,
-      "view_count": 28480,
+      "view_count": 28489,
       "like_count": 1473
     },
     {
@@ -4466,7 +4466,7 @@
       "url": "https://www.youtube.com/watch?v=HnciJGQXELU",
       "published_at": "27 лютого 2026",
       "comment_count": 55,
-      "view_count": 15320,
+      "view_count": 15325,
       "like_count": 934
     },
     {
@@ -4474,7 +4474,7 @@
       "url": "https://www.youtube.com/watch?v=29ey6quFIyA",
       "published_at": "4 лютого 2026",
       "comment_count": 54,
-      "view_count": 22411,
+      "view_count": 22427,
       "like_count": 1048
     },
     {
@@ -4482,7 +4482,7 @@
       "url": "https://www.youtube.com/watch?v=INXY8x_cy-s",
       "published_at": "22 березня 2026",
       "comment_count": 50,
-      "view_count": 16312,
+      "view_count": 16318,
       "like_count": 931
     },
     {
@@ -4490,15 +4490,15 @@
       "url": "https://www.youtube.com/watch?v=svS762o1sl4",
       "published_at": "22 квітня 2026",
       "comment_count": 47,
-      "view_count": 25600,
-      "like_count": 1146
+      "view_count": 25674,
+      "like_count": 1149
     },
     {
       "title": "НОВИНИ AI: Nano Banana 2 вже тут! Claude ОБВАЛИВ акції IBM!",
       "url": "https://www.youtube.com/watch?v=lqZQs0jc4_I",
       "published_at": "1 березня 2026",
       "comment_count": 42,
-      "view_count": 17497,
+      "view_count": 17500,
       "like_count": 821
     },
     {
@@ -4506,7 +4506,7 @@
       "url": "https://www.youtube.com/watch?v=KCKYbIltNwc",
       "published_at": "12 квітня 2026",
       "comment_count": 40,
-      "view_count": 17187,
+      "view_count": 17209,
       "like_count": 925
     },
     {
@@ -4514,7 +4514,7 @@
       "url": "https://www.youtube.com/watch?v=oNOYavt7gRY",
       "published_at": "13 лютого 2026",
       "comment_count": 39,
-      "view_count": 15377,
+      "view_count": 15387,
       "like_count": 829
     },
     {
@@ -4522,31 +4522,31 @@
       "url": "https://www.youtube.com/watch?v=tbnL0SY9GqU",
       "published_at": "10 травня 2026",
       "comment_count": 36,
-      "view_count": 14551,
-      "like_count": 754
+      "view_count": 14592,
+      "like_count": 756
     },
     {
       "title": "НОВИНИ AI: OpenAI ЗАКРИЛИ Sora. Причина вас здивує",
       "url": "https://www.youtube.com/watch?v=1bsD69T-k3U",
       "published_at": "29 березня 2026",
       "comment_count": 36,
-      "view_count": 13209,
-      "like_count": 756
+      "view_count": 13210,
+      "like_count": 757
     },
     {
       "title": "НОВИНИ AI: GPT-5.5 — модель тижня, яку всі так чекали!",
       "url": "https://www.youtube.com/watch?v=yS7m7ofRr3I",
       "published_at": "26 квітня 2026",
       "comment_count": 34,
-      "view_count": 31929,
-      "like_count": 1253
+      "view_count": 31953,
+      "like_count": 1254
     },
     {
       "title": "НОВИНИ AI: Китай знову насипав миску рису і обігнав всіх!",
       "url": "https://www.youtube.com/watch?v=XZQBlTaxLKY",
       "published_at": "3 травня 2026",
       "comment_count": 33,
-      "view_count": 15787,
+      "view_count": 15806,
       "like_count": 895
     },
     {
@@ -4554,7 +4554,7 @@
       "url": "https://www.youtube.com/watch?v=9bJmUc6N_mY",
       "published_at": "8 березня 2026",
       "comment_count": 33,
-      "view_count": 13611,
+      "view_count": 13614,
       "like_count": 740
     },
     {
@@ -4562,15 +4562,15 @@
       "url": "https://www.youtube.com/watch?v=dAtC96i2v5M",
       "published_at": "24 квітня 2026",
       "comment_count": 32,
-      "view_count": 8995,
-      "like_count": 435
+      "view_count": 9022,
+      "like_count": 436
     },
     {
       "title": "НОВИНИ AI: У ANTHROPIC більше не пишуть код, Google здешевлює AI, а Україна назвала власну LLM",
       "url": "https://www.youtube.com/watch?v=NAlp_i13_4Y",
       "published_at": "5 квітня 2026",
       "comment_count": 32,
-      "view_count": 16767,
+      "view_count": 16804,
       "like_count": 908
     },
     {
@@ -4578,15 +4578,15 @@
       "url": "https://www.youtube.com/watch?v=rvaSzhpfHNY",
       "published_at": "17 травня 2026",
       "comment_count": 31,
-      "view_count": 13316,
-      "like_count": 656
+      "view_count": 13669,
+      "like_count": 670
     },
     {
       "title": "OpenClaw vs Cowork - ×10 чи маркетинг? | OpenAI посилив науку | xAI знову провокує",
       "url": "https://www.youtube.com/watch?v=NByF6cn3qsY",
       "published_at": "1 лютого 2026",
       "comment_count": 30,
-      "view_count": 8891,
+      "view_count": 8892,
       "like_count": 618
     },
     {
@@ -4602,7 +4602,7 @@
       "url": "https://www.youtube.com/watch?v=-zjxZopn1RY",
       "published_at": "27 березня 2026",
       "comment_count": 29,
-      "view_count": 10531,
+      "view_count": 10539,
       "like_count": 593
     },
     {
@@ -4618,7 +4618,7 @@
       "url": "https://www.youtube.com/watch?v=PwxId9BVmRs",
       "published_at": "22 лютого 2026",
       "comment_count": 24,
-      "view_count": 9280,
+      "view_count": 9281,
       "like_count": 595
     },
     {
@@ -4626,7 +4626,7 @@
       "url": "https://www.youtube.com/watch?v=62kHNFYzXbE",
       "published_at": "18 січня 2026",
       "comment_count": 24,
-      "view_count": 10440,
+      "view_count": 10442,
       "like_count": 703
     },
     {
@@ -4634,7 +4634,7 @@
       "url": "https://www.youtube.com/watch?v=eJuPpLcReuU",
       "published_at": "15 лютого 2026",
       "comment_count": 23,
-      "view_count": 8585,
+      "view_count": 8586,
       "like_count": 542
     },
     {
@@ -4642,7 +4642,7 @@
       "url": "https://www.youtube.com/watch?v=mkP9rdpMUWw",
       "published_at": "19 квітня 2026",
       "comment_count": 22,
-      "view_count": 13567,
+      "view_count": 13581,
       "like_count": 747
     },
     {
@@ -4658,7 +4658,7 @@
       "url": "https://www.youtube.com/watch?v=ho0MqfrbY6w",
       "published_at": "15 березня 2026",
       "comment_count": 20,
-      "view_count": 10558,
+      "view_count": 10560,
       "like_count": 664
     }
   ],

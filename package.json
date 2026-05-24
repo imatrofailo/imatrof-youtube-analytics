@@ -8,6 +8,7 @@
   },
   "scripts": {
     "dev": "vite",
+    "refresh:site": ".venv/bin/python scripts/weekly_site_refresh_local.py",
     "build": "vite build",
     "preview": "vite preview --host 0.0.0.0 --port 3000"
   },
