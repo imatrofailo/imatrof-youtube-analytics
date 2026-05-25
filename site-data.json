@@ -4,12 +4,12 @@
     "channel_url": "https://www.youtube.com/@imatrof",
     "site_title": "Аналітика коментарів YouTube",
     "report_url": "../outputs/YouTube_comment_insights.xlsx",
-    "generated_from": "11 січня 2026 - 17 травня 2026",
+    "generated_from": "11 січня 2026 - 24 травня 2026",
     "last_refresh": {
       "label": "25 травня 2026",
-      "new_videos_count": 0,
-      "new_top_level_comments_count": 0,
-      "new_replies_count": 0
+      "new_videos_count": 1,
+      "new_top_level_comments_count": 16,
+      "new_replies_count": 3
     }
   },
   "hero": {
@@ -29,18 +29,18 @@
   "stats": [
     {
       "label": "Top-level коментарів в аналізі",
-      "value": 1007,
+      "value": 1020,
       "hint": "Релевантні коментарі верхнього рівня після фільтра коротких реакцій, спаму і нерелевантних записів."
     },
     {
       "label": "Охоплено відео",
-      "value": 27,
-      "hint": "Діапазон: 11 січня 2026 - 17 травня 2026"
+      "value": 28,
+      "hint": "Діапазон: 11 січня 2026 - 24 травня 2026"
     },
     {
       "label": "Відповідей у гілках",
-      "value": 545,
-      "hint": "Replies під top-level коментарями. Це окремий шар дискусії й він не входить у 1007 top-level коментарів."
+      "value": 548,
+      "hint": "Replies під top-level коментарями. Це окремий шар дискусії й він не входить у 1020 top-level коментарів."
     },
     {
       "label": "Головний попит",
@@ -63,10 +63,10 @@
       "title": "Аудиторія приходить по відбірці головного: новини про ШІ економлять їй час на самостійний пошук.",
       "details": "Тема новин про ШІ та кураторства має 27 згадок, а люди прямо пишуть, що канал допомагає відслідковувати ринок без зайвого шуму.",
       "priority": "Високий",
-      "evidence": "Дякую за крутий контент. Зробив собі агента який збирає новини зі снепшотами, типу як журнал, але проблема як завжди - інформаціїї забагато, читати немає часу )) Бажаю успіху у просуванні каналу.",
-      "evidence_url": "https://www.youtube.com/watch?v=rvaSzhpfHNY&lc=UgypOe-7yOGsI7uWcJl4AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=rvaSzhpfHNY",
-      "video_title": "НОВИНИ AI: Claude знав, що його тестують і мовчав!"
+      "evidence": "Вже не знаю, куди бігти: клод, джипіті чи джимінай)) Для різних завдань приходиться купувати кожне)) Дякую за новини, Ігоре",
+      "evidence_url": "https://www.youtube.com/watch?v=jedytILhH70&lc=Ugz8IrRTn1HTCtTKjyt4AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=jedytILhH70",
+      "video_title": "НОВИНИ AI: Дали всім AI по 20$ і мікрофон — ось що сталось"
     },
     {
       "title": "Найсильніший продуктовий інтерес зараз навколо стеку агентної розробки: Codex, Claude Code, OpenClaw.",
@@ -3199,9 +3199,25 @@
     },
     {
       "label": "Новини про ШІ та кураторство",
-      "count": 81,
+      "count": 83,
       "delta": 0,
       "samples": [
+        {
+          "author": "@opohribnyi",
+          "text": "Вже не знаю, куди бігти: клод, джипіті чи джимінай)) Для різних завдань приходиться купувати кожне)) Дякую за новини, Ігоре",
+          "video_title": "НОВИНИ AI: Дали всім AI по 20$ і мікрофон — ось що сталось",
+          "video_url": "https://www.youtube.com/watch?v=jedytILhH70",
+          "comment_url": "https://www.youtube.com/watch?v=jedytILhH70&lc=Ugz8IrRTn1HTCtTKjyt4AaABAg",
+          "published_at": "24 травня 2026"
+        },
+        {
+          "author": "@nikolaybrown6639",
+          "text": "Коментар в підтримку каналу, каву і до перегляду:)",
+          "video_title": "НОВИНИ AI: Дали всім AI по 20$ і мікрофон — ось що сталось",
+          "video_url": "https://www.youtube.com/watch?v=jedytILhH70",
+          "comment_url": "https://www.youtube.com/watch?v=jedytILhH70&lc=UgxC7FlEhAywYzgjlOh4AaABAg",
+          "published_at": "24 травня 2026"
+        },
         {
           "author": "@volodymyrdmytryshyn5424",
           "text": "Дякую за крутий контент. Зробив собі агента який збирає новини зі снепшотами, типу як журнал, але проблема як завжди - інформаціїї забагато, читати немає часу )) Бажаю успіху у просуванні каналу.",
@@ -4399,7 +4415,7 @@
   "question_distribution": [
     {
       "label": "Загальні реакції",
-      "count": 264
+      "count": 268
     },
     {
       "label": "Ліміти моделей і якість",
@@ -4415,7 +4431,7 @@
     },
     {
       "label": "Практична користь",
-      "count": 43
+      "count": 45
     },
     {
       "label": "Фідбек по подачі",
@@ -4441,7 +4457,7 @@
     },
     {
       "label": "Продовжувати щотижневий AI-дайджест",
-      "count": 17
+      "count": 18
     }
   ],
   "top_videos": [
@@ -4660,119 +4676,127 @@
       "comment_count": 20,
       "view_count": 10561,
       "like_count": 664
+    },
+    {
+      "title": "НОВИНИ AI: Дали всім AI по 20$ і мікрофон — ось що сталось",
+      "url": "https://www.youtube.com/watch?v=jedytILhH70",
+      "published_at": "24 травня 2026",
+      "comment_count": 13,
+      "view_count": 6084,
+      "like_count": 360
     }
   ],
   "recent_comments": [
     {
-      "author": "@argailsallivan",
-      "text": "Ігоре дуже Вам дякую!!!!!!!!!!!!!!!!!!!!!!!!!!Найблищім часом зроблю донат. Можливо Ви зможете порадити АІ Яке може допомогати з аналізом текстів лікарів лікарні для створення таблиці зауважень для проектувальника Хірургичного відділення. Ми зараз терміново будуємо відділення швидкої допомоги при осколкових пораненнях. Часу Обмаль хочемо навчитися працювати з штучним інтелектом для збіру та аналізу сітуації в лікарнях сього дення. Дякуємо.",
-      "published_at": "22 травня 2026",
-      "video_title": "НОВИНИ AI: Claude знав, що його тестують і мовчав!",
-      "video_url": "https://www.youtube.com/watch?v=rvaSzhpfHNY",
-      "comment_url": "https://www.youtube.com/watch?v=rvaSzhpfHNY&lc=Ugzo5IAE8HJgzVJXH094AaABAg",
+      "author": "@ЄвгенійПе",
+      "text": "Ігоре, думаю було б корисно сказати про те що Google Antigravity розділив свій продукт на 2 частини і якщо ви хочете повернутись до старого інтерфейсу - треба скачати Antigravity IDE (окрему програму) на їх сайті у розділі Download. Єдине - необхідно відновити всі свої налаштування заново.",
+      "published_at": "25 травня 2026",
+      "video_title": "НОВИНИ AI: Дали всім AI по 20$ і мікрофон — ось що сталось",
+      "video_url": "https://www.youtube.com/watch?v=jedytILhH70",
+      "comment_url": "https://www.youtube.com/watch?v=jedytILhH70&lc=UgyB2EQpUrr5h8Djb6p4AaABAg",
+      "like_count": 0
+    },
+    {
+      "author": "@Marianne-c2w",
+      "text": "ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^",
+      "published_at": "24 травня 2026",
+      "video_title": "НОВИНИ AI: Дали всім AI по 20$ і мікрофон — ось що сталось",
+      "video_url": "https://www.youtube.com/watch?v=jedytILhH70",
+      "comment_url": "https://www.youtube.com/watch?v=jedytILhH70&lc=UgzkviL2FWBNp3tXAap4AaABAg",
       "like_count": 1
     },
     {
-      "author": "@ІгорГолобородько-ж1ы",
-      "text": "Це вже не актуально ? Спробував створити двічі, боти не працюють",
-      "published_at": "22 травня 2026",
-      "video_title": "Чому я більше не вибираю між OpenClaw, Claude Code і Codex — запускаю всіх трьох!",
-      "video_url": "https://www.youtube.com/watch?v=dAtC96i2v5M",
-      "comment_url": "https://www.youtube.com/watch?v=dAtC96i2v5M&lc=UgxAH1gzxSuoPrSJdCh4AaABAg",
-      "like_count": 0
-    },
-    {
-      "author": "@UserName-br5ty",
-      "text": "27:50 - ну для такої сидячої роботи їм варто було щоб робот приходив, підключав себе в 220 вольт, і працював там до скону, а в сусідній кімнаті щоб сидів робот для дізастер рікавері, на випадо якщо цей здуріє від монотонної роботи :)",
-      "published_at": "19 травня 2026",
-      "video_title": "НОВИНИ AI: Claude знав, що його тестують і мовчав!",
-      "video_url": "https://www.youtube.com/watch?v=rvaSzhpfHNY",
-      "comment_url": "https://www.youtube.com/watch?v=rvaSzhpfHNY&lc=Ugw7DQB8mocR6wvUXB14AaABAg",
+      "author": "@oleh3544",
+      "text": "нас привчають не шукати, не творити, а просто споживати",
+      "published_at": "24 травня 2026",
+      "video_title": "НОВИНИ AI: Дали всім AI по 20$ і мікрофон — ось що сталось",
+      "video_url": "https://www.youtube.com/watch?v=jedytILhH70",
+      "comment_url": "https://www.youtube.com/watch?v=jedytILhH70&lc=UgzGFWUoRp4OUFYv06R4AaABAg",
       "like_count": 1
     },
     {
-      "author": "@CyrusMorn-k3z",
-      "text": "П'ядтесят, шістдесят. НЕМАЄ ніякого десЯтЬ в українській, де ви всі це берете?? Це не модно, як вам здається, це смішно.",
-      "published_at": "19 травня 2026",
-      "video_title": "НОВИНИ AI: Claude знав, що його тестують і мовчав!",
-      "video_url": "https://www.youtube.com/watch?v=rvaSzhpfHNY",
-      "comment_url": "https://www.youtube.com/watch?v=rvaSzhpfHNY&lc=UgzUIDPLuIjPSn29RbV4AaABAg",
+      "author": "@ValentynSolomko",
+      "text": "+++",
+      "published_at": "24 травня 2026",
+      "video_title": "НОВИНИ AI: Дали всім AI по 20$ і мікрофон — ось що сталось",
+      "video_url": "https://www.youtube.com/watch?v=jedytILhH70",
+      "comment_url": "https://www.youtube.com/watch?v=jedytILhH70&lc=UgxKTgdFCoAVd7wIa6B4AaABAg",
       "like_count": 0
     },
     {
-      "author": "@YouBugsBunny",
-      "text": "як ти в захваті розповідаєш про зміну тексту, правка чогось там по курсору, коли в світі інформація \"устаріває\" за хвилину, за секунду, а в тебе посмішка від якоїсь пердушні.\nце вже відвертий маразм, зараз створити просунутий тетріс клаудом буде дороще чим купити його фізично на ринку, це маразм, як і більшість впроваджень що роздувають цю бульбашку, от робот це круто, но не курсор клятий який нас уповілнює в принципі, люди роблять швидкісні мишки і мінімальну затримку, коли тут намагаються продати \"очередні\" потужності обчислення. фу",
-      "published_at": "19 травня 2026",
-      "video_title": "НОВИНИ AI: Claude знав, що його тестують і мовчав!",
-      "video_url": "https://www.youtube.com/watch?v=rvaSzhpfHNY",
-      "comment_url": "https://www.youtube.com/watch?v=rvaSzhpfHNY&lc=UgwcpNOI8doZhEj-1Qt4AaABAg",
-      "like_count": 0
+      "author": "@dmytrovyshnevski546",
+      "text": "Виживуть тільки сайти 18+ , бо в гугла на це цензура 😂",
+      "published_at": "24 травня 2026",
+      "video_title": "НОВИНИ AI: Дали всім AI по 20$ і мікрофон — ось що сталось",
+      "video_url": "https://www.youtube.com/watch?v=jedytILhH70",
+      "comment_url": "https://www.youtube.com/watch?v=jedytILhH70&lc=Ugy_EChviiK3Kt_os2J4AaABAg",
+      "like_count": 1
     },
     {
-      "author": "@andreiakimenko4574",
-      "text": "Не шісдесять , а шістдесят. Не тОбі, а тобІ, не свОю, а своЮ",
-      "published_at": "18 травня 2026",
-      "video_title": "НОВИНИ AI: Claude знав, що його тестують і мовчав!",
-      "video_url": "https://www.youtube.com/watch?v=rvaSzhpfHNY",
-      "comment_url": "https://www.youtube.com/watch?v=rvaSzhpfHNY&lc=UgxMy-P9YMGxR91dlyl4AaABAg",
+      "author": "@andrewyt5793",
+      "text": "Дякуємо за огляд!",
+      "published_at": "24 травня 2026",
+      "video_title": "НОВИНИ AI: Дали всім AI по 20$ і мікрофон — ось що сталось",
+      "video_url": "https://www.youtube.com/watch?v=jedytILhH70",
+      "comment_url": "https://www.youtube.com/watch?v=jedytILhH70&lc=UgzfkpoVPG1TVJCxBIh4AaABAg",
       "like_count": 1
     }
   ],
   "quotes": [
     {
-      "author": "@argailsallivan",
-      "text": "Ігоре дуже Вам дякую!!!!!!!!!!!!!!!!!!!!!!!!!!Найблищім часом зроблю донат. Можливо Ви зможете порадити АІ Яке може допомогати з аналізом текстів лікарів лікарні для створення таблиці зауважень для проектувальника Хірургичного відділення. Ми зараз терміново будуємо відділення швидкої допомоги при осколкових пораненнях. Часу Обмаль хочемо навчитися працювати з штучним інтелектом для збіру та аналізу сітуації в лікарнях сього дення. Дякуємо.",
-      "video_title": "НОВИНИ AI: Claude знав, що його тестують і мовчав!",
-      "video_url": "https://www.youtube.com/watch?v=rvaSzhpfHNY",
-      "comment_url": "https://www.youtube.com/watch?v=rvaSzhpfHNY&lc=Ugzo5IAE8HJgzVJXH094AaABAg",
-      "published_at": "22 травня 2026",
+      "author": "@ЄвгенійПе",
+      "text": "Ігоре, думаю було б корисно сказати про те що Google Antigravity розділив свій продукт на 2 частини і якщо ви хочете повернутись до старого інтерфейсу - треба скачати Antigravity IDE (окрему програму) на їх сайті у розділі Download. Єдине - необхідно відновити всі свої налаштування заново.",
+      "video_title": "НОВИНИ AI: Дали всім AI по 20$ і мікрофон — ось що сталось",
+      "video_url": "https://www.youtube.com/watch?v=jedytILhH70",
+      "comment_url": "https://www.youtube.com/watch?v=jedytILhH70&lc=UgyB2EQpUrr5h8Djb6p4AaABAg",
+      "published_at": "25 травня 2026",
       "themes": [
         "Загальна реакція аудиторії"
       ]
     },
     {
-      "author": "@ІгорГолобородько-ж1ы",
-      "text": "Це вже не актуально ? Спробував створити двічі, боти не працюють",
-      "video_title": "Чому я більше не вибираю між OpenClaw, Claude Code і Codex — запускаю всіх трьох!",
-      "video_url": "https://www.youtube.com/watch?v=dAtC96i2v5M",
-      "comment_url": "https://www.youtube.com/watch?v=dAtC96i2v5M&lc=UgxAH1gzxSuoPrSJdCh4AaABAg",
-      "published_at": "22 травня 2026",
+      "author": "@Marianne-c2w",
+      "text": "ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^",
+      "video_title": "НОВИНИ AI: Дали всім AI по 20$ і мікрофон — ось що сталось",
+      "video_url": "https://www.youtube.com/watch?v=jedytILhH70",
+      "comment_url": "https://www.youtube.com/watch?v=jedytILhH70&lc=UgzkviL2FWBNp3tXAap4AaABAg",
+      "published_at": "24 травня 2026",
       "themes": [
         "Загальна реакція аудиторії"
       ]
     },
     {
-      "author": "@UserName-br5ty",
-      "text": "27:50 - ну для такої сидячої роботи їм варто було щоб робот приходив, підключав себе в 220 вольт, і працював там до скону, а в сусідній кімнаті щоб сидів робот для дізастер рікавері, на випадо якщо цей здуріє від монотонної роботи :)",
-      "video_title": "НОВИНИ AI: Claude знав, що його тестують і мовчав!",
-      "video_url": "https://www.youtube.com/watch?v=rvaSzhpfHNY",
-      "comment_url": "https://www.youtube.com/watch?v=rvaSzhpfHNY&lc=Ugw7DQB8mocR6wvUXB14AaABAg",
-      "published_at": "19 травня 2026",
+      "author": "@oleh3544",
+      "text": "нас привчають не шукати, не творити, а просто споживати",
+      "video_title": "НОВИНИ AI: Дали всім AI по 20$ і мікрофон — ось що сталось",
+      "video_url": "https://www.youtube.com/watch?v=jedytILhH70",
+      "comment_url": "https://www.youtube.com/watch?v=jedytILhH70&lc=UgzGFWUoRp4OUFYv06R4AaABAg",
+      "published_at": "24 травня 2026",
       "themes": [
         "Загальна реакція аудиторії"
       ]
     },
     {
-      "author": "@CyrusMorn-k3z",
-      "text": "П'ядтесят, шістдесят. НЕМАЄ ніякого десЯтЬ в українській, де ви всі це берете?? Це не модно, як вам здається, це смішно.",
-      "video_title": "НОВИНИ AI: Claude знав, що його тестують і мовчав!",
-      "video_url": "https://www.youtube.com/watch?v=rvaSzhpfHNY",
-      "comment_url": "https://www.youtube.com/watch?v=rvaSzhpfHNY&lc=UgzUIDPLuIjPSn29RbV4AaABAg",
-      "published_at": "19 травня 2026",
+      "author": "@dmytrovyshnevski546",
+      "text": "Виживуть тільки сайти 18+ , бо в гугла на це цензура 😂",
+      "video_title": "НОВИНИ AI: Дали всім AI по 20$ і мікрофон — ось що сталось",
+      "video_url": "https://www.youtube.com/watch?v=jedytILhH70",
+      "comment_url": "https://www.youtube.com/watch?v=jedytILhH70&lc=Ugy_EChviiK3Kt_os2J4AaABAg",
+      "published_at": "24 травня 2026",
       "themes": [
-        "Фідбек по контенту та інтеграціях"
+        "Загальна реакція аудиторії"
       ]
     }
   ],
   "questions": [
     {
       "cluster": "Загальні реакції",
-      "count": 264,
-      "question": "Це вже не актуально ? Спробував створити двічі, боти не працюють",
+      "count": 268,
+      "question": "Супер, як завжди дякую за цікавий огляд.",
       "suggested_response": "Відповісти коротко в Q&A або включити в розігрів наступного відео.",
-      "comment_url": "https://www.youtube.com/watch?v=dAtC96i2v5M&lc=UgxAH1gzxSuoPrSJdCh4AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=dAtC96i2v5M",
-      "video_title": "Чому я більше не вибираю між OpenClaw, Claude Code і Codex — запускаю всіх трьох!"
+      "comment_url": "https://www.youtube.com/watch?v=jedytILhH70&lc=Ugz_72Cdwq4tPnR8YIJ4AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=jedytILhH70",
+      "video_title": "НОВИНИ AI: Дали всім AI по 20$ і мікрофон — ось що сталось"
     },
     {
       "cluster": "Ліміти моделей і якість",
@@ -4803,12 +4827,12 @@
     },
     {
       "cluster": "Практична користь",
-      "count": 43,
-      "question": "9:53 А як воно в реальному часі перекладає, якщо наприклад заперечення в німецькій мові йде останнім словом в реченні? Фігня якась",
+      "count": 45,
+      "question": "Ігоре, думаю було б корисно сказати про те що Google Antigravity розділив свій продукт на 2 частини і якщо ви хочете повернутись до старого інтерфейсу - треба скачати Antigravity IDE (окрему програму) на їх сайті у розділі Download. Єдине - необхідно відновити всі свої налаштування заново.",
       "suggested_response": "Дати 2-3 робочі кейси з результатом, вартістю помилки й фінальним ROI.",
-      "comment_url": "https://www.youtube.com/watch?v=rvaSzhpfHNY&lc=UgzWgNwaKVnusGl-bA14AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=rvaSzhpfHNY",
-      "video_title": "НОВИНИ AI: Claude знав, що його тестують і мовчав!"
+      "comment_url": "https://www.youtube.com/watch?v=jedytILhH70&lc=UgyB2EQpUrr5h8Djb6p4AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=jedytILhH70",
+      "video_title": "НОВИНИ AI: Дали всім AI по 20$ і мікрофон — ось що сталось"
     }
   ],
   "content_ideas": [
@@ -4843,21 +4867,6 @@
   ],
   "activity": [
     {
-      "date": "2026-05-10",
-      "label": "10 травня 2026",
-      "count": 30
-    },
-    {
-      "date": "2026-05-11",
-      "label": "11 травня 2026",
-      "count": 4
-    },
-    {
-      "date": "2026-05-12",
-      "label": "12 травня 2026",
-      "count": 2
-    },
-    {
       "date": "2026-05-13",
       "label": "13 травня 2026",
       "count": 2
@@ -4891,6 +4900,21 @@
       "date": "2026-05-22",
       "label": "22 травня 2026",
       "count": 2
+    },
+    {
+      "date": "2026-05-23",
+      "label": "23 травня 2026",
+      "count": 1
+    },
+    {
+      "date": "2026-05-24",
+      "label": "24 травня 2026",
+      "count": 14
+    },
+    {
+      "date": "2026-05-25",
+      "label": "25 травня 2026",
+      "count": 1
     }
   ],
   "excel_preview": [
@@ -4916,8 +4940,8 @@
     },
     {
       "theme": "Новини про ШІ та кураторство",
-      "count": 81,
-      "intensity": 0.583
+      "count": 83,
+      "intensity": 0.597
     }
   ],
   "workflow": [
