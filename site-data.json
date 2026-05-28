@@ -6,10 +6,10 @@
     "report_url": "../outputs/YouTube_comment_insights.xlsx",
     "generated_from": "11 січня 2026 - 24 травня 2026",
     "last_refresh": {
-      "label": "25 травня 2026",
-      "new_videos_count": 1,
-      "new_top_level_comments_count": 16,
-      "new_replies_count": 3
+      "label": "28 травня 2026",
+      "new_videos_count": 0,
+      "new_top_level_comments_count": 1,
+      "new_replies_count": 0
     }
   },
   "hero": {
@@ -29,7 +29,7 @@
   "stats": [
     {
       "label": "Top-level коментарів в аналізі",
-      "value": 1020,
+      "value": 1021,
       "hint": "Релевантні коментарі верхнього рівня після фільтра коротких реакцій, спаму і нерелевантних записів."
     },
     {
@@ -40,7 +40,7 @@
     {
       "label": "Відповідей у гілках",
       "value": 548,
-      "hint": "Replies під top-level коментарями. Це окремий шар дискусії й він не входить у 1020 top-level коментарів."
+      "hint": "Replies під top-level коментарями. Це окремий шар дискусії й він не входить у 1021 top-level коментарів."
     },
     {
       "label": "Головний попит",
@@ -4427,7 +4427,7 @@
     },
     {
       "label": "Порівняння інструментів",
-      "count": 53
+      "count": 54
     },
     {
       "label": "Практична користь",
@@ -4445,7 +4445,7 @@
     },
     {
       "label": "Глибші порівняння інструментів",
-      "count": 74
+      "count": 75
     },
     {
       "label": "Реальні workflow-демо",
@@ -4466,23 +4466,23 @@
       "url": "https://www.youtube.com/watch?v=7wmJTCogL60",
       "published_at": "15 квітня 2026",
       "comment_count": 87,
-      "view_count": 13700,
-      "like_count": 1014
+      "view_count": 13743,
+      "like_count": 1018
     },
     {
       "title": "ВІДКРИТТЯ РОКУ! AI-агент, що ЗМІНИТЬ все",
       "url": "https://www.youtube.com/watch?v=PCaMCZ9FiNQ",
       "published_at": "30 січня 2026",
       "comment_count": 77,
-      "view_count": 28497,
-      "like_count": 1473
+      "view_count": 28519,
+      "like_count": 1475
     },
     {
       "title": "Чому я більше не використовую ChatGPT? Показую свого AI-агента!",
       "url": "https://www.youtube.com/watch?v=HnciJGQXELU",
       "published_at": "27 лютого 2026",
       "comment_count": 55,
-      "view_count": 15327,
+      "view_count": 15341,
       "like_count": 935
     },
     {
@@ -4490,15 +4490,15 @@
       "url": "https://www.youtube.com/watch?v=29ey6quFIyA",
       "published_at": "4 лютого 2026",
       "comment_count": 54,
-      "view_count": 22443,
-      "like_count": 1048
+      "view_count": 22494,
+      "like_count": 1049
     },
     {
       "title": "НОВИНИ AI: Готові взяти AI-КОЛЕГУ на роботу? OpenAI, Anthropic та Nvidia здивували!",
       "url": "https://www.youtube.com/watch?v=INXY8x_cy-s",
       "published_at": "22 березня 2026",
       "comment_count": 50,
-      "view_count": 16335,
+      "view_count": 16350,
       "like_count": 931
     },
     {
@@ -4506,15 +4506,15 @@
       "url": "https://www.youtube.com/watch?v=svS762o1sl4",
       "published_at": "22 квітня 2026",
       "comment_count": 47,
-      "view_count": 25707,
-      "like_count": 1153
+      "view_count": 25968,
+      "like_count": 1161
     },
     {
       "title": "НОВИНИ AI: Nano Banana 2 вже тут! Claude ОБВАЛИВ акції IBM!",
       "url": "https://www.youtube.com/watch?v=lqZQs0jc4_I",
       "published_at": "1 березня 2026",
       "comment_count": 42,
-      "view_count": 17503,
+      "view_count": 17506,
       "like_count": 821
     },
     {
@@ -4522,15 +4522,15 @@
       "url": "https://www.youtube.com/watch?v=KCKYbIltNwc",
       "published_at": "12 квітня 2026",
       "comment_count": 40,
-      "view_count": 17210,
-      "like_count": 925
+      "view_count": 17241,
+      "like_count": 926
     },
     {
       "title": "Цей AI змінить вашу роботу у 2026! Показую 4 реальні приклади",
       "url": "https://www.youtube.com/watch?v=oNOYavt7gRY",
       "published_at": "13 лютого 2026",
       "comment_count": 39,
-      "view_count": 15392,
+      "view_count": 15418,
       "like_count": 829
     },
     {
@@ -4538,15 +4538,15 @@
       "url": "https://www.youtube.com/watch?v=tbnL0SY9GqU",
       "published_at": "10 травня 2026",
       "comment_count": 36,
-      "view_count": 14612,
-      "like_count": 759
+      "view_count": 14666,
+      "like_count": 763
     },
     {
       "title": "НОВИНИ AI: OpenAI ЗАКРИЛИ Sora. Причина вас здивує",
       "url": "https://www.youtube.com/watch?v=1bsD69T-k3U",
       "published_at": "29 березня 2026",
       "comment_count": 36,
-      "view_count": 13210,
+      "view_count": 13214,
       "like_count": 757
     },
     {
@@ -4554,7 +4554,7 @@
       "url": "https://www.youtube.com/watch?v=yS7m7ofRr3I",
       "published_at": "26 квітня 2026",
       "comment_count": 34,
-      "view_count": 31959,
+      "view_count": 32003,
       "like_count": 1254
     },
     {
@@ -4562,31 +4562,31 @@
       "url": "https://www.youtube.com/watch?v=XZQBlTaxLKY",
       "published_at": "3 травня 2026",
       "comment_count": 33,
-      "view_count": 15811,
-      "like_count": 896
+      "view_count": 15860,
+      "like_count": 899
     },
     {
       "title": "НОВИНИ AI: ПРОРИВ! Модель тижня, яку всі так чекали!",
       "url": "https://www.youtube.com/watch?v=9bJmUc6N_mY",
       "published_at": "8 березня 2026",
       "comment_count": 33,
-      "view_count": 13613,
-      "like_count": 740
+      "view_count": 13617,
+      "like_count": 741
     },
     {
       "title": "Чому я більше не вибираю між OpenClaw, Claude Code і Codex — запускаю всіх трьох!",
       "url": "https://www.youtube.com/watch?v=dAtC96i2v5M",
       "published_at": "24 квітня 2026",
       "comment_count": 32,
-      "view_count": 9036,
-      "like_count": 437
+      "view_count": 9109,
+      "like_count": 440
     },
     {
       "title": "НОВИНИ AI: У ANTHROPIC більше не пишуть код, Google здешевлює AI, а Україна назвала власну LLM",
       "url": "https://www.youtube.com/watch?v=NAlp_i13_4Y",
       "published_at": "5 квітня 2026",
       "comment_count": 32,
-      "view_count": 16817,
+      "view_count": 16854,
       "like_count": 908
     },
     {
@@ -4594,15 +4594,15 @@
       "url": "https://www.youtube.com/watch?v=rvaSzhpfHNY",
       "published_at": "17 травня 2026",
       "comment_count": 31,
-      "view_count": 13724,
-      "like_count": 672
+      "view_count": 13921,
+      "like_count": 675
     },
     {
       "title": "OpenClaw vs Cowork - ×10 чи маркетинг? | OpenAI посилив науку | xAI знову провокує",
       "url": "https://www.youtube.com/watch?v=NByF6cn3qsY",
       "published_at": "1 лютого 2026",
       "comment_count": 30,
-      "view_count": 8893,
+      "view_count": 8897,
       "like_count": 618
     },
     {
@@ -4618,7 +4618,7 @@
       "url": "https://www.youtube.com/watch?v=-zjxZopn1RY",
       "published_at": "27 березня 2026",
       "comment_count": 29,
-      "view_count": 10541,
+      "view_count": 10555,
       "like_count": 593
     },
     {
@@ -4626,7 +4626,7 @@
       "url": "https://www.youtube.com/watch?v=HWA8VKNChcY",
       "published_at": "8 лютого 2026",
       "comment_count": 25,
-      "view_count": 12621,
+      "view_count": 12623,
       "like_count": 696
     },
     {
@@ -4634,7 +4634,7 @@
       "url": "https://www.youtube.com/watch?v=PwxId9BVmRs",
       "published_at": "22 лютого 2026",
       "comment_count": 24,
-      "view_count": 9282,
+      "view_count": 9285,
       "like_count": 595
     },
     {
@@ -4642,7 +4642,7 @@
       "url": "https://www.youtube.com/watch?v=62kHNFYzXbE",
       "published_at": "18 січня 2026",
       "comment_count": 24,
-      "view_count": 10442,
+      "view_count": 10443,
       "like_count": 703
     },
     {
@@ -4650,7 +4650,7 @@
       "url": "https://www.youtube.com/watch?v=eJuPpLcReuU",
       "published_at": "15 лютого 2026",
       "comment_count": 23,
-      "view_count": 8587,
+      "view_count": 8593,
       "like_count": 542
     },
     {
@@ -4658,8 +4658,8 @@
       "url": "https://www.youtube.com/watch?v=mkP9rdpMUWw",
       "published_at": "19 квітня 2026",
       "comment_count": 22,
-      "view_count": 13588,
-      "like_count": 747
+      "view_count": 13610,
+      "like_count": 749
     },
     {
       "title": "НОВИНИ AI: ChatGPT режим здоров’я | Агенти 2026 | Тренди року",
@@ -4674,19 +4674,28 @@
       "url": "https://www.youtube.com/watch?v=ho0MqfrbY6w",
       "published_at": "15 березня 2026",
       "comment_count": 20,
-      "view_count": 10561,
+      "view_count": 10571,
       "like_count": 664
     },
     {
       "title": "НОВИНИ AI: Дали всім AI по 20$ і мікрофон — ось що сталось",
       "url": "https://www.youtube.com/watch?v=jedytILhH70",
       "published_at": "24 травня 2026",
-      "comment_count": 13,
-      "view_count": 6084,
-      "like_count": 360
+      "comment_count": 14,
+      "view_count": 10034,
+      "like_count": 501
     }
   ],
   "recent_comments": [
+    {
+      "author": "@TennisGo-e4q",
+      "text": "Боже, чулувіче, ви в танку чи шо, юзаю антигравіті вже 3 місяці, все шо у відео для вас новинка вже давно було у ньому, про квоти взагалі мимо, Гугл розділив антигравіті на 4 типи, чат, сдк, апі і іде, як би трохи цікавилися гуглом то вони зараз і після виходу 3.5 про, та і вже нагібають клода по тарифах і квотах, хватить дрочити на антропік, противно слухати даже, перш ніж відео робити готуйтесь краще до матеріалу, а то  відчуття шо ваш Клод згенерував інформацію і ви вибачте висрали те шо він написав) без негативу.",
+      "published_at": "26 травня 2026",
+      "video_title": "НОВИНИ AI: Дали всім AI по 20$ і мікрофон — ось що сталось",
+      "video_url": "https://www.youtube.com/watch?v=jedytILhH70",
+      "comment_url": "https://www.youtube.com/watch?v=jedytILhH70&lc=UgyBlA69Gq2JPeTJ_q94AaABAg",
+      "like_count": 0
+    },
     {
       "author": "@ЄвгенійПе",
       "text": "Ігоре, думаю було б корисно сказати про те що Google Antigravity розділив свій продукт на 2 частини і якщо ви хочете повернутись до старого інтерфейсу - треба скачати Antigravity IDE (окрему програму) на їх сайті у розділі Download. Єдине - необхідно відновити всі свої налаштування заново.",
@@ -4731,18 +4740,20 @@
       "video_url": "https://www.youtube.com/watch?v=jedytILhH70",
       "comment_url": "https://www.youtube.com/watch?v=jedytILhH70&lc=Ugy_EChviiK3Kt_os2J4AaABAg",
       "like_count": 1
-    },
-    {
-      "author": "@andrewyt5793",
-      "text": "Дякуємо за огляд!",
-      "published_at": "24 травня 2026",
-      "video_title": "НОВИНИ AI: Дали всім AI по 20$ і мікрофон — ось що сталось",
-      "video_url": "https://www.youtube.com/watch?v=jedytILhH70",
-      "comment_url": "https://www.youtube.com/watch?v=jedytILhH70&lc=UgzfkpoVPG1TVJCxBIh4AaABAg",
-      "like_count": 1
     }
   ],
   "quotes": [
+    {
+      "author": "@TennisGo-e4q",
+      "text": "Боже, чулувіче, ви в танку чи шо, юзаю антигравіті вже 3 місяці, все шо у відео для вас новинка вже давно було у ньому, про квоти взагалі мимо, Гугл розділив антигравіті на 4 типи, чат, сдк, апі і іде, як би трохи цікавилися гуглом то вони зараз і після виходу 3.5 про, та і вже нагібають клода по тарифах і квотах, хватить дрочити на антропік, противно слухати даже, перш ніж відео робити готуйтесь краще до матеріалу, а то  відчуття шо ваш Клод згенерував інформацію і ви вибачте висрали те шо він написав) без негативу.",
+      "video_title": "НОВИНИ AI: Дали всім AI по 20$ і мікрофон — ось що сталось",
+      "video_url": "https://www.youtube.com/watch?v=jedytILhH70",
+      "comment_url": "https://www.youtube.com/watch?v=jedytILhH70&lc=UgyBlA69Gq2JPeTJ_q94AaABAg",
+      "published_at": "26 травня 2026",
+      "themes": [
+        "Загальна реакція аудиторії"
+      ]
+    },
     {
       "author": "@ЄвгенійПе",
       "text": "Ігоре, думаю було б корисно сказати про те що Google Antigravity розділив свій продукт на 2 частини і якщо ви хочете повернутись до старого інтерфейсу - треба скачати Antigravity IDE (окрему програму) на їх сайті у розділі Download. Єдине - необхідно відновити всі свої налаштування заново.",
@@ -4771,17 +4782,6 @@
       "video_title": "НОВИНИ AI: Дали всім AI по 20$ і мікрофон — ось що сталось",
       "video_url": "https://www.youtube.com/watch?v=jedytILhH70",
       "comment_url": "https://www.youtube.com/watch?v=jedytILhH70&lc=UgzGFWUoRp4OUFYv06R4AaABAg",
-      "published_at": "24 травня 2026",
-      "themes": [
-        "Загальна реакція аудиторії"
-      ]
-    },
-    {
-      "author": "@dmytrovyshnevski546",
-      "text": "Виживуть тільки сайти 18+ , бо в гугла на це цензура 😂",
-      "video_title": "НОВИНИ AI: Дали всім AI по 20$ і мікрофон — ось що сталось",
-      "video_url": "https://www.youtube.com/watch?v=jedytILhH70",
-      "comment_url": "https://www.youtube.com/watch?v=jedytILhH70&lc=Ugy_EChviiK3Kt_os2J4AaABAg",
       "published_at": "24 травня 2026",
       "themes": [
         "Загальна реакція аудиторії"
@@ -4818,12 +4818,12 @@
     },
     {
       "cluster": "Порівняння інструментів",
-      "count": 53,
-      "question": "AI Шапка працює краще якщо ви лисий",
+      "count": 54,
+      "question": "Боже, чулувіче, ви в танку чи шо, юзаю антигравіті вже 3 місяці, все шо у відео для вас новинка вже давно було у ньому, про квоти взагалі мимо, Гугл розділив антигравіті на 4 типи, чат, сдк, апі і іде, як би трохи цікавилися гуглом то вони зараз і після виходу 3.5 про, та і вже нагібають клода по тарифах і квотах, хватить дрочити на антропік, противно слухати даже, перш ніж відео робити готуйтесь краще до матеріалу, а то  відчуття шо ваш Клод згенерував інформацію і ви вибачте висрали те шо він написав) без негативу.",
       "suggested_response": "Зробити порівняльний breakdown з правилами: коли брати Codex, Claude Code або OpenClaw.",
-      "comment_url": "https://www.youtube.com/watch?v=XZQBlTaxLKY&lc=UgzCYnGv7KSK8waWjel4AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=XZQBlTaxLKY",
-      "video_title": "НОВИНИ AI: Китай знову насипав миску рису і обігнав всіх!"
+      "comment_url": "https://www.youtube.com/watch?v=jedytILhH70&lc=UgyBlA69Gq2JPeTJ_q94AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=jedytILhH70",
+      "video_title": "НОВИНИ AI: Дали всім AI по 20$ і мікрофон — ось що сталось"
     },
     {
       "cluster": "Практична користь",
@@ -4847,7 +4847,7 @@
       "title": "Codex vs Claude Code vs OpenClaw: дерево вибору для реальної роботи",
       "format": "Порівняння + живе демо",
       "why_now": "Аудиторії потрібне не ще одне wow-відео, а чіткі правила вибору інструмента під задачу.",
-      "evidence_count": 200,
+      "evidence_count": 201,
       "related_brands": "Codex, Claude Code, OpenClaw"
     },
     {
@@ -4861,16 +4861,11 @@
       "title": "Як інтегрувати рекламу й не втрачати довіру аудиторії",
       "format": "Мета-епізод / стратегія каналу",
       "why_now": "Є відчутний запит на кращий баланс між інтеграцією та чистою користю відео.",
-      "evidence_count": 183,
+      "evidence_count": 184,
       "related_brands": "Hostinger"
     }
   ],
   "activity": [
-    {
-      "date": "2026-05-13",
-      "label": "13 травня 2026",
-      "count": 2
-    },
     {
       "date": "2026-05-14",
       "label": "14 травня 2026",
@@ -4914,6 +4909,11 @@
     {
       "date": "2026-05-25",
       "label": "25 травня 2026",
+      "count": 1
+    },
+    {
+      "date": "2026-05-26",
+      "label": "26 травня 2026",
       "count": 1
     }
   ],
