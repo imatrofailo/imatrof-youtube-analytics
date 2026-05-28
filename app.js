@@ -452,33 +452,74 @@ function renderThemeMap(themes, defaultSummary) {
 
 function renderProjectFlow(data) {
   const flowRoot = document.getElementById("project-flow");
-  const summaryRoot = document.getElementById("project-summary");
+  const deployRoot = document.getElementById("project-deploy");
+  const previewRoot = document.getElementById("project-preview");
+  const outcomesRoot = document.getElementById("project-outcomes");
 
   flowRoot.append(
     ...data.project_flow.map((item, index) => {
       const card = el("article", "project-card");
+      const number = el("span", "project-index", String(index + 1));
+      const body = el("div", "project-card-body");
       card.append(
-        el("span", "project-index", String(index + 1).padStart(2, "0")),
-        el("h4", "project-title", item.title),
-        el("p", "project-copy", item.text)
+        number,
+        body
       );
+      body.append(el("h4", "project-title", item.title), el("p", "project-copy", item.text));
       return card;
     })
   );
 
-  summaryRoot.append(
-    el("p", "project-summary-text", data.project_summary),
+  const deployMeta = el("div", "project-meta");
+  ["YouTube API", "Автоматизація Codex", "GitHub", "Hostinger", "imatrof.tech"].forEach((label) => {
+    deployMeta.append(el("span", "project-meta-pill", label));
+  });
+  deployRoot.append(el("p", "project-summary-text", data.project_summary), deployMeta);
+
+  previewRoot.append(
+    el("span", "project-preview-kicker", data.project_preview.eyebrow),
+    el("h4", "project-preview-title", data.project_preview.title),
+    el("p", "project-preview-copy", data.project_preview.text),
     (() => {
-      const meta = el("div", "project-meta");
-      meta.append(
-        el("span", "project-meta-pill", "YouTube API"),
-        el("span", "project-meta-pill", "Автоматизація Codex"),
-        el("span", "project-meta-pill", "GitHub"),
-        el("span", "project-meta-pill", "Hostinger"),
-        el("span", "project-meta-pill", "imatrof.tech")
-      );
-      return meta;
+      const filePill = el("div", "project-file-pill");
+      filePill.append(el("span", "project-file-dot"), el("span", "", data.project_preview.file_label));
+      return filePill;
+    })(),
+    (() => {
+      const tableWrap = el("div", "project-table-wrap");
+      const table = el("table", "project-table");
+      const thead = document.createElement("thead");
+      const headRow = document.createElement("tr");
+      data.project_preview.columns.forEach((column) => {
+        headRow.append(el("th", "", column));
+      });
+      thead.append(headRow);
+      const tbody = document.createElement("tbody");
+      data.project_preview.rows.forEach((row) => {
+        const tableRow = document.createElement("tr");
+        row.forEach((value) => {
+          tableRow.append(el("td", "", value));
+        });
+        tbody.append(tableRow);
+      });
+      table.append(thead, tbody);
+      tableWrap.append(table);
+      return tableWrap;
     })()
+  );
+
+  outcomesRoot.append(
+    el("h4", "project-outcomes-title", data.project_outcomes.title),
+    (() => {
+      const list = el("ul", "project-outcomes-list");
+      data.project_outcomes.items.forEach((item) => {
+        const listItem = el("li", "project-outcome-item");
+        listItem.append(el("span", "project-outcome-check", "✓"), el("span", "", item));
+        list.append(listItem);
+      });
+      return list;
+    })(),
+    el("p", "project-outcomes-note", data.project_outcomes.note)
   );
 }
 
