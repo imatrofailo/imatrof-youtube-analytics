@@ -6,10 +6,10 @@
     "report_url": "../outputs/YouTube_comment_insights.xlsx",
     "generated_from": "11 січня 2026 - 31 травня 2026",
     "last_refresh": {
-      "label": "31 травня 2026",
-      "new_videos_count": 2,
-      "new_top_level_comments_count": 49,
-      "new_replies_count": 14
+      "label": "1 червня 2026",
+      "new_videos_count": 0,
+      "new_top_level_comments_count": 12,
+      "new_replies_count": 1
     }
   },
   "hero": {
@@ -29,7 +29,7 @@
   "stats": [
     {
       "label": "Top-level коментарів в аналізі",
-      "value": 1064,
+      "value": 1073,
       "hint": "Релевантні коментарі верхнього рівня після фільтра коротких реакцій, спаму і нерелевантних записів."
     },
     {
@@ -39,8 +39,8 @@
     },
     {
       "label": "Відповідей у гілках",
-      "value": 562,
-      "hint": "Replies під top-level коментарями. Це окремий шар дискусії й він не входить у 1064 top-level коментарів."
+      "value": 563,
+      "hint": "Replies під top-level коментарями. Це окремий шар дискусії й він не входить у 1073 top-level коментарів."
     },
     {
       "label": "Головний попит",
@@ -63,8 +63,8 @@
       "title": "Аудиторія приходить по відбірці головного: новини про ШІ економлять їй час на самостійний пошук.",
       "details": "Тема новин про ШІ та кураторства має 27 згадок, а люди прямо пишуть, що канал допомагає відслідковувати ринок без зайвого шуму.",
       "priority": "Високий",
-      "evidence": "Дякую за новини! Дуже цікаво !",
-      "evidence_url": "https://www.youtube.com/watch?v=Cp5j_mHqcPY&lc=Ugyd1YStrVyK09_wR0t4AaABAg",
+      "evidence": "Дякую за топовий контент",
+      "evidence_url": "https://www.youtube.com/watch?v=Cp5j_mHqcPY&lc=UgwXFNFX0L5vp26eAPZ4AaABAg",
       "video_url": "https://www.youtube.com/watch?v=Cp5j_mHqcPY",
       "video_title": "НОВИНИ AI: Папа Римський благословив штучний інтелект!"
     },
@@ -81,10 +81,10 @@
       "title": "Люди хочуть не лише анонси, а й чесну перевірку реальністю: де ШІ вже працює, а де ще ламається.",
       "details": "Тема практичного застосування має 15 згадок, а питання про реальну користь з'являються 10 разів.",
       "priority": "Високий",
-      "evidence": "Усі ваші відео дивлюсь, а це просто вогінь! Останні місяці дуже хотів зробити крок вперед і почати працювати з Codex. Ваше відео надихнуло. Почав вивчати, буду робити і рухати автоматизації в бізнесі, з допомогою Codex і з Вашою також:)",
-      "evidence_url": "https://www.youtube.com/watch?v=M4KpsaveKpM&lc=UgwJwMSA5_Flv46X2sh4AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=M4KpsaveKpM",
-      "video_title": "Codex агент від OpenAI. Повний гайд"
+      "evidence": "чувак, а ты реально кодер?",
+      "evidence_url": "https://www.youtube.com/watch?v=Cp5j_mHqcPY&lc=Ugwv2e6-piXR3stIKqJ4AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=Cp5j_mHqcPY",
+      "video_title": "НОВИНИ AI: Папа Римський благословив штучний інтелект!"
     },
     {
       "title": "Навколо безпеки, доступів і локального запуску ШІ-агентів є помітна напруга.",
@@ -3199,9 +3199,25 @@
     },
     {
       "label": "Новини про ШІ та кураторство",
-      "count": 86,
+      "count": 88,
       "delta": 0,
       "samples": [
+        {
+          "author": "@yurzb",
+          "text": "Дякую за топовий контент",
+          "video_title": "НОВИНИ AI: Папа Римський благословив штучний інтелект!",
+          "video_url": "https://www.youtube.com/watch?v=Cp5j_mHqcPY",
+          "comment_url": "https://www.youtube.com/watch?v=Cp5j_mHqcPY&lc=UgwXFNFX0L5vp26eAPZ4AaABAg",
+          "published_at": "31 травня 2026"
+        },
+        {
+          "author": "@joymusicstudio1",
+          "text": "Лайк для розвитку канала.",
+          "video_title": "Codex агент від OpenAI. Повний гайд",
+          "video_url": "https://www.youtube.com/watch?v=M4KpsaveKpM",
+          "comment_url": "https://www.youtube.com/watch?v=M4KpsaveKpM&lc=UgxUiWvuUI5kBynhfHZ4AaABAg",
+          "published_at": "31 травня 2026"
+        },
         {
           "author": "@deniskot2721",
           "text": "Дякую за новини! Дуже цікаво !",
@@ -3894,9 +3910,17 @@
     },
     {
       "label": "Практичне застосування та віддача",
-      "count": 72,
+      "count": 73,
       "delta": 0,
       "samples": [
+        {
+          "author": "@Oleg-z3i",
+          "text": "чувак, а ты реально кодер?",
+          "video_title": "НОВИНИ AI: Папа Римський благословив штучний інтелект!",
+          "video_url": "https://www.youtube.com/watch?v=Cp5j_mHqcPY",
+          "comment_url": "https://www.youtube.com/watch?v=Cp5j_mHqcPY&lc=Ugwv2e6-piXR3stIKqJ4AaABAg",
+          "published_at": "31 травня 2026"
+        },
         {
           "author": "@kulpach",
           "text": "Усі ваші відео дивлюсь, а це просто вогінь! Останні місяці дуже хотів зробити крок вперед і почати працювати з Codex. Ваше відео надихнуло. Почав вивчати, буду робити і рухати автоматизації в бізнесі, з допомогою Codex і з Вашою також:)",
@@ -4479,7 +4503,7 @@
   "question_distribution": [
     {
       "label": "Загальні реакції",
-      "count": 269
+      "count": 271
     },
     {
       "label": "Ліміти моделей і якість",
@@ -4495,7 +4519,7 @@
     },
     {
       "label": "Практична користь",
-      "count": 47
+      "count": 48
     },
     {
       "label": "Фідбек по подачі",
@@ -4513,7 +4537,7 @@
     },
     {
       "label": "Реальні workflow-демо",
-      "count": 61
+      "count": 62
     },
     {
       "label": "Глибші розбори AI-дизайну",
@@ -4530,31 +4554,31 @@
       "url": "https://www.youtube.com/watch?v=7wmJTCogL60",
       "published_at": "15 квітня 2026",
       "comment_count": 87,
-      "view_count": 13766,
-      "like_count": 1021
+      "view_count": 13775,
+      "like_count": 1022
     },
     {
       "title": "ВІДКРИТТЯ РОКУ! AI-агент, що ЗМІНИТЬ все",
       "url": "https://www.youtube.com/watch?v=PCaMCZ9FiNQ",
       "published_at": "30 січня 2026",
       "comment_count": 77,
-      "view_count": 28554,
-      "like_count": 1476
+      "view_count": 28560,
+      "like_count": 1477
     },
     {
       "title": "Чому я більше не використовую ChatGPT? Показую свого AI-агента!",
       "url": "https://www.youtube.com/watch?v=HnciJGQXELU",
       "published_at": "27 лютого 2026",
       "comment_count": 55,
-      "view_count": 15353,
-      "like_count": 936
+      "view_count": 15357,
+      "like_count": 937
     },
     {
       "title": "OpenClaw у дії: Як зібрати персонального ШІ агента (покрокова інструкція)",
       "url": "https://www.youtube.com/watch?v=29ey6quFIyA",
       "published_at": "4 лютого 2026",
       "comment_count": 54,
-      "view_count": 22551,
+      "view_count": 22564,
       "like_count": 1054
     },
     {
@@ -4562,7 +4586,7 @@
       "url": "https://www.youtube.com/watch?v=INXY8x_cy-s",
       "published_at": "22 березня 2026",
       "comment_count": 50,
-      "view_count": 16360,
+      "view_count": 16363,
       "like_count": 931
     },
     {
@@ -4570,7 +4594,7 @@
       "url": "https://www.youtube.com/watch?v=svS762o1sl4",
       "published_at": "22 квітня 2026",
       "comment_count": 47,
-      "view_count": 26149,
+      "view_count": 26185,
       "like_count": 1168
     },
     {
@@ -4578,7 +4602,7 @@
       "url": "https://www.youtube.com/watch?v=lqZQs0jc4_I",
       "published_at": "1 березня 2026",
       "comment_count": 42,
-      "view_count": 17508,
+      "view_count": 17509,
       "like_count": 821
     },
     {
@@ -4586,7 +4610,7 @@
       "url": "https://www.youtube.com/watch?v=KCKYbIltNwc",
       "published_at": "12 квітня 2026",
       "comment_count": 40,
-      "view_count": 17268,
+      "view_count": 17272,
       "like_count": 926
     },
     {
@@ -4602,7 +4626,7 @@
       "url": "https://www.youtube.com/watch?v=tbnL0SY9GqU",
       "published_at": "10 травня 2026",
       "comment_count": 36,
-      "view_count": 14722,
+      "view_count": 14729,
       "like_count": 763
     },
     {
@@ -4614,11 +4638,19 @@
       "like_count": 757
     },
     {
+      "title": "Codex агент від OpenAI. Повний гайд",
+      "url": "https://www.youtube.com/watch?v=M4KpsaveKpM",
+      "published_at": "29 травня 2026",
+      "comment_count": 34,
+      "view_count": 7386,
+      "like_count": 412
+    },
+    {
       "title": "НОВИНИ AI: GPT-5.5 — модель тижня, яку всі так чекали!",
       "url": "https://www.youtube.com/watch?v=yS7m7ofRr3I",
       "published_at": "26 квітня 2026",
       "comment_count": 34,
-      "view_count": 32030,
+      "view_count": 32033,
       "like_count": 1254
     },
     {
@@ -4626,7 +4658,7 @@
       "url": "https://www.youtube.com/watch?v=XZQBlTaxLKY",
       "published_at": "3 травня 2026",
       "comment_count": 33,
-      "view_count": 15917,
+      "view_count": 15930,
       "like_count": 901
     },
     {
@@ -4634,7 +4666,7 @@
       "url": "https://www.youtube.com/watch?v=9bJmUc6N_mY",
       "published_at": "8 березня 2026",
       "comment_count": 33,
-      "view_count": 13618,
+      "view_count": 13619,
       "like_count": 741
     },
     {
@@ -4642,15 +4674,15 @@
       "url": "https://www.youtube.com/watch?v=dAtC96i2v5M",
       "published_at": "24 квітня 2026",
       "comment_count": 32,
-      "view_count": 9177,
-      "like_count": 442
+      "view_count": 9199,
+      "like_count": 443
     },
     {
       "title": "НОВИНИ AI: У ANTHROPIC більше не пишуть код, Google здешевлює AI, а Україна назвала власну LLM",
       "url": "https://www.youtube.com/watch?v=NAlp_i13_4Y",
       "published_at": "5 квітня 2026",
       "comment_count": 32,
-      "view_count": 16894,
+      "view_count": 16921,
       "like_count": 908
     },
     {
@@ -4658,8 +4690,8 @@
       "url": "https://www.youtube.com/watch?v=rvaSzhpfHNY",
       "published_at": "17 травня 2026",
       "comment_count": 31,
-      "view_count": 14055,
-      "like_count": 678
+      "view_count": 14083,
+      "like_count": 680
     },
     {
       "title": "OpenClaw vs Cowork - ×10 чи маркетинг? | OpenAI посилив науку | xAI знову провокує",
@@ -4667,7 +4699,7 @@
       "published_at": "1 лютого 2026",
       "comment_count": 30,
       "view_count": 8904,
-      "like_count": 618
+      "like_count": 617
     },
     {
       "title": "НОВИНИ AI: Яким буде AI через рік? | Anthropic, OpenAI, NVIDIA",
@@ -4678,19 +4710,11 @@
       "like_count": 515
     },
     {
-      "title": "Codex агент від OpenAI. Повний гайд",
-      "url": "https://www.youtube.com/watch?v=M4KpsaveKpM",
-      "published_at": "29 травня 2026",
-      "comment_count": 29,
-      "view_count": 6730,
-      "like_count": 380
-    },
-    {
       "title": "Чому я більше не відкриваю ноутбук? CLAUDE CODE з телефону!",
       "url": "https://www.youtube.com/watch?v=-zjxZopn1RY",
       "published_at": "27 березня 2026",
       "comment_count": 29,
-      "view_count": 10574,
+      "view_count": 10582,
       "like_count": 593
     },
     {
@@ -4706,7 +4730,7 @@
       "url": "https://www.youtube.com/watch?v=PwxId9BVmRs",
       "published_at": "22 лютого 2026",
       "comment_count": 24,
-      "view_count": 9286,
+      "view_count": 9287,
       "like_count": 596
     },
     {
@@ -4722,7 +4746,7 @@
       "url": "https://www.youtube.com/watch?v=eJuPpLcReuU",
       "published_at": "15 лютого 2026",
       "comment_count": 23,
-      "view_count": 8594,
+      "view_count": 8595,
       "like_count": 543
     },
     {
@@ -4730,7 +4754,7 @@
       "url": "https://www.youtube.com/watch?v=mkP9rdpMUWw",
       "published_at": "19 квітня 2026",
       "comment_count": 22,
-      "view_count": 13622,
+      "view_count": 13625,
       "like_count": 749
     },
     {
@@ -4746,139 +4770,137 @@
       "url": "https://www.youtube.com/watch?v=ho0MqfrbY6w",
       "published_at": "15 березня 2026",
       "comment_count": 20,
-      "view_count": 10582,
+      "view_count": 10585,
       "like_count": 664
+    },
+    {
+      "title": "НОВИНИ AI: Папа Римський благословив штучний інтелект!",
+      "url": "https://www.youtube.com/watch?v=Cp5j_mHqcPY",
+      "published_at": "31 травня 2026",
+      "comment_count": 17,
+      "view_count": 4130,
+      "like_count": 317
     },
     {
       "title": "НОВИНИ AI: Дали всім AI по 20$ і мікрофон — ось що сталось",
       "url": "https://www.youtube.com/watch?v=jedytILhH70",
       "published_at": "24 травня 2026",
       "comment_count": 15,
-      "view_count": 10605,
-      "like_count": 521
-    },
-    {
-      "title": "НОВИНИ AI: Папа Римський благословив штучний інтелект!",
-      "url": "https://www.youtube.com/watch?v=Cp5j_mHqcPY",
-      "published_at": "31 травня 2026",
-      "comment_count": 13,
-      "view_count": 2647,
-      "like_count": 272
+      "view_count": 10630,
+      "like_count": 523
     }
   ],
   "recent_comments": [
     {
-      "author": "@romanbolgar",
-      "text": "24:26  - А можно как-то добавить свою бесплатную модель по API ключу? В прошлой версии было можно. Я делал это через батник. Мне настроила другая нейросеть. Причём бесплатно и без лимитов. Правда, модель оказалась не шибко умная.Правда",
-      "published_at": "31 травня 2026",
+      "author": "@oleksandrnovosyletskyi2805",
+      "text": "Format, +",
+      "published_at": "1 червня 2026",
       "video_title": "Codex агент від OpenAI. Повний гайд",
       "video_url": "https://www.youtube.com/watch?v=M4KpsaveKpM",
-      "comment_url": "https://www.youtube.com/watch?v=M4KpsaveKpM&lc=Ugw0xNdYVGjoRQfcoY14AaABAg",
+      "comment_url": "https://www.youtube.com/watch?v=M4KpsaveKpM&lc=Ugw19OeYKdcsQf0s39V4AaABAg",
       "like_count": 0
     },
     {
-      "author": "@andriyse",
-      "text": "Так, дійсно, підтримую рекомендації в кінці відео про контекст і вимоги. Сам помічав, що чим чіткіше все зазначу, ти менше треба буде додаткових уточнень, менше витрачених токенів. Менший рандом прийнятих рішеннях від ШІ. За умов хорошого промту навіть слабенька моделька може зробити щось нормальне.\nНу і звісно вислів про всілякі магічні курси теж підтримую))",
+      "author": "@mvbYT",
+      "text": "Гарна робота, дякую!",
+      "published_at": "31 травня 2026",
+      "video_title": "Codex агент від OpenAI. Повний гайд",
+      "video_url": "https://www.youtube.com/watch?v=M4KpsaveKpM",
+      "comment_url": "https://www.youtube.com/watch?v=M4KpsaveKpM&lc=UgwIK83euojPo4Ko9oZ4AaABAg",
+      "like_count": 0
+    },
+    {
+      "author": "@osadchyimaksym",
+      "text": "Топ випуск! 🙏🏻🙏🏻🙏🏻",
       "published_at": "31 травня 2026",
       "video_title": "НОВИНИ AI: Папа Римський благословив штучний інтелект!",
       "video_url": "https://www.youtube.com/watch?v=Cp5j_mHqcPY",
-      "comment_url": "https://www.youtube.com/watch?v=Cp5j_mHqcPY&lc=UgxHe3vMNltuve2gNIB4AaABAg",
+      "comment_url": "https://www.youtube.com/watch?v=Cp5j_mHqcPY&lc=Ugxc-aCZ4KsfyJHWPHd4AaABAg",
       "like_count": 0
     },
     {
-      "author": "@kulpach",
-      "text": "Усі ваші відео дивлюсь, а це просто вогінь! Останні місяці дуже хотів зробити крок вперед і почати працювати з Codex. Ваше відео надихнуло. Почав вивчати, буду робити і рухати автоматизації в бізнесі, з допомогою Codex і з Вашою також:)",
+      "author": "@imhogar",
+      "text": "капець, він жере ліміти мінімального плану. спробував навчити його заповнювати накладні Нової пошти... 6 заповнень 60% ліміта зжерло",
       "published_at": "31 травня 2026",
       "video_title": "Codex агент від OpenAI. Повний гайд",
       "video_url": "https://www.youtube.com/watch?v=M4KpsaveKpM",
-      "comment_url": "https://www.youtube.com/watch?v=M4KpsaveKpM&lc=UgwJwMSA5_Flv46X2sh4AaABAg",
+      "comment_url": "https://www.youtube.com/watch?v=M4KpsaveKpM&lc=Ugx5569CzW_rva5h9N14AaABAg",
       "like_count": 0
     },
     {
-      "author": "@ОлексійБойко-ц1д",
-      "text": "Класно, аж захотілося спробувати codex - бо щось залип на клодику)",
+      "author": "@kosignst",
+      "text": "Прикро що ніхто з основних гравців не робить аплікацій для Linux :(",
       "published_at": "31 травня 2026",
       "video_title": "Codex агент від OpenAI. Повний гайд",
       "video_url": "https://www.youtube.com/watch?v=M4KpsaveKpM",
-      "comment_url": "https://www.youtube.com/watch?v=M4KpsaveKpM&lc=Ugyy9sZp0zn0xc6rIbp4AaABAg",
+      "comment_url": "https://www.youtube.com/watch?v=M4KpsaveKpM&lc=UgwZiOxIuBZmJJ6H4UB4AaABAg",
       "like_count": 0
     },
     {
-      "author": "@mfol2374",
-      "text": "Так скоро і до Джарвіса дійдемо! )",
-      "published_at": "31 травня 2026",
-      "video_title": "Codex агент від OpenAI. Повний гайд",
-      "video_url": "https://www.youtube.com/watch?v=M4KpsaveKpM",
-      "comment_url": "https://www.youtube.com/watch?v=M4KpsaveKpM&lc=UgyvvvtrnlsyMUJsKfN4AaABAg",
-      "like_count": 0
-    },
-    {
-      "author": "@denisgeraschenko6992",
-      "text": "дякую, у вас завжди дуже цікаво🎉",
+      "author": "@yurzb",
+      "text": "Дякую за топовий контент",
       "published_at": "31 травня 2026",
       "video_title": "НОВИНИ AI: Папа Римський благословив штучний інтелект!",
       "video_url": "https://www.youtube.com/watch?v=Cp5j_mHqcPY",
-      "comment_url": "https://www.youtube.com/watch?v=Cp5j_mHqcPY&lc=UgzJuvPrLJZt-O4xz9J4AaABAg",
+      "comment_url": "https://www.youtube.com/watch?v=Cp5j_mHqcPY&lc=UgwXFNFX0L5vp26eAPZ4AaABAg",
       "like_count": 0
     }
   ],
   "quotes": [
     {
-      "author": "@romanbolgar",
-      "text": "24:26  - А можно как-то добавить свою бесплатную модель по API ключу? В прошлой версии было можно. Я делал это через батник. Мне настроила другая нейросеть. Причём бесплатно и без лимитов. Правда, модель оказалась не шибко умная.Правда",
+      "author": "@mvbYT",
+      "text": "Гарна робота, дякую!",
       "video_title": "Codex агент від OpenAI. Повний гайд",
       "video_url": "https://www.youtube.com/watch?v=M4KpsaveKpM",
-      "comment_url": "https://www.youtube.com/watch?v=M4KpsaveKpM&lc=Ugw0xNdYVGjoRQfcoY14AaABAg",
+      "comment_url": "https://www.youtube.com/watch?v=M4KpsaveKpM&lc=UgwIK83euojPo4Ko9oZ4AaABAg",
       "published_at": "31 травня 2026",
       "themes": [
-        "Можливості моделей і порівняння"
+        "Загальна реакція аудиторії"
       ]
     },
     {
-      "author": "@andriyse",
-      "text": "Так, дійсно, підтримую рекомендації в кінці відео про контекст і вимоги. Сам помічав, що чим чіткіше все зазначу, ти менше треба буде додаткових уточнень, менше витрачених токенів. Менший рандом прийнятих рішеннях від ШІ. За умов хорошого промту навіть слабенька моделька може зробити щось нормальне.\nНу і звісно вислів про всілякі магічні курси теж підтримую))",
+      "author": "@osadchyimaksym",
+      "text": "Топ випуск! 🙏🏻🙏🏻🙏🏻",
       "video_title": "НОВИНИ AI: Папа Римський благословив штучний інтелект!",
       "video_url": "https://www.youtube.com/watch?v=Cp5j_mHqcPY",
-      "comment_url": "https://www.youtube.com/watch?v=Cp5j_mHqcPY&lc=UgxHe3vMNltuve2gNIB4AaABAg",
+      "comment_url": "https://www.youtube.com/watch?v=Cp5j_mHqcPY&lc=Ugxc-aCZ4KsfyJHWPHd4AaABAg",
       "published_at": "31 травня 2026",
       "themes": [
-        "Можливості моделей і порівняння",
-        "Фідбек по контенту та інтеграціях"
+        "Загальна реакція аудиторії"
       ]
     },
     {
-      "author": "@kulpach",
-      "text": "Усі ваші відео дивлюсь, а це просто вогінь! Останні місяці дуже хотів зробити крок вперед і почати працювати з Codex. Ваше відео надихнуло. Почав вивчати, буду робити і рухати автоматизації в бізнесі, з допомогою Codex і з Вашою також:)",
+      "author": "@imhogar",
+      "text": "капець, він жере ліміти мінімального плану. спробував навчити його заповнювати накладні Нової пошти... 6 заповнень 60% ліміта зжерло",
       "video_title": "Codex агент від OpenAI. Повний гайд",
       "video_url": "https://www.youtube.com/watch?v=M4KpsaveKpM",
-      "comment_url": "https://www.youtube.com/watch?v=M4KpsaveKpM&lc=UgwJwMSA5_Flv46X2sh4AaABAg",
+      "comment_url": "https://www.youtube.com/watch?v=M4KpsaveKpM&lc=Ugx5569CzW_rva5h9N14AaABAg",
       "published_at": "31 травня 2026",
       "themes": [
-        "ШІ-агенти та робочі процеси розробки",
-        "Практичне застосування та віддача"
+        "Загальна реакція аудиторії"
       ]
     },
     {
-      "author": "@ОлексійБойко-ц1д",
-      "text": "Класно, аж захотілося спробувати codex - бо щось залип на клодику)",
+      "author": "@kosignst",
+      "text": "Прикро що ніхто з основних гравців не робить аплікацій для Linux :(",
       "video_title": "Codex агент від OpenAI. Повний гайд",
       "video_url": "https://www.youtube.com/watch?v=M4KpsaveKpM",
-      "comment_url": "https://www.youtube.com/watch?v=M4KpsaveKpM&lc=Ugyy9sZp0zn0xc6rIbp4AaABAg",
+      "comment_url": "https://www.youtube.com/watch?v=M4KpsaveKpM&lc=UgwZiOxIuBZmJJ6H4UB4AaABAg",
       "published_at": "31 травня 2026",
       "themes": [
-        "ШІ-агенти та робочі процеси розробки"
+        "ШІ-дизайн та генерація інтерфейсів"
       ]
     }
   ],
   "questions": [
     {
       "cluster": "Загальні реакції",
-      "count": 269,
-      "question": "Про скілджар від антропік раніше сказати не можна було?)",
+      "count": 271,
+      "question": "Прикро що ніхто з основних гравців не робить аплікацій для Linux :(",
       "suggested_response": "Відповісти коротко в Q&A або включити в розігрів наступного відео.",
-      "comment_url": "https://www.youtube.com/watch?v=Cp5j_mHqcPY&lc=UgxLooIDk4CXB5cxedx4AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=Cp5j_mHqcPY",
-      "video_title": "НОВИНИ AI: Папа Римський благословив штучний інтелект!"
+      "comment_url": "https://www.youtube.com/watch?v=M4KpsaveKpM&lc=UgwZiOxIuBZmJJ6H4UB4AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=M4KpsaveKpM",
+      "video_title": "Codex агент від OpenAI. Повний гайд"
     },
     {
       "cluster": "Ліміти моделей і якість",
@@ -4909,10 +4931,10 @@
     },
     {
       "cluster": "Практична користь",
-      "count": 47,
-      "question": "А чому не озвучили проблему, що ШІ може просто ігнорувати внесені правки в код і перезаписувати їх поверх старими варіантами. Особисто постійно стикаюсь, коли правки людини просто ігноруються, наче модель постійно працює з минулим архівом.",
+      "count": 48,
+      "question": "чувак, а ты реально кодер?",
       "suggested_response": "Дати 2-3 робочі кейси з результатом, вартістю помилки й фінальним ROI.",
-      "comment_url": "https://www.youtube.com/watch?v=Cp5j_mHqcPY&lc=Ugz870UzsHKP7-aKncB4AaABAg",
+      "comment_url": "https://www.youtube.com/watch?v=Cp5j_mHqcPY&lc=Ugwv2e6-piXR3stIKqJ4AaABAg",
       "video_url": "https://www.youtube.com/watch?v=Cp5j_mHqcPY",
       "video_title": "НОВИНИ AI: Папа Римський благословив штучний інтелект!"
     }
@@ -4936,7 +4958,7 @@
       "title": "Що досі ламається в GPT-5.5, Veo та генерації зображень",
       "format": "Лабораторія обмежень",
       "why_now": "Коментарі показують високий інтерес до меж інструментів, а не лише до анонсів.",
-      "evidence_count": 208,
+      "evidence_count": 209,
       "related_brands": "GPT-5.5, Veo, OpenAI"
     },
     {
@@ -4948,11 +4970,6 @@
     }
   ],
   "activity": [
-    {
-      "date": "2026-05-19",
-      "label": "19 травня 2026",
-      "count": 3
-    },
     {
       "date": "2026-05-22",
       "label": "22 травня 2026",
@@ -4996,7 +5013,12 @@
     {
       "date": "2026-05-31",
       "label": "31 травня 2026",
-      "count": 20
+      "count": 31
+    },
+    {
+      "date": "2026-06-01",
+      "label": "1 червня 2026",
+      "count": 1
     }
   ],
   "excel_preview": [
@@ -5022,8 +5044,8 @@
     },
     {
       "theme": "Новини про ШІ та кураторство",
-      "count": 86,
-      "intensity": 0.585
+      "count": 88,
+      "intensity": 0.599
     }
   ],
   "workflow": [
