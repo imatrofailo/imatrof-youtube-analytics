@@ -17,6 +17,30 @@ const MONTHS = {
 
 const THEME_COLORS = ["#8da15a", "#c87354", "#d2904b", "#7f9850", "#bf6f5b", "#d5984f"];
 
+const PROJECT_PREVIEW_FALLBACK = {
+  eyebrow: "Публічний payload",
+  title: "Що саме оновлюється на сайті",
+  text: "Після кожного refresh аналітичний шар збирає компактний JSON для frontend: метрики, теми, питання, цитати, відео й редакційні інсайти.",
+  file_label: "site-data.json",
+  columns: ["Шар", "Що містить"],
+  rows: [
+    ["meta", "діапазон, канал, дата оновлення"],
+    ["stats", "відео, top-level коментарі, replies"],
+    ["themes", "теми, запити, питання аудиторії"],
+    ["evidence", "цитати, коментарі й посилання на джерела"]
+  ]
+};
+
+const PROJECT_OUTCOMES_FALLBACK = {
+  title: "Навіщо це потрібно",
+  items: [
+    "Бачити, які теми справді зачепили аудиторію.",
+    "Швидко знаходити питання й запити для наступних відео.",
+    "Підтримувати публічний зріз без ручного копіювання даних."
+  ],
+  note: "Frontend читає тільки готовий payload, тому live-сторінка лишається швидкою й передбачуваною."
+};
+
 async function loadData() {
   return siteData;
 }
@@ -455,6 +479,8 @@ function renderProjectFlow(data) {
   const deployRoot = document.getElementById("project-deploy");
   const previewRoot = document.getElementById("project-preview");
   const outcomesRoot = document.getElementById("project-outcomes");
+  const projectPreview = data.project_preview || PROJECT_PREVIEW_FALLBACK;
+  const projectOutcomes = data.project_outcomes || PROJECT_OUTCOMES_FALLBACK;
 
   flowRoot.append(
     ...data.project_flow.map((item, index) => {
@@ -477,12 +503,12 @@ function renderProjectFlow(data) {
   deployRoot.append(el("p", "project-summary-text", data.project_summary), deployMeta);
 
   previewRoot.append(
-    el("span", "project-preview-kicker", data.project_preview.eyebrow),
-    el("h4", "project-preview-title", data.project_preview.title),
-    el("p", "project-preview-copy", data.project_preview.text),
+    el("span", "project-preview-kicker", projectPreview.eyebrow),
+    el("h4", "project-preview-title", projectPreview.title),
+    el("p", "project-preview-copy", projectPreview.text),
     (() => {
       const filePill = el("div", "project-file-pill");
-      filePill.append(el("span", "project-file-dot"), el("span", "", data.project_preview.file_label));
+      filePill.append(el("span", "project-file-dot"), el("span", "", projectPreview.file_label));
       return filePill;
     })(),
     (() => {
@@ -490,12 +516,12 @@ function renderProjectFlow(data) {
       const table = el("table", "project-table");
       const thead = document.createElement("thead");
       const headRow = document.createElement("tr");
-      data.project_preview.columns.forEach((column) => {
+      projectPreview.columns.forEach((column) => {
         headRow.append(el("th", "", column));
       });
       thead.append(headRow);
       const tbody = document.createElement("tbody");
-      data.project_preview.rows.forEach((row) => {
+      projectPreview.rows.forEach((row) => {
         const tableRow = document.createElement("tr");
         row.forEach((value) => {
           tableRow.append(el("td", "", value));
@@ -509,17 +535,17 @@ function renderProjectFlow(data) {
   );
 
   outcomesRoot.append(
-    el("h4", "project-outcomes-title", data.project_outcomes.title),
+    el("h4", "project-outcomes-title", projectOutcomes.title),
     (() => {
       const list = el("ul", "project-outcomes-list");
-      data.project_outcomes.items.forEach((item) => {
+      projectOutcomes.items.forEach((item) => {
         const listItem = el("li", "project-outcome-item");
         listItem.append(el("span", "project-outcome-check", "✓"), el("span", "", item));
         list.append(listItem);
       });
       return list;
     })(),
-    el("p", "project-outcomes-note", data.project_outcomes.note)
+    el("p", "project-outcomes-note", projectOutcomes.note)
   );
 }
 
