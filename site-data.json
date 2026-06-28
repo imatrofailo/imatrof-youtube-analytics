@@ -4,12 +4,12 @@
     "channel_url": "https://www.youtube.com/@imatrof",
     "site_title": "Аналітика коментарів YouTube",
     "report_url": "../outputs/YouTube_comment_insights.xlsx",
-    "generated_from": "11 січня 2026 - 23 червня 2026",
+    "generated_from": "11 січня 2026 - 28 червня 2026",
     "last_refresh": {
-      "label": "25 червня 2026",
-      "new_videos_count": 1,
-      "new_top_level_comments_count": 28,
-      "new_replies_count": 14
+      "label": "28 червня 2026",
+      "new_videos_count": 2,
+      "new_top_level_comments_count": 19,
+      "new_replies_count": 18
     }
   },
   "hero": {
@@ -29,28 +29,28 @@
   "stats": [
     {
       "label": "Top-level коментарів в аналізі",
-      "value": 1231,
+      "value": 1247,
       "hint": "Релевантні коментарі верхнього рівня після фільтра коротких реакцій, спаму і нерелевантних записів."
     },
     {
       "label": "Охоплено відео",
-      "value": 35,
-      "hint": "Діапазон: 11 січня 2026 - 23 червня 2026"
+      "value": 37,
+      "hint": "Діапазон: 11 січня 2026 - 28 червня 2026"
     },
     {
       "label": "Відповідей у гілках",
-      "value": 636,
-      "hint": "Replies під top-level коментарями. Це окремий шар дискусії й він не входить у 1231 top-level коментарів."
+      "value": 654,
+      "hint": "Replies під top-level коментарями. Це окремий шар дискусії й він не входить у 1247 top-level коментарів."
     },
     {
       "label": "Головний попит",
       "value": "Безпека та локальний запуск ШІ",
-      "hint": "127 згадок у коментарях"
+      "hint": "129 згадок у коментарях"
     },
     {
       "label": "Найсильніша тема",
       "value": "Можливості моделей і порівняння",
-      "hint": "173 зафіксованих сигналів"
+      "hint": "174 зафіксованих сигналів"
     },
     {
       "label": "Формат звіту",
@@ -63,19 +63,19 @@
       "title": "Аудиторія приходить по відбірці головного: новини про ШІ економлять їй час на самостійний пошук.",
       "details": "Тема новин про ШІ та кураторства має 27 згадок, а люди прямо пишуть, що канал допомагає відслідковувати ринок без зайвого шуму.",
       "priority": "Високий",
-      "evidence": "ну таке, поки що юзкейси не вражають, агрегатор новин з ШІ це чуть крінжа, просто + ще один алоритм, який підлаштовує тобі стрчіку. нахіба воно треба хз. та й взагалі новини зранку це взагалі ну їх нафіг",
-      "evidence_url": "https://www.youtube.com/watch?v=Amw5i_no1cs&lc=UgyUnXRr6ikVggvEjv14AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=Amw5i_no1cs",
-      "video_title": "AI АГЕНТ що працюють 24/7 поки я сплю. Показую сетап"
+      "evidence": "Дякую за чудовий і супер актуальний контент!\nЧи могли б Ви порадити системні курси або ресурси з AI для розробника рівня Senior/Architect? Дуже цікаво глибоко зануритися в тему мультиагентної AI-розробки та Spec-Driven Development",
+      "evidence_url": "https://www.youtube.com/watch?v=i0uQo8jnse4&lc=Ugz09xFVS0o4gcqr1ap4AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=i0uQo8jnse4",
+      "video_title": "НОВИНИ AI: Anthropic ВИМАГАЄ паспорт — а Claude вже живе у Slack!"
     },
     {
       "title": "Найсильніший продуктовий інтерес зараз навколо стеку агентної розробки: Codex, Claude Code, OpenClaw.",
       "details": "Тема ШІ-агентів і робочих процесів розробки має 19 згадок, а інструменти Codex, Claude та OpenClaw разом фігурують 24 рази.",
       "priority": "Високий",
-      "evidence": "Молодчина, Ігор! Не звертай уваги на претензії, щодо реклами. Це все зрозуміло! А кому не подобається реклама, то дивіться рекламу від YouTube або платіть йому гроші аби її не бачити. \nВ цілому зв'язка роботи різних агентів показана гарно! Успіхів тобі!!!\nP:S. До речі, ти гарно розкрив тему заліза та LLM, які можна на ньому встановлювати.",
-      "evidence_url": "https://www.youtube.com/watch?v=Amw5i_no1cs&lc=Ugz4gHiv81Xb93948J94AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=Amw5i_no1cs",
-      "video_title": "AI АГЕНТ що працюють 24/7 поки я сплю. Показую сетап"
+      "evidence": "Думав вночі про цю новину з вкладеними саб агентами. \nЯкщо глобально задуматись то це можна використовуватись як якихось С-левел керевіників, які самі мають працівників під капом, тобто відділ розробки, відділ маркетингу і т.д. \n\nЦе ще один крок на шляху 1-person billionaire company",
+      "evidence_url": "https://www.youtube.com/watch?v=i0uQo8jnse4&lc=UgwWDXlPSKuXp4KJatZ4AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=i0uQo8jnse4",
+      "video_title": "НОВИНИ AI: Anthropic ВИМАГАЄ паспорт — а Claude вже живе у Slack!"
     },
     {
       "title": "Люди хочуть не лише анонси, а й чесну перевірку реальністю: де ШІ вже працює, а де ще ламається.",
@@ -90,18 +90,26 @@
       "title": "Навколо безпеки, доступів і локального запуску ШІ-агентів є помітна напруга.",
       "details": "Запити про безпеку та локальний запуск мають 11 тригерів, а окремі питання про доступи виникають 8 разів.",
       "priority": "Середній",
-      "evidence": "правду заборонили казати?) що локальні моделі обрізані, що на віндовс взагалі треш, що на макі хочаб врам шаред і тд",
-      "evidence_url": "https://www.youtube.com/watch?v=Amw5i_no1cs&lc=UgwPeL-gH4lVuV-HMwx4AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=Amw5i_no1cs",
-      "video_title": "AI АГЕНТ що працюють 24/7 поки я сплю. Показую сетап"
+      "evidence": "Погано що кодекс має повний доступ до вашої файлової системи - ніколи незнаєте що і де він змінить",
+      "evidence_url": "https://www.youtube.com/watch?v=M4KpsaveKpM&lc=UgxqhCAXnJjQsXYLd7h4AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=M4KpsaveKpM",
+      "video_title": "Codex агент для всього! Покрокова інструкція"
     }
   ],
   "theme_distribution": [
     {
       "label": "Можливості моделей і порівняння",
-      "count": 173,
+      "count": 174,
       "delta": 0,
       "samples": [
+        {
+          "author": "@Vitality-UA",
+          "text": "Цікавий сценарій, обовʼязково перегляну повне відео. А з клод агентами для розробки замість локальної моделі на 2у ноуті вийде так само налаштувати планування + виконання?",
+          "video_title": "Рутину AI АГЕНТАМ! Показую власний сетап #imatrof  #штучнийінтелект #aiагент #codex #hermes #nvidia",
+          "video_url": "https://www.youtube.com/watch?v=8s2fsvRK5WI",
+          "comment_url": "https://www.youtube.com/watch?v=8s2fsvRK5WI&lc=UgylFQcKN4phi7-WG9F4AaABAg",
+          "published_at": "26 червня 2026"
+        },
         {
           "author": "@FrontendShinobi",
           "text": "А підкажіть будльаска от старенка Мас М1 студія на 64 гіга коштує +- 1.5К по суті як просто відюха )))) але ж дозволяє запускати більші моделі теоретично до 50 гігобайт +- повинно завестися\n\nНа вашу думку має сенс? чи ліпше всеж таки дивитися в ПК на 4090 чи 5090?",
@@ -861,22 +869,30 @@
           "video_url": "https://www.youtube.com/watch?v=NAlp_i13_4Y",
           "comment_url": "https://www.youtube.com/watch?v=NAlp_i13_4Y&lc=UgyRBBcq0czQWcXQeLV4AaABAg",
           "published_at": "5 квітня 2026"
-        },
-        {
-          "author": "@ЯрославОлененко",
-          "text": "Про те що модель сама себе покращує звучить не правильно і дивно. Сидить людина пише промпти складає план а який чоловік розповідає що клод пише сам себе. \nЧи вони вже дійшли до того що в них 0 розробників?",
-          "video_title": "НОВИНИ AI: У ANTHROPIC більше не пишуть код, Google здешевлює AI, а Україна назвала власну LLM",
-          "video_url": "https://www.youtube.com/watch?v=NAlp_i13_4Y",
-          "comment_url": "https://www.youtube.com/watch?v=NAlp_i13_4Y&lc=Ugwkkt3-hugrdFNvsYZ4AaABAg",
-          "published_at": "5 квітня 2026"
         }
       ]
     },
     {
       "label": "Інфраструктура, приватність і локальний запуск",
-      "count": 159,
+      "count": 161,
       "delta": 0,
       "samples": [
+        {
+          "author": "@skynixllc",
+          "text": "Погано що кодекс має повний доступ до вашої файлової системи - ніколи незнаєте що і де він змінить",
+          "video_title": "Codex агент для всього! Покрокова інструкція",
+          "video_url": "https://www.youtube.com/watch?v=M4KpsaveKpM",
+          "comment_url": "https://www.youtube.com/watch?v=M4KpsaveKpM&lc=UgxqhCAXnJjQsXYLd7h4AaABAg",
+          "published_at": "26 червня 2026"
+        },
+        {
+          "author": "@Vitality-UA",
+          "text": "Цікавий сценарій, обовʼязково перегляну повне відео. А з клод агентами для розробки замість локальної моделі на 2у ноуті вийде так само налаштувати планування + виконання?",
+          "video_title": "Рутину AI АГЕНТАМ! Показую власний сетап #imatrof  #штучнийінтелект #aiагент #codex #hermes #nvidia",
+          "video_url": "https://www.youtube.com/watch?v=8s2fsvRK5WI",
+          "comment_url": "https://www.youtube.com/watch?v=8s2fsvRK5WI&lc=UgylFQcKN4phi7-WG9F4AaABAg",
+          "published_at": "26 червня 2026"
+        },
         {
           "author": "@FrontendShinobi",
           "text": "А підкажіть будльаска от старенка Мас М1 студія на 64 гіга коштує +- 1.5К по суті як просто відюха )))) але ж дозволяє запускати більші моделі теоретично до 50 гігобайт +- повинно завестися\n\nНа вашу думку має сенс? чи ліпше всеж таки дивитися в ПК на 4090 чи 5090?",
@@ -1628,30 +1644,46 @@
           "video_url": "https://www.youtube.com/watch?v=lqZQs0jc4_I",
           "comment_url": "https://www.youtube.com/watch?v=lqZQs0jc4_I&lc=UgzSc5GXBBQjNDy9TgZ4AaABAg",
           "published_at": "1 березня 2026"
-        },
-        {
-          "author": "@Black1991Star",
-          "text": "З чого користувач вирішив що ШІ модель не правильно видалила листи ? Особисто я не побачив в промпті розшиврування \"старий лист\". Мабудь же модель зайшна на пошту, зробила запит на якийсь сервер часу, дізналась котра зараз година і почала видаляти все, що по даті менше тої дати... А не стало воно їх архівувати, бо видалення стояло ПІСЛЯ архівування, тому мало більший пріорітет. Тому, жодна ШІ не збереже людство від тупих запитів.",
-          "video_title": "НОВИНИ AI: Nano Banana 2 вже тут! Claude ОБВАЛИВ акції IBM!",
-          "video_url": "https://www.youtube.com/watch?v=lqZQs0jc4_I",
-          "comment_url": "https://www.youtube.com/watch?v=lqZQs0jc4_I&lc=UgzfMHjdYx2aABH0ZuB4AaABAg",
-          "published_at": "1 березня 2026"
-        },
-        {
-          "author": "@БогданМаск-б7у",
-          "text": "Фу бля hostinger  риготня",
-          "video_title": "Чому я більше не використовую ChatGPT? Показую свого AI-агента!",
-          "video_url": "https://www.youtube.com/watch?v=HnciJGQXELU",
-          "comment_url": "https://www.youtube.com/watch?v=HnciJGQXELU&lc=Ugy_07LcIie9iQP3NyJ4AaABAg",
-          "published_at": "28 лютого 2026"
         }
       ]
     },
     {
       "label": "ШІ-агенти та робочі процеси розробки",
-      "count": 143,
+      "count": 147,
       "delta": 0,
       "samples": [
+        {
+          "author": "@OlexandrSerbinov",
+          "text": "Думав вночі про цю новину з вкладеними саб агентами. \nЯкщо глобально задуматись то це можна використовуватись як якихось С-левел керевіників, які самі мають працівників під капом, тобто відділ розробки, відділ маркетингу і т.д. \n\nЦе ще один крок на шляху 1-person billionaire company",
+          "video_title": "НОВИНИ AI: Anthropic ВИМАГАЄ паспорт — а Claude вже живе у Slack!",
+          "video_url": "https://www.youtube.com/watch?v=i0uQo8jnse4",
+          "comment_url": "https://www.youtube.com/watch?v=i0uQo8jnse4&lc=UgwWDXlPSKuXp4KJatZ4AaABAg",
+          "published_at": "28 червня 2026"
+        },
+        {
+          "author": "@Waterpolist",
+          "text": "Дякую за чудовий і супер актуальний контент!\nЧи могли б Ви порадити системні курси або ресурси з AI для розробника рівня Senior/Architect? Дуже цікаво глибоко зануритися в тему мультиагентної AI-розробки та Spec-Driven Development",
+          "video_title": "НОВИНИ AI: Anthropic ВИМАГАЄ паспорт — а Claude вже живе у Slack!",
+          "video_url": "https://www.youtube.com/watch?v=i0uQo8jnse4",
+          "comment_url": "https://www.youtube.com/watch?v=i0uQo8jnse4&lc=Ugz09xFVS0o4gcqr1ap4AaABAg",
+          "published_at": "28 червня 2026"
+        },
+        {
+          "author": "@PavloChyikin",
+          "text": "Зніміть, будь ласка, відео про свій Obsidian. І також розкажіть як ви в ньому працюєте з агентами та ШІ. Дякую",
+          "video_title": "НОВИНИ AI: Anthropic ВИМАГАЄ паспорт — а Claude вже живе у Slack!",
+          "video_url": "https://www.youtube.com/watch?v=i0uQo8jnse4",
+          "comment_url": "https://www.youtube.com/watch?v=i0uQo8jnse4&lc=UgxDmPo63na03Zy4MlV4AaABAg",
+          "published_at": "28 червня 2026"
+        },
+        {
+          "author": "@Vitality-UA",
+          "text": "Цікавий сценарій, обовʼязково перегляну повне відео. А з клод агентами для розробки замість локальної моделі на 2у ноуті вийде так само налаштувати планування + виконання?",
+          "video_title": "Рутину AI АГЕНТАМ! Показую власний сетап #imatrof  #штучнийінтелект #aiагент #codex #hermes #nvidia",
+          "video_url": "https://www.youtube.com/watch?v=8s2fsvRK5WI",
+          "comment_url": "https://www.youtube.com/watch?v=8s2fsvRK5WI&lc=UgylFQcKN4phi7-WG9F4AaABAg",
+          "published_at": "26 червня 2026"
+        },
         {
           "author": "@myroadmalankajosef9192",
           "text": "Молодчина, Ігор! Не звертай уваги на претензії, щодо реклами. Це все зрозуміло! А кому не подобається реклама, то дивіться рекламу від YouTube або платіть йому гроші аби її не бачити. \nВ цілому зв'язка роботи різних агентів показана гарно! Успіхів тобі!!!\nP:S. До речі, ти гарно розкрив тему заліза та LLM, які можна на ньому встановлювати.",
@@ -2387,38 +2419,6 @@
           "video_url": "https://www.youtube.com/watch?v=oNOYavt7gRY",
           "comment_url": "https://www.youtube.com/watch?v=oNOYavt7gRY&lc=UgxcLl_oYrbWgaKCMHt4AaABAg",
           "published_at": "26 лютого 2026"
-        },
-        {
-          "author": "@TraditionalUkraineMusic",
-          "text": "Не рекомендую нічого ставити, усі ваші паролі, та  дані обов'язково отримають так звані агенти",
-          "video_title": "ВІДКРИТТЯ РОКУ! AI-агент, що ЗМІНИТЬ все",
-          "video_url": "https://www.youtube.com/watch?v=PCaMCZ9FiNQ",
-          "comment_url": "https://www.youtube.com/watch?v=PCaMCZ9FiNQ&lc=UgyqvyKVDgVNjfjwpT54AaABAg",
-          "published_at": "26 лютого 2026"
-        },
-        {
-          "author": "@oleksii.panchenko",
-          "text": "Привіт. Питання безпеки не розгорнуте. Останні гучні новини вказують на «непередбачувану» поведінку, точніше openclaw сам вирішує що видалити і кому написати повідомлення якщо попередньо його не «навчити» + треба бути надзвичайно обережним з встановленням скілів, також нещодавній анонс - інтеграція VirusTotal, тепер через месенджер можна перевіряти скіл. Ну і найголовніша рекомендація, яку я зустрічаю найчастіше - не встановлювати на особистий комп, де зберігаєте особисті файли, паролі і т.ін.",
-          "video_title": "OpenClaw у дії: Як зібрати персонального ШІ агента (покрокова інструкція)",
-          "video_url": "https://www.youtube.com/watch?v=29ey6quFIyA",
-          "comment_url": "https://www.youtube.com/watch?v=29ey6quFIyA&lc=UgxKo_vncxyuCTFnSw54AaABAg",
-          "published_at": "24 лютого 2026"
-        },
-        {
-          "author": "@eugenek777",
-          "text": "Що таке \"команда OpenClaw\"? Сам Пітер?",
-          "video_title": "НОВИНИ AI: АГЕНТИ АТАКУЮТЬ! Claude у Пентагоні, OpenClaw у OpenAI та Gemini ОНОВЛЕННЯ!",
-          "video_url": "https://www.youtube.com/watch?v=PwxId9BVmRs",
-          "comment_url": "https://www.youtube.com/watch?v=PwxId9BVmRs&lc=UgxZIRsqOn3W0OHoza94AaABAg",
-          "published_at": "22 лютого 2026"
-        },
-        {
-          "author": "@Sh1nm37",
-          "text": "Цей агент, який шантажував, цілком може бути звичайним людським тролем, який видає себе за агента. Але це точно те, що очікує на нас в майбутньому)",
-          "video_title": "НОВИНИ AI: АГЕНТИ АТАКУЮТЬ! Claude у Пентагоні, OpenClaw у OpenAI та Gemini ОНОВЛЕННЯ!",
-          "video_url": "https://www.youtube.com/watch?v=PwxId9BVmRs",
-          "comment_url": "https://www.youtube.com/watch?v=PwxId9BVmRs&lc=Ugy06Y61hT3QPm-TWsp4AaABAg",
-          "published_at": "22 лютого 2026"
         }
       ]
     },
@@ -3199,9 +3199,25 @@
     },
     {
       "label": "Новини про ШІ та кураторство",
-      "count": 108,
+      "count": 110,
       "delta": 0,
       "samples": [
+        {
+          "author": "@Waterpolist",
+          "text": "Дякую за чудовий і супер актуальний контент!\nЧи могли б Ви порадити системні курси або ресурси з AI для розробника рівня Senior/Architect? Дуже цікаво глибоко зануритися в тему мультиагентної AI-розробки та Spec-Driven Development",
+          "video_title": "НОВИНИ AI: Anthropic ВИМАГАЄ паспорт — а Claude вже живе у Slack!",
+          "video_url": "https://www.youtube.com/watch?v=i0uQo8jnse4",
+          "comment_url": "https://www.youtube.com/watch?v=i0uQo8jnse4&lc=Ugz09xFVS0o4gcqr1ap4AaABAg",
+          "published_at": "28 червня 2026"
+        },
+        {
+          "author": "@oleksiishablukenko9823",
+          "text": "І знов мені шось продають через «уявіть собі». Друже, ти мене не проси щось уявити, ти покажи те, шо обіцяєш і шоб воно працювало. Якщо люди будуть робити «уявіть собі», то продати можна будь який відос. Ти покажи шо воно працює так, як ти кажеш (спойлер, воно не працюватиме). От давай відос, як ти виконуєш кожен день свою роботу. Я вангую, система, яка у тебе на відосі працює, перестане працювати і ти кожен день будеш її фіксити.",
+          "video_title": "AI АГЕНТ що працюють 24/7 поки я сплю. Показую сетап",
+          "video_url": "https://www.youtube.com/watch?v=Amw5i_no1cs",
+          "comment_url": "https://www.youtube.com/watch?v=Amw5i_no1cs&lc=Ugxv0fiokCd0axbqJpV4AaABAg",
+          "published_at": "26 червня 2026"
+        },
         {
           "author": "@John_Steinbeck",
           "text": "ну таке, поки що юзкейси не вражають, агрегатор новин з ШІ це чуть крінжа, просто + ще один алоритм, який підлаштовує тобі стрчіку. нахіба воно треба хз. та й взагалі новини зранку це взагалі ну їх нафіг",
@@ -3953,22 +3969,6 @@
           "video_url": "https://www.youtube.com/watch?v=oNOYavt7gRY",
           "comment_url": "https://www.youtube.com/watch?v=oNOYavt7gRY&lc=UgxWaJvM29QnomucJ5Z4AaABAg",
           "published_at": "13 лютого 2026"
-        },
-        {
-          "author": "@born2tilt",
-          "text": "можливо найважливіша новина ШІ за роки у відосі презентується «тіпа прикольно використовували ші щоб зробити некст версію ші». Подивіться що відбувалось з фін ринками та кріптой на наступний день після оприлюднення цього абзацу.",
-          "video_title": "НОВИНИ AI: Anthropic vs OpenAI — ГРАДУС ЗАШКАЛЮЄ!",
-          "video_url": "https://www.youtube.com/watch?v=HWA8VKNChcY",
-          "comment_url": "https://www.youtube.com/watch?v=HWA8VKNChcY&lc=Ugzxx5hblaZVfYpuTPx4AaABAg",
-          "published_at": "11 лютого 2026"
-        },
-        {
-          "author": "@pavelvin6316",
-          "text": "Дуже швидко, дуже сумбурно, враження, що мене просто заливає хвиля інформації, в якій я тону, і через три хвилини вже не можу пригадати, про що автор говорив. Як на мене, замість такого салату, де все хочете охопити за раз, три новини, темп в два рази менше, вступ, пояснення, результат.",
-          "video_title": "НОВИНИ AI: Anthropic vs OpenAI — ГРАДУС ЗАШКАЛЮЄ!",
-          "video_url": "https://www.youtube.com/watch?v=HWA8VKNChcY",
-          "comment_url": "https://www.youtube.com/watch?v=HWA8VKNChcY&lc=UgxokMZVz59cdZ-XasF4AaABAg",
-          "published_at": "10 лютого 2026"
         }
       ]
     },
@@ -4655,15 +4655,15 @@
   "question_distribution": [
     {
       "label": "Загальні реакції",
-      "count": 305
+      "count": 311
     },
     {
       "label": "Ліміти моделей і якість",
-      "count": 110
+      "count": 113
     },
     {
       "label": "Безпека і доступи",
-      "count": 64
+      "count": 65
     },
     {
       "label": "Порівняння інструментів",
@@ -4671,7 +4671,7 @@
     },
     {
       "label": "Практична користь",
-      "count": 61
+      "count": 63
     },
     {
       "label": "Фідбек по подачі",
@@ -4681,7 +4681,7 @@
   "request_distribution": [
     {
       "label": "Безпека та локальний запуск ШІ",
-      "count": 127
+      "count": 129
     },
     {
       "label": "Глибші порівняння інструментів",
@@ -4689,7 +4689,7 @@
     },
     {
       "label": "Реальні workflow-демо",
-      "count": 72
+      "count": 74
     },
     {
       "label": "Продовжувати щотижневий AI-дайджест",
@@ -4706,47 +4706,47 @@
       "url": "https://www.youtube.com/watch?v=7wmJTCogL60",
       "published_at": "15 квітня 2026",
       "comment_count": 87,
-      "view_count": 13892,
-      "like_count": 1026
+      "view_count": 13902,
+      "like_count": 1027
     },
     {
       "title": "ВІДКРИТТЯ РОКУ! AI-агент, що ЗМІНИТЬ все",
       "url": "https://www.youtube.com/watch?v=PCaMCZ9FiNQ",
       "published_at": "30 січня 2026",
       "comment_count": 77,
-      "view_count": 28727,
+      "view_count": 28737,
       "like_count": 1479
     },
     {
       "title": "Codex агент для всього! Покрокова інструкція",
       "url": "https://www.youtube.com/watch?v=M4KpsaveKpM",
       "published_at": "29 травня 2026",
-      "comment_count": 57,
-      "view_count": 19337,
-      "like_count": 845
+      "comment_count": 59,
+      "view_count": 19757,
+      "like_count": 859
+    },
+    {
+      "title": "OpenClaw у дії: Як зібрати персонального ШІ агента (покрокова інструкція)",
+      "url": "https://www.youtube.com/watch?v=29ey6quFIyA",
+      "published_at": "4 лютого 2026",
+      "comment_count": 55,
+      "view_count": 22919,
+      "like_count": 1066
     },
     {
       "title": "Чому я більше не використовую ChatGPT? Показую свого AI-агента!",
       "url": "https://www.youtube.com/watch?v=HnciJGQXELU",
       "published_at": "27 лютого 2026",
       "comment_count": 55,
-      "view_count": 15475,
+      "view_count": 15491,
       "like_count": 941
-    },
-    {
-      "title": "OpenClaw у дії: Як зібрати персонального ШІ агента (покрокова інструкція)",
-      "url": "https://www.youtube.com/watch?v=29ey6quFIyA",
-      "published_at": "4 лютого 2026",
-      "comment_count": 54,
-      "view_count": 22889,
-      "like_count": 1065
     },
     {
       "title": "НОВИНИ AI: Готові взяти AI-КОЛЕГУ на роботу? OpenAI, Anthropic та Nvidia здивували!",
       "url": "https://www.youtube.com/watch?v=INXY8x_cy-s",
       "published_at": "22 березня 2026",
       "comment_count": 50,
-      "view_count": 16450,
+      "view_count": 16452,
       "like_count": 933
     },
     {
@@ -4754,23 +4754,23 @@
       "url": "https://www.youtube.com/watch?v=svS762o1sl4",
       "published_at": "22 квітня 2026",
       "comment_count": 48,
-      "view_count": 27446,
-      "like_count": 1206
+      "view_count": 27568,
+      "like_count": 1207
     },
     {
       "title": "Модель, яку Anthropic боялись випускати — Claude Fable 5",
       "url": "https://www.youtube.com/watch?v=vQi7OpAj5fw",
       "published_at": "12 червня 2026",
       "comment_count": 42,
-      "view_count": 12794,
-      "like_count": 634
+      "view_count": 12853,
+      "like_count": 636
     },
     {
       "title": "НОВИНИ AI: Nano Banana 2 вже тут! Claude ОБВАЛИВ акції IBM!",
       "url": "https://www.youtube.com/watch?v=lqZQs0jc4_I",
       "published_at": "1 березня 2026",
       "comment_count": 42,
-      "view_count": 17531,
+      "view_count": 17532,
       "like_count": 819
     },
     {
@@ -4778,15 +4778,15 @@
       "url": "https://www.youtube.com/watch?v=KCKYbIltNwc",
       "published_at": "12 квітня 2026",
       "comment_count": 40,
-      "view_count": 17377,
-      "like_count": 927
+      "view_count": 17383,
+      "like_count": 928
     },
     {
       "title": "Цей AI змінить вашу роботу у 2026! Показую 4 реальні приклади",
       "url": "https://www.youtube.com/watch?v=oNOYavt7gRY",
       "published_at": "13 лютого 2026",
       "comment_count": 39,
-      "view_count": 15570,
+      "view_count": 15576,
       "like_count": 836
     },
     {
@@ -4794,8 +4794,8 @@
       "url": "https://www.youtube.com/watch?v=tbnL0SY9GqU",
       "published_at": "10 травня 2026",
       "comment_count": 36,
-      "view_count": 14873,
-      "like_count": 768
+      "view_count": 14884,
+      "like_count": 769
     },
     {
       "title": "НОВИНИ AI: OpenAI ЗАКРИЛИ Sora. Причина вас здивує",
@@ -4810,15 +4810,15 @@
       "url": "https://www.youtube.com/watch?v=yS7m7ofRr3I",
       "published_at": "26 квітня 2026",
       "comment_count": 34,
-      "view_count": 32162,
-      "like_count": 1259
+      "view_count": 32168,
+      "like_count": 1260
     },
     {
       "title": "НОВИНИ AI: У ANTHROPIC більше не пишуть код, Google здешевлює AI, а Україна назвала власну LLM",
       "url": "https://www.youtube.com/watch?v=NAlp_i13_4Y",
       "published_at": "5 квітня 2026",
       "comment_count": 33,
-      "view_count": 17176,
+      "view_count": 17189,
       "like_count": 908
     },
     {
@@ -4826,7 +4826,7 @@
       "url": "https://www.youtube.com/watch?v=XZQBlTaxLKY",
       "published_at": "3 травня 2026",
       "comment_count": 33,
-      "view_count": 16116,
+      "view_count": 16126,
       "like_count": 903
     },
     {
@@ -4842,31 +4842,31 @@
       "url": "https://www.youtube.com/watch?v=bVOjVOlAU6M",
       "published_at": "14 червня 2026",
       "comment_count": 32,
-      "view_count": 9619,
-      "like_count": 436
+      "view_count": 9674,
+      "like_count": 439
     },
     {
       "title": "Чому я більше не вибираю між OpenClaw, Claude Code і Codex — запускаю всіх трьох!",
       "url": "https://www.youtube.com/watch?v=dAtC96i2v5M",
       "published_at": "24 квітня 2026",
       "comment_count": 32,
-      "view_count": 9548,
-      "like_count": 451
+      "view_count": 9567,
+      "like_count": 452
     },
     {
       "title": "НОВИНИ AI: Claude знав, що його тестують і мовчав!",
       "url": "https://www.youtube.com/watch?v=rvaSzhpfHNY",
       "published_at": "17 травня 2026",
       "comment_count": 31,
-      "view_count": 14510,
-      "like_count": 693
+      "view_count": 14539,
+      "like_count": 694
     },
     {
       "title": "OpenClaw vs Cowork - ×10 чи маркетинг? | OpenAI посилив науку | xAI знову провокує",
       "url": "https://www.youtube.com/watch?v=NByF6cn3qsY",
       "published_at": "1 лютого 2026",
       "comment_count": 30,
-      "view_count": 8927,
+      "view_count": 8929,
       "like_count": 618
     },
     {
@@ -4882,15 +4882,15 @@
       "url": "https://www.youtube.com/watch?v=-zjxZopn1RY",
       "published_at": "27 березня 2026",
       "comment_count": 29,
-      "view_count": 10752,
-      "like_count": 602
+      "view_count": 10764,
+      "like_count": 603
     },
     {
       "title": "НОВИНИ AI: Anthropic vs OpenAI — ГРАДУС ЗАШКАЛЮЄ!",
       "url": "https://www.youtube.com/watch?v=HWA8VKNChcY",
       "published_at": "8 лютого 2026",
       "comment_count": 25,
-      "view_count": 12655,
+      "view_count": 12659,
       "like_count": 695
     },
     {
@@ -4898,15 +4898,15 @@
       "url": "https://www.youtube.com/watch?v=Cp5j_mHqcPY",
       "published_at": "31 травня 2026",
       "comment_count": 24,
-      "view_count": 7990,
-      "like_count": 527
+      "view_count": 8002,
+      "like_count": 530
     },
     {
       "title": "НОВИНИ AI: АГЕНТИ АТАКУЮТЬ! Claude у Пентагоні, OpenClaw у OpenAI та Gemini ОНОВЛЕННЯ!",
       "url": "https://www.youtube.com/watch?v=PwxId9BVmRs",
       "published_at": "22 лютого 2026",
       "comment_count": 24,
-      "view_count": 9299,
+      "view_count": 9300,
       "like_count": 597
     },
     {
@@ -4914,7 +4914,7 @@
       "url": "https://www.youtube.com/watch?v=62kHNFYzXbE",
       "published_at": "18 січня 2026",
       "comment_count": 24,
-      "view_count": 10470,
+      "view_count": 10473,
       "like_count": 703
     },
     {
@@ -4922,7 +4922,7 @@
       "url": "https://www.youtube.com/watch?v=eJuPpLcReuU",
       "published_at": "15 лютого 2026",
       "comment_count": 23,
-      "view_count": 8619,
+      "view_count": 8621,
       "like_count": 543
     },
     {
@@ -4930,7 +4930,7 @@
       "url": "https://www.youtube.com/watch?v=mkP9rdpMUWw",
       "published_at": "19 квітня 2026",
       "comment_count": 22,
-      "view_count": 13692,
+      "view_count": 13694,
       "like_count": 751
     },
     {
@@ -4946,31 +4946,31 @@
       "url": "https://www.youtube.com/watch?v=IZrZKSuqHpo",
       "published_at": "21 червня 2026",
       "comment_count": 21,
-      "view_count": 9895,
-      "like_count": 541
+      "view_count": 10352,
+      "like_count": 568
+    },
+    {
+      "title": "AI АГЕНТ що працюють 24/7 поки я сплю. Показую сетап",
+      "url": "https://www.youtube.com/watch?v=Amw5i_no1cs",
+      "published_at": "23 червня 2026",
+      "comment_count": 20,
+      "view_count": 7470,
+      "like_count": 387
     },
     {
       "title": "НОВИНИ AI: Чому всі хочуть стати твоїм AI-КОЛЕГОЮ?",
       "url": "https://www.youtube.com/watch?v=ho0MqfrbY6w",
       "published_at": "15 березня 2026",
       "comment_count": 20,
-      "view_count": 10644,
+      "view_count": 10650,
       "like_count": 664
-    },
-    {
-      "title": "AI АГЕНТ що працюють 24/7 поки я сплю. Показую сетап",
-      "url": "https://www.youtube.com/watch?v=Amw5i_no1cs",
-      "published_at": "23 червня 2026",
-      "comment_count": 17,
-      "view_count": 6030,
-      "like_count": 333
     },
     {
       "title": "НОВИНИ AI: Дали всім AI по 20$ і мікрофон — ось що сталось",
       "url": "https://www.youtube.com/watch?v=jedytILhH70",
       "published_at": "24 травня 2026",
       "comment_count": 15,
-      "view_count": 11039,
+      "view_count": 11046,
       "like_count": 538
     },
     {
@@ -4978,108 +4978,123 @@
       "url": "https://www.youtube.com/watch?v=AkbRxd8SBKI",
       "published_at": "7 червня 2026",
       "comment_count": 14,
-      "view_count": 14097,
-      "like_count": 679
+      "view_count": 14141,
+      "like_count": 683
+    },
+    {
+      "title": "НОВИНИ AI: Anthropic ВИМАГАЄ паспорт — а Claude вже живе у Slack!",
+      "url": "https://www.youtube.com/watch?v=i0uQo8jnse4",
+      "published_at": "28 червня 2026",
+      "comment_count": 9,
+      "view_count": 2347,
+      "like_count": 201
+    },
+    {
+      "title": "Рутину AI АГЕНТАМ! Показую власний сетап #imatrof  #штучнийінтелект #aiагент #codex #hermes #nvidia",
+      "url": "https://www.youtube.com/watch?v=8s2fsvRK5WI",
+      "published_at": "26 червня 2026",
+      "comment_count": 1,
+      "view_count": 1428,
+      "like_count": 43
     }
   ],
   "recent_comments": [
     {
-      "author": "@marinamarina110",
-      "text": "Мені чат не дає промпти що б я їх зкопіювлаа для нвого чат у\n.. ні як не хоче..",
-      "published_at": "24 червня 2026",
-      "video_title": "Codex агент для всього! Покрокова інструкція",
-      "video_url": "https://www.youtube.com/watch?v=M4KpsaveKpM",
-      "comment_url": "https://www.youtube.com/watch?v=M4KpsaveKpM&lc=UgzweNQiflmWEdKtrDd4AaABAg",
+      "author": "@undersilent5",
+      "text": "Не розумію - навіщо казати клоду «покажи мені звіт за 2 дні»? Хай сам і дивиться!",
+      "published_at": "28 червня 2026",
+      "video_title": "НОВИНИ AI: Anthropic ВИМАГАЄ паспорт — а Claude вже живе у Slack!",
+      "video_url": "https://www.youtube.com/watch?v=i0uQo8jnse4",
+      "comment_url": "https://www.youtube.com/watch?v=i0uQo8jnse4&lc=Ugxh-Mjtnz0tnn7hNeB4AaABAg",
       "like_count": 0
     },
     {
-      "author": "@FrontendShinobi",
-      "text": "А підкажіть будльаска от старенка Мас М1 студія на 64 гіга коштує +- 1.5К по суті як просто відюха )))) але ж дозволяє запускати більші моделі теоретично до 50 гігобайт +- повинно завестися\n\nНа вашу думку має сенс? чи ліпше всеж таки дивитися в ПК на 4090 чи 5090?",
-      "published_at": "24 червня 2026",
-      "video_title": "AI АГЕНТ що працюють 24/7 поки я сплю. Показую сетап",
-      "video_url": "https://www.youtube.com/watch?v=Amw5i_no1cs",
-      "comment_url": "https://www.youtube.com/watch?v=Amw5i_no1cs&lc=UgyfdCyInh9G26FFFod4AaABAg",
+      "author": "@tar77",
+      "text": "Буде добре.\nЯкщо буде облік спец.номерів.\nЯк і з кожним законом  - буде не легко. \n\"Правоохоронні органи\" будуть впиратись до останнього.",
+      "published_at": "28 червня 2026",
+      "video_title": "НОВИНИ AI: Anthropic ВИМАГАЄ паспорт — а Claude вже живе у Slack!",
+      "video_url": "https://www.youtube.com/watch?v=i0uQo8jnse4",
+      "comment_url": "https://www.youtube.com/watch?v=i0uQo8jnse4&lc=Ugxt8MZR95GD92SF9Il4AaABAg",
+      "like_count": 0
+    },
+    {
+      "author": "@OlexandrSerbinov",
+      "text": "Думав вночі про цю новину з вкладеними саб агентами. \nЯкщо глобально задуматись то це можна використовуватись як якихось С-левел керевіників, які самі мають працівників під капом, тобто відділ розробки, відділ маркетингу і т.д. \n\nЦе ще один крок на шляху 1-person billionaire company",
+      "published_at": "28 червня 2026",
+      "video_title": "НОВИНИ AI: Anthropic ВИМАГАЄ паспорт — а Claude вже живе у Slack!",
+      "video_url": "https://www.youtube.com/watch?v=i0uQo8jnse4",
+      "comment_url": "https://www.youtube.com/watch?v=i0uQo8jnse4&lc=UgwWDXlPSKuXp4KJatZ4AaABAg",
       "like_count": 1
     },
     {
-      "author": "@andriim36",
-      "text": "Чи не помічали різницю в результаті залежно від мови формування запиту?",
-      "published_at": "24 червня 2026",
-      "video_title": "AI АГЕНТ що працюють 24/7 поки я сплю. Показую сетап",
-      "video_url": "https://www.youtube.com/watch?v=Amw5i_no1cs",
-      "comment_url": "https://www.youtube.com/watch?v=Amw5i_no1cs&lc=UgyPQo154duOpDH2zlR4AaABAg",
-      "like_count": 0
-    },
-    {
-      "author": "@zakir.nuriiev",
-      "text": "Дякую вам за відео! Було цікаво і наочно.",
-      "published_at": "24 червня 2026",
-      "video_title": "AI АГЕНТ що працюють 24/7 поки я сплю. Показую сетап",
-      "video_url": "https://www.youtube.com/watch?v=Amw5i_no1cs",
-      "comment_url": "https://www.youtube.com/watch?v=Amw5i_no1cs&lc=UgzuayX3s8t3V7E-c7p4AaABAg",
+      "author": "@walkawelk",
+      "text": "Підкажіть будь ласка яку програму обгортку ви використовуєте на 7:10, я маю на увазі не конкретно відкриту вкладку а вцілому, дуже дякую 🙏",
+      "published_at": "28 червня 2026",
+      "video_title": "НОВИНИ AI: Anthropic ВИМАГАЄ паспорт — а Claude вже живе у Slack!",
+      "video_url": "https://www.youtube.com/watch?v=i0uQo8jnse4",
+      "comment_url": "https://www.youtube.com/watch?v=i0uQo8jnse4&lc=UgyX7U7YMDEVDyuxT6d4AaABAg",
       "like_count": 0
     },
     {
       "author": "@Oleksii_UA_66",
-      "text": "Дякую за відео, цікаво. Тільки не стрічка, а командний рядок ))",
-      "published_at": "23 червня 2026",
-      "video_title": "AI АГЕНТ що працюють 24/7 поки я сплю. Показую сетап",
-      "video_url": "https://www.youtube.com/watch?v=Amw5i_no1cs",
-      "comment_url": "https://www.youtube.com/watch?v=Amw5i_no1cs&lc=UgwlLkQdYrEOgXtoFbl4AaABAg",
-      "like_count": 0
+      "text": "Мітос, не Мейзос) а взагалі дякую за відео",
+      "published_at": "28 червня 2026",
+      "video_title": "НОВИНИ AI: Anthropic ВИМАГАЄ паспорт — а Claude вже живе у Slack!",
+      "video_url": "https://www.youtube.com/watch?v=i0uQo8jnse4",
+      "comment_url": "https://www.youtube.com/watch?v=i0uQo8jnse4&lc=UgzKi3v6tSqtyVmSSFh4AaABAg",
+      "like_count": 2
     },
     {
-      "author": "@storm22221",
-      "text": "Вже 3 місяці використовую Гермеса. Встановив його на МакМіні4 х64. Просто капець стільки він усього робить:\n1. Дуже потужна дейлі система в Обсідіані, довго мучався коли її вчив. Але зараз через телеграм максимальний контроль і автоматизація планів. Особливо люблю можливість начитати як пройшов день а він сам все розпізнав та відмітив що зроблено та переніс що невстиг зробити на слідуючий день\n2. Дуже потужний  генератор промтів. Зібрав дуже велику базу кращих промтів, зробив оцінку кращих рпішень і зараз просто вогонь як робить промти (вони не в одну ітерацію творяться а з постійним розивтком)\n3. Багато етапний з застосуванням кучі мовних моделей воласний діпресірч, просто вогонь ...",
-      "published_at": "23 червня 2026",
-      "video_title": "AI АГЕНТ що працюють 24/7 поки я сплю. Показую сетап",
-      "video_url": "https://www.youtube.com/watch?v=Amw5i_no1cs",
-      "comment_url": "https://www.youtube.com/watch?v=Amw5i_no1cs&lc=Ugz8I82XksZvOm5T9uJ4AaABAg",
+      "author": "@Waterpolist",
+      "text": "Дякую за чудовий і супер актуальний контент!\nЧи могли б Ви порадити системні курси або ресурси з AI для розробника рівня Senior/Architect? Дуже цікаво глибоко зануритися в тему мультиагентної AI-розробки та Spec-Driven Development",
+      "published_at": "28 червня 2026",
+      "video_title": "НОВИНИ AI: Anthropic ВИМАГАЄ паспорт — а Claude вже живе у Slack!",
+      "video_url": "https://www.youtube.com/watch?v=i0uQo8jnse4",
+      "comment_url": "https://www.youtube.com/watch?v=i0uQo8jnse4&lc=Ugz09xFVS0o4gcqr1ap4AaABAg",
       "like_count": 0
     }
   ],
   "quotes": [
     {
-      "author": "@marinamarina110",
-      "text": "Мені чат не дає промпти що б я їх зкопіювлаа для нвого чат у\n.. ні як не хоче..",
-      "video_title": "Codex агент для всього! Покрокова інструкція",
-      "video_url": "https://www.youtube.com/watch?v=M4KpsaveKpM",
-      "comment_url": "https://www.youtube.com/watch?v=M4KpsaveKpM&lc=UgzweNQiflmWEdKtrDd4AaABAg",
-      "published_at": "24 червня 2026",
+      "author": "@undersilent5",
+      "text": "Не розумію - навіщо казати клоду «покажи мені звіт за 2 дні»? Хай сам і дивиться!",
+      "video_title": "НОВИНИ AI: Anthropic ВИМАГАЄ паспорт — а Claude вже живе у Slack!",
+      "video_url": "https://www.youtube.com/watch?v=i0uQo8jnse4",
+      "comment_url": "https://www.youtube.com/watch?v=i0uQo8jnse4&lc=Ugxh-Mjtnz0tnn7hNeB4AaABAg",
+      "published_at": "28 червня 2026",
       "themes": [
         "Загальна реакція аудиторії"
       ]
     },
     {
-      "author": "@FrontendShinobi",
-      "text": "А підкажіть будльаска от старенка Мас М1 студія на 64 гіга коштує +- 1.5К по суті як просто відюха )))) але ж дозволяє запускати більші моделі теоретично до 50 гігобайт +- повинно завестися\n\nНа вашу думку має сенс? чи ліпше всеж таки дивитися в ПК на 4090 чи 5090?",
-      "video_title": "AI АГЕНТ що працюють 24/7 поки я сплю. Показую сетап",
-      "video_url": "https://www.youtube.com/watch?v=Amw5i_no1cs",
-      "comment_url": "https://www.youtube.com/watch?v=Amw5i_no1cs&lc=UgyfdCyInh9G26FFFod4AaABAg",
-      "published_at": "24 червня 2026",
+      "author": "@tar77",
+      "text": "Буде добре.\nЯкщо буде облік спец.номерів.\nЯк і з кожним законом  - буде не легко. \n\"Правоохоронні органи\" будуть впиратись до останнього.",
+      "video_title": "НОВИНИ AI: Anthropic ВИМАГАЄ паспорт — а Claude вже живе у Slack!",
+      "video_url": "https://www.youtube.com/watch?v=i0uQo8jnse4",
+      "comment_url": "https://www.youtube.com/watch?v=i0uQo8jnse4&lc=Ugxt8MZR95GD92SF9Il4AaABAg",
+      "published_at": "28 червня 2026",
       "themes": [
-        "Інфраструктура, приватність і локальний запуск",
-        "Можливості моделей і порівняння"
+        "Загальна реакція аудиторії"
       ]
     },
     {
-      "author": "@andriim36",
-      "text": "Чи не помічали різницю в результаті залежно від мови формування запиту?",
-      "video_title": "AI АГЕНТ що працюють 24/7 поки я сплю. Показую сетап",
-      "video_url": "https://www.youtube.com/watch?v=Amw5i_no1cs",
-      "comment_url": "https://www.youtube.com/watch?v=Amw5i_no1cs&lc=UgyPQo154duOpDH2zlR4AaABAg",
-      "published_at": "24 червня 2026",
+      "author": "@OlexandrSerbinov",
+      "text": "Думав вночі про цю новину з вкладеними саб агентами. \nЯкщо глобально задуматись то це можна використовуватись як якихось С-левел керевіників, які самі мають працівників під капом, тобто відділ розробки, відділ маркетингу і т.д. \n\nЦе ще один крок на шляху 1-person billionaire company",
+      "video_title": "НОВИНИ AI: Anthropic ВИМАГАЄ паспорт — а Claude вже живе у Slack!",
+      "video_url": "https://www.youtube.com/watch?v=i0uQo8jnse4",
+      "comment_url": "https://www.youtube.com/watch?v=i0uQo8jnse4&lc=UgwWDXlPSKuXp4KJatZ4AaABAg",
+      "published_at": "28 червня 2026",
       "themes": [
-        "Фідбек по контенту та інтеграціях"
+        "ШІ-агенти та робочі процеси розробки"
       ]
     },
     {
-      "author": "@zakir.nuriiev",
-      "text": "Дякую вам за відео! Було цікаво і наочно.",
-      "video_title": "AI АГЕНТ що працюють 24/7 поки я сплю. Показую сетап",
-      "video_url": "https://www.youtube.com/watch?v=Amw5i_no1cs",
-      "comment_url": "https://www.youtube.com/watch?v=Amw5i_no1cs&lc=UgzuayX3s8t3V7E-c7p4AaABAg",
-      "published_at": "24 червня 2026",
+      "author": "@walkawelk",
+      "text": "Підкажіть будь ласка яку програму обгортку ви використовуєте на 7:10, я маю на увазі не конкретно відкриту вкладку а вцілому, дуже дякую 🙏",
+      "video_title": "НОВИНИ AI: Anthropic ВИМАГАЄ паспорт — а Claude вже живе у Slack!",
+      "video_url": "https://www.youtube.com/watch?v=i0uQo8jnse4",
+      "comment_url": "https://www.youtube.com/watch?v=i0uQo8jnse4&lc=UgyX7U7YMDEVDyuxT6d4AaABAg",
+      "published_at": "28 червня 2026",
       "themes": [
         "Загальна реакція аудиторії"
       ]
@@ -5088,30 +5103,30 @@
   "questions": [
     {
       "cluster": "Загальні реакції",
-      "count": 305,
-      "question": "Мені чат не дає промпти що б я їх зкопіювлаа для нвого чат у\n.. ні як не хоче..",
+      "count": 311,
+      "question": "Не розумію - навіщо казати клоду «покажи мені звіт за 2 дні»? Хай сам і дивиться!",
       "suggested_response": "Відповісти коротко в Q&A або включити в розігрів наступного відео.",
-      "comment_url": "https://www.youtube.com/watch?v=M4KpsaveKpM&lc=UgzweNQiflmWEdKtrDd4AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=M4KpsaveKpM",
-      "video_title": "Codex агент для всього! Покрокова інструкція"
+      "comment_url": "https://www.youtube.com/watch?v=i0uQo8jnse4&lc=Ugxh-Mjtnz0tnn7hNeB4AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=i0uQo8jnse4",
+      "video_title": "НОВИНИ AI: Anthropic ВИМАГАЄ паспорт — а Claude вже живе у Slack!"
     },
     {
       "cluster": "Ліміти моделей і якість",
-      "count": 110,
-      "question": "Дядько трохи не договорив, тому що це рекламне відео )",
+      "count": 113,
+      "question": "Дякую, як завжди класний відеоролик. Я від себке хотів би трошки огляду мультимедіа ШІшок, бо іноді про одні технічні можливості, трошки замарудився",
       "suggested_response": "Показати обмеження моделей на живих прикладах і коли чекати кращих альтернатив.",
-      "comment_url": "https://www.youtube.com/watch?v=Amw5i_no1cs&lc=Ugwd9ZVuhmiXnLvxaBt4AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=Amw5i_no1cs",
-      "video_title": "AI АГЕНТ що працюють 24/7 поки я сплю. Показую сетап"
+      "comment_url": "https://www.youtube.com/watch?v=i0uQo8jnse4&lc=UgyQSBk-F5xr6FtXmGB4AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=i0uQo8jnse4",
+      "video_title": "НОВИНИ AI: Anthropic ВИМАГАЄ паспорт — а Claude вже живе у Slack!"
     },
     {
       "cluster": "Безпека і доступи",
-      "count": 64,
-      "question": "А підкажіть будльаска от старенка Мас М1 студія на 64 гіга коштує +- 1.5К по суті як просто відюха )))) але ж дозволяє запускати більші моделі теоретично до 50 гігобайт +- повинно завестися\n\nНа вашу думку має сенс? чи ліпше всеж таки дивитися в ПК на 4090 чи 5090?",
+      "count": 65,
+      "question": "Погано що кодекс має повний доступ до вашої файлової системи - ніколи незнаєте що і де він змінить",
       "suggested_response": "Пояснити безпечний setup: які доступи давати, що ізолювати локально, а що ні.",
-      "comment_url": "https://www.youtube.com/watch?v=Amw5i_no1cs&lc=UgyfdCyInh9G26FFFod4AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=Amw5i_no1cs",
-      "video_title": "AI АГЕНТ що працюють 24/7 поки я сплю. Показую сетап"
+      "comment_url": "https://www.youtube.com/watch?v=M4KpsaveKpM&lc=UgxqhCAXnJjQsXYLd7h4AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=M4KpsaveKpM",
+      "video_title": "Codex агент для всього! Покрокова інструкція"
     },
     {
       "cluster": "Порівняння інструментів",
@@ -5124,12 +5139,12 @@
     },
     {
       "cluster": "Практична користь",
-      "count": 61,
-      "question": "У мене RTX 1030 3gb , і опенклав та гермес локально працює прекрасно як на кодексі так і на локальних моделях .\nЗа умови квантування Q...",
+      "count": 63,
+      "question": "Зніміть, будь ласка, відео про свій Obsidian. І також розкажіть як ви в ньому працюєте з агентами та ШІ. Дякую",
       "suggested_response": "Дати 2-3 робочі кейси з результатом, вартістю помилки й фінальним ROI.",
-      "comment_url": "https://www.youtube.com/watch?v=Amw5i_no1cs&lc=UgyfVKlDvo_kqaASae94AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=Amw5i_no1cs",
-      "video_title": "AI АГЕНТ що працюють 24/7 поки я сплю. Показую сетап"
+      "comment_url": "https://www.youtube.com/watch?v=i0uQo8jnse4&lc=UgxDmPo63na03Zy4MlV4AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=i0uQo8jnse4",
+      "video_title": "НОВИНИ AI: Anthropic ВИМАГАЄ паспорт — а Claude вже живе у Slack!"
     }
   ],
   "content_ideas": [
@@ -5137,21 +5152,21 @@
       "title": "Безпечні AI-агенти на твоєму комп'ютері: які доступи реально окей",
       "format": "Пояснення + чекліст",
       "why_now": "Безпека і доступи викликають емоцію, тому тема має потенціал для сильної дискусії й збережень.",
-      "evidence_count": 286,
+      "evidence_count": 290,
       "related_brands": "Hostinger, Google, Apple"
     },
     {
       "title": "Що досі ламається в GPT-5.5, Veo та генерації зображень",
       "format": "Лабораторія обмежень",
       "why_now": "Коментарі показують високий інтерес до меж інструментів, а не лише до анонсів.",
-      "evidence_count": 245,
+      "evidence_count": 248,
       "related_brands": "GPT-5.5, Veo, OpenAI"
     },
     {
       "title": "Codex vs Claude Code vs OpenClaw: дерево вибору для реальної роботи",
       "format": "Порівняння + живе демо",
       "why_now": "Аудиторії потрібне не ще одне wow-відео, а чіткі правила вибору інструмента під задачу.",
-      "evidence_count": 236,
+      "evidence_count": 240,
       "related_brands": "Codex, Claude Code, OpenClaw"
     },
     {
@@ -5163,26 +5178,6 @@
     }
   ],
   "activity": [
-    {
-      "date": "2026-06-15",
-      "label": "15 червня 2026",
-      "count": 1
-    },
-    {
-      "date": "2026-06-16",
-      "label": "16 червня 2026",
-      "count": 3
-    },
-    {
-      "date": "2026-06-17",
-      "label": "17 червня 2026",
-      "count": 1
-    },
-    {
-      "date": "2026-06-18",
-      "label": "18 червня 2026",
-      "count": 1
-    },
     {
       "date": "2026-06-19",
       "label": "19 червня 2026",
@@ -5212,33 +5207,53 @@
       "date": "2026-06-24",
       "label": "24 червня 2026",
       "count": 4
+    },
+    {
+      "date": "2026-06-25",
+      "label": "25 червня 2026",
+      "count": 2
+    },
+    {
+      "date": "2026-06-26",
+      "label": "26 червня 2026",
+      "count": 4
+    },
+    {
+      "date": "2026-06-27",
+      "label": "27 червня 2026",
+      "count": 2
+    },
+    {
+      "date": "2026-06-28",
+      "label": "28 червня 2026",
+      "count": 11
     }
   ],
   "excel_preview": [
     {
       "theme": "Можливості моделей і порівняння",
-      "count": 173,
+      "count": 174,
       "intensity": 1.0
     },
     {
       "theme": "Інфраструктура, приватність і локальний запуск",
-      "count": 159,
-      "intensity": 0.919
+      "count": 161,
+      "intensity": 0.925
     },
     {
       "theme": "ШІ-агенти та робочі процеси розробки",
-      "count": 143,
-      "intensity": 0.827
+      "count": 147,
+      "intensity": 0.845
     },
     {
       "theme": "Фідбек по контенту та інтеграціях",
       "count": 130,
-      "intensity": 0.751
+      "intensity": 0.747
     },
     {
       "theme": "Новини про ШІ та кураторство",
-      "count": 108,
-      "intensity": 0.624
+      "count": 110,
+      "intensity": 0.632
     }
   ],
   "workflow": [
