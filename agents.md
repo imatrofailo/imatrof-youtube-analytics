@@ -4,7 +4,7 @@
 
 Цей репозиторій — frontend і data/storytelling layer для аналітики YouTube-коментарів каналу `@imatrof`.
 
-Ecosystem-wide context (other repos, automation patterns) lives in the owner's private `imatrof-docs` repo; this file covers only this repository.
+Before starting new work, read the patterns/architecture in the owner's private `imatrofailo/imatrof-docs` repo; if you don't have access or a clone, ask the owner. This file covers only this repository.
 
 `@imatrof` — україномовний тех-креатор про:
 
