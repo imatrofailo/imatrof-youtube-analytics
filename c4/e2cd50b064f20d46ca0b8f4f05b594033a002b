@@ -1,0 +1,25 @@
+app.test.js
+  s_dea0b7b181dc5c::t_98ad95a3068b66 1-205
+app.js
+  s_dea0b7b181dc5c::t_1ffeea57f812d4 71,80,84,90,100,120,171,636-640
+package-lock.json
+  s_dea0b7b181dc5c::t_4d23310347890b 11-12,460-466,817-834,842-1038,1081-1100,1134-1164,1184-1200,1295-1301,1312-1352,1370-1399,1474-1586
+package.json
+  s_dea0b7b181dc5c::t_dd6af96c33cb5b 13-14,17-18,20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "c4e2cd50b064f20d46ca0b8f4f05b594033a002b",
+  "prompts": {},
+  "sessions": {
+    "s_dea0b7b181dc5c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "52518956-3a2a-404a-bc03-dbb7b31b75ca",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Igor Matrofailo <imatrofaylo@gmail.com>"
+    }
+  }
+}
