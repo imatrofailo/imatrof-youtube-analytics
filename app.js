@@ -68,7 +68,7 @@ function truncate(text, length = 180) {
   return text.length > length ? `${text.slice(0, length - 1)}…` : text;
 }
 
-function parseUkDate(value) {
+export function parseUkDate(value) {
   const [day, monthWord, year] = value.split(" ");
   return new Date(Number(year), MONTHS[monthWord], Number(day));
 }
@@ -77,17 +77,17 @@ function formatMonth(date) {
   return date.toLocaleDateString("uk-UA", { month: "short", year: "numeric" });
 }
 
-function slugify(value) {
+export function slugify(value) {
   return value.toLowerCase().replace(/[^a-zа-яіїє0-9]+/giu, "-").replace(/(^-|-$)/g, "");
 }
 
-function formatSignedDelta(value, suffix = "") {
+export function formatSignedDelta(value, suffix = "") {
   const amount = Number(value || 0);
   const sign = amount >= 0 ? "+" : "";
   return `${sign}${amount}${suffix}`;
 }
 
-function dedupeCommentPool(items) {
+export function dedupeCommentPool(items) {
   const seen = new Set();
   return items.filter((item) => {
     const key = `${item.text}::${item.comment_url || item.video_url || item.published_at}`;
@@ -97,7 +97,7 @@ function dedupeCommentPool(items) {
   });
 }
 
-function buildMonthlyVideoSeries(videos) {
+export function buildMonthlyVideoSeries(videos) {
   const buckets = new Map();
   videos.forEach((item) => {
     const date = parseUkDate(item.published_at);
@@ -117,7 +117,7 @@ function buildMonthlyVideoSeries(videos) {
   return [...buckets.values()].sort((a, b) => a.key.localeCompare(b.key));
 }
 
-function findThemeCommentPool(data, item, index) {
+export function findThemeCommentPool(data, item, index) {
   const seeded = dedupeCommentPool(item.samples || []);
   if (seeded.length) {
     return seeded;
@@ -168,7 +168,7 @@ function findThemeCommentPool(data, item, index) {
   return dedupeCommentPool(pool).slice(0, 24);
 }
 
-function buildReactionSummary(data) {
+export function buildReactionSummary(data) {
   const comments = data.stats.find((item) => item.label.toLowerCase().includes("коментар"));
   const videos = data.stats.find((item) => item.label.toLowerCase().includes("відео"));
   const replies = data.stats.find((item) => item.label.toLowerCase().includes("відповід"));
@@ -633,4 +633,8 @@ async function main() {
   }
 }
 
-main();
+// Guard: in the browser this module renders the page; under vitest (node,
+// no DOM) only the exported pure functions are consumed.
+if (typeof document !== "undefined") {
+  main();
+}
