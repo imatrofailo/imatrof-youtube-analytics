@@ -4,12 +4,12 @@
     "channel_url": "https://www.youtube.com/@imatrof",
     "site_title": "Аналітика коментарів YouTube",
     "report_url": "../outputs/YouTube_comment_insights.xlsx",
-    "generated_from": "11 січня 2026 - 19 липня 2026",
+    "generated_from": "11 січня 2026 - 26 липня 2026",
     "last_refresh": {
-      "label": "19 липня 2026",
+      "label": "29 липня 2026",
       "new_videos_count": 3,
-      "new_top_level_comments_count": 92,
-      "new_replies_count": 30
+      "new_top_level_comments_count": 74,
+      "new_replies_count": 14
     }
   },
   "hero": {
@@ -29,28 +29,28 @@
   "stats": [
     {
       "label": "Top-level коментарів в аналізі",
-      "value": 1364,
+      "value": 1431,
       "hint": "Релевантні коментарі верхнього рівня після фільтра коротких реакцій, спаму і нерелевантних записів."
     },
     {
       "label": "Охоплено відео",
-      "value": 42,
-      "hint": "Діапазон: 11 січня 2026 - 19 липня 2026"
+      "value": 45,
+      "hint": "Діапазон: 11 січня 2026 - 26 липня 2026"
     },
     {
       "label": "Відповідей у гілках",
-      "value": 706,
-      "hint": "Replies під top-level коментарями. Це окремий шар дискусії й він не входить у 1364 top-level коментарів."
+      "value": 720,
+      "hint": "Replies під top-level коментарями. Це окремий шар дискусії й він не входить у 1431 top-level коментарів."
     },
     {
       "label": "Головний попит",
       "value": "Безпека та локальний запуск ШІ",
-      "hint": "133 згадок у коментарях"
+      "hint": "138 згадок у коментарях"
     },
     {
       "label": "Найсильніша тема",
       "value": "Можливості моделей і порівняння",
-      "hint": "196 зафіксованих сигналів"
+      "hint": "208 зафіксованих сигналів"
     },
     {
       "label": "Формат звіту",
@@ -63,45 +63,141 @@
       "title": "Аудиторія приходить по відбірці головного: новини про ШІ економлять їй час на самостійний пошук.",
       "details": "Тема новин про ШІ та кураторства має 27 згадок, а люди прямо пишуть, що канал допомагає відслідковувати ринок без зайвого шуму.",
       "priority": "Високий",
-      "evidence": "Ігоре, дякую за новини. Як завжди, все стисло і по ділу.",
-      "evidence_url": "https://www.youtube.com/watch?v=bhylt8VW12Q&lc=UgxNOfcWie88qwkKzNB4AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=bhylt8VW12Q",
-      "video_title": "НОВИНИ AI: Готові до нової битви відкритих AI-моделей?"
+      "evidence": "Дякую за класний контент. Завжди цікаво отримувати актуальні новини",
+      "evidence_url": "https://www.youtube.com/watch?v=xOKytNwbSdg&lc=Ugw1EZopFmQNCDh0SzR4AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=xOKytNwbSdg",
+      "video_title": "НОВИНИ AI: GOOGLE атакує ОДРАЗУ трьома моделями — чого чекати?"
     },
     {
       "title": "Найсильніший продуктовий інтерес зараз навколо стеку агентної розробки: Codex, Claude Code, OpenClaw.",
       "details": "Тема ШІ-агентів і робочих процесів розробки має 19 згадок, а інструменти Codex, Claude та OpenClaw разом фігурують 24 рази.",
       "priority": "Високий",
-      "evidence": "На рахунок поломаних автоматизаці і того що деякі інструменти перестають працювати - в цьому випадку сам Codex дуже добре справляється з вирішенням цих проблем шляхом окремого треда з full access.",
-      "evidence_url": "https://www.youtube.com/watch?v=VNR_SyeZF20&lc=UgzDTGbSJAIp9Na1-x54AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=VNR_SyeZF20",
-      "video_title": "ChatGPT Work  — сам доводить завдання до кінця!"
+      "evidence": "Апдейтимо claude cli, виставляємо effort \"ultracode\" і отримуємо новий фундамент.",
+      "evidence_url": "https://www.youtube.com/watch?v=n34bbtUafb4&lc=UgxzdjCpxP613E_3sbR4AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=n34bbtUafb4",
+      "video_title": "Claude Opus 5 змінює все, що ми знали про ШІ!"
     },
     {
       "title": "Люди хочуть не лише анонси, а й чесну перевірку реальністю: де ШІ вже працює, а де ще ламається.",
       "details": "Тема практичного застосування має 15 згадок, а питання про реальну користь з'являються 10 разів.",
       "priority": "Високий",
-      "evidence": "Мій досвід – GPT кращий для роботи із загальними даними, ресерчами, пошуком.\nClaude – все ж краще працює з наданими даними, синтезом чогось із них, структуруванням.",
-      "evidence_url": "https://www.youtube.com/watch?v=VNR_SyeZF20&lc=Ugxkl9yDHaic_VGRhvF4AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=VNR_SyeZF20",
-      "video_title": "ChatGPT Work  — сам доводить завдання до кінця!"
+      "evidence": "А де практичні тести? Чи будуть вони?",
+      "evidence_url": "https://www.youtube.com/watch?v=n34bbtUafb4&lc=Ugw8DHuACl545mCGVSN4AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=n34bbtUafb4",
+      "video_title": "Claude Opus 5 змінює все, що ми знали про ШІ!"
     },
     {
       "title": "Навколо безпеки, доступів і локального запуску ШІ-агентів є помітна напруга.",
       "details": "Запити про безпеку та локальний запуск мають 11 тригерів, а окремі питання про доступи виникають 8 разів.",
       "priority": "Середній",
-      "evidence": "Ігор, а роскаєи будь даска як ти в браузері запустив Гемма 4, локально? Можно ссилку на модель, мені потрібно робити агентні штучки простенькі, дивлюсь ця модель дуже підійшла би мені.",
-      "evidence_url": "https://www.youtube.com/watch?v=qxmm8dukqTg&lc=UgydXEcDBr39vTI2nBB4AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=qxmm8dukqTg",
-      "video_title": "НОВИНИ AI: Готові до Claude Fable 5 знову? GPT 5.6 вже тут!"
+      "evidence": "Як отримати ГуглПро безкоштовно?\nЧи є локальна ШІ - типу нанобанана2",
+      "evidence_url": "https://www.youtube.com/watch?v=xOKytNwbSdg&lc=Ugz9bNtNg7BKRAdy_kl4AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=xOKytNwbSdg",
+      "video_title": "НОВИНИ AI: GOOGLE атакує ОДРАЗУ трьома моделями — чого чекати?"
     }
   ],
   "theme_distribution": [
     {
       "label": "Можливості моделей і порівняння",
-      "count": 196,
+      "count": 208,
       "delta": 0,
       "samples": [
+        {
+          "author": "@valeriycold",
+          "text": "Дякую за цікаве відео. Підкажіть, а який інструмент використовувати для оркестрації використання різних мовних моделей для вирішення задачі і здешевлення процесу? Ну, тобто чим користуватись, щоб залучати і кодекс і містраль і щоб керував цим, наприклад, опус?",
+          "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів",
+          "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+          "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=UgxYp6WebIQDiH-N7kB4AaABAg",
+          "published_at": "29 липня 2026"
+        },
+        {
+          "author": "@AlexGrivnik",
+          "text": "Стосовно Gemini, використовую безоплатну версію, для перекладу невеликих текстів по десять дванадцять сторінок. Так от з появою цех \"Флешів\", якість генерації значно впала, і справа не в якості перекладу, а в самому тексті. Почали частіше з'являтися русизми, російські літери або навіть латинські літери в словах, слова повністю латинськими літерами, або символи з мови оригіналу. З.6  пробував лише на обробці зображень, він швидший і якість краща за три і п'ять.",
+          "video_title": "НОВИНИ AI: GOOGLE атакує ОДРАЗУ трьома моделями — чого чекати?",
+          "video_url": "https://www.youtube.com/watch?v=xOKytNwbSdg",
+          "comment_url": "https://www.youtube.com/watch?v=xOKytNwbSdg&lc=Ugzo1Xbj82eBbuElCKZ4AaABAg",
+          "published_at": "27 липня 2026"
+        },
+        {
+          "author": "@jobeye3043",
+          "text": "Ех, щось не чутно і не видно Gemini 3.5 pro",
+          "video_title": "НОВИНИ AI: GOOGLE атакує ОДРАЗУ трьома моделями — чого чекати?",
+          "video_url": "https://www.youtube.com/watch?v=xOKytNwbSdg",
+          "comment_url": "https://www.youtube.com/watch?v=xOKytNwbSdg&lc=Ugxhh_094sVOkN4dMaJ4AaABAg",
+          "published_at": "26 липня 2026"
+        },
+        {
+          "author": "@andriibiletskyi6479",
+          "text": "Я честно говоря задолбался бегать за новыми моделями просто работаю в чат gpt 5.6 Sol. Перебегать на модели забирает кучу времени и ресурсов если бы она действительно была суперкрутая там не знаю круче gpt в два раза тогда бы да.",
+          "video_title": "Claude Opus 5 змінює все, що ми знали про ШІ!",
+          "video_url": "https://www.youtube.com/watch?v=n34bbtUafb4",
+          "comment_url": "https://www.youtube.com/watch?v=n34bbtUafb4&lc=UgxLzurrgp2mYrutDrl4AaABAg",
+          "published_at": "25 липня 2026"
+        },
+        {
+          "author": "@eoltc6169",
+          "text": "Апдейтимо claude cli, виставляємо effort \"ultracode\" і отримуємо новий фундамент.",
+          "video_title": "Claude Opus 5 змінює все, що ми знали про ШІ!",
+          "video_url": "https://www.youtube.com/watch?v=n34bbtUafb4",
+          "comment_url": "https://www.youtube.com/watch?v=n34bbtUafb4&lc=UgxzdjCpxP613E_3sbR4AaABAg",
+          "published_at": "25 липня 2026"
+        },
+        {
+          "author": "@Evgeniy123",
+          "text": "тобто судячи по графікам GPT-5.6 Sol взуває Fable по самі помідори",
+          "video_title": "Claude Opus 5 змінює все, що ми знали про ШІ!",
+          "video_url": "https://www.youtube.com/watch?v=n34bbtUafb4",
+          "comment_url": "https://www.youtube.com/watch?v=n34bbtUafb4&lc=UgzLdmQfIXe7X8Di6FZ4AaABAg",
+          "published_at": "25 липня 2026"
+        },
+        {
+          "author": "@bujmbujm",
+          "text": "Каждый раз одно и то же шоу. «Эта модель уничтожила всех конкурентов», «революция», «ничего лучше уже не будет». Через месяц выходит следующая — и те же люди рассказывают, что предыдущая уже устарела и теперь «настоящая революция» случилась только сейчас. И так по кругу. Вы сами не замечаете, насколько комично это выглядит?",
+          "video_title": "Claude Opus 5 змінює все, що ми знали про ШІ!",
+          "video_url": "https://www.youtube.com/watch?v=n34bbtUafb4",
+          "comment_url": "https://www.youtube.com/watch?v=n34bbtUafb4&lc=UgyZgeEVWqiMvZgMIrB4AaABAg",
+          "published_at": "25 липня 2026"
+        },
+        {
+          "author": "@eugenek777",
+          "text": "2:18 цей Карпаті розказує про англійську, але його Wiki LLM працює тільки через Claude Code",
+          "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів",
+          "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+          "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=Ugy_mjPGUMHnbjHXKEd4AaABAg",
+          "published_at": "21 липня 2026"
+        },
+        {
+          "author": "@alex_316",
+          "text": "Gemini: Фраза «горизонт планування» у відео звучить 11 разів.",
+          "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів",
+          "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+          "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=Ugx-8vwTs7d3FfuFrox4AaABAg",
+          "published_at": "21 липня 2026"
+        },
+        {
+          "author": "@volodymyrdemkiv9398",
+          "text": "Зручно реалізовувати і запускати форкфлови через плагіни Claude/Codex де чітко прописується Skills, Tools, Agents і так далі. Зараз якраз працюю над версією яка дозволяє встановлювати контракт для агентів під час виконання продуктових і інженерних завдань більшої складності.\nЦікаво спострерігати як модель постійно намагається обійти контакт і виконувати завдання за межами флову. Якраз про те що згадує Ігор у відео, модель лінива і намагається спростити виконання, або я взагалі зупинити його чим швидше не переконавшись що завдання повноцінно виконано.",
+          "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів",
+          "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+          "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=UgzPWD7896ZOljaRCfF4AaABAg",
+          "published_at": "21 липня 2026"
+        },
+        {
+          "author": "@DrinkMayster",
+          "text": "Фiгня. Забейте в Gemini вопрос - \"как правильно писать задание фрилансеру?\" , и он напишет практически все тоже самое - тот же самый \"промт-инжиниринг\".",
+          "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів",
+          "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+          "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=UgyewZpY8rsUnoJ1Y114AaABAg",
+          "published_at": "21 липня 2026"
+        },
+        {
+          "author": "@Отсутствиеновостей-хорошаяново",
+          "text": "1. Не знаю что случилось с Fable 5, но код она пишет хуже чем gpt-5.6  (ultra). Что с effort= max, что в ultracode - кстати тут ещё хуже получается чем когда effort = max.\n2. Да, можно явно указывать модели Fable 5 (и остальным) роли и количество субагентов а можно поставить режим ultracode и наслаждаться workflow, но, см. п.1.",
+          "video_title": "НОВИНИ AI: Готові до нової битви відкритих AI-моделей?",
+          "video_url": "https://www.youtube.com/watch?v=bhylt8VW12Q",
+          "comment_url": "https://www.youtube.com/watch?v=bhylt8VW12Q&lc=UgxFoAack1JFxoJpB194AaABAg",
+          "published_at": "20 липня 2026"
+        },
         {
           "author": "@Black1991Star",
           "text": "Я не розумію чому ви називаєте це \"власна ШІ\" ? Вашим девайсом оперує стороння організація ви ніяк не дотичні. ШІ модель здатна ігнорувати ваші вимоги. Де тут відчуття контролю ?",
@@ -773,110 +869,86 @@
           "video_url": "https://www.youtube.com/watch?v=svS762o1sl4",
           "comment_url": "https://www.youtube.com/watch?v=svS762o1sl4&lc=UgyVpdcjGYOOnRC-uu14AaABAg",
           "published_at": "23 квітня 2026"
-        },
-        {
-          "author": "@fresh_evgar",
-          "text": "Якщо прикрутити скілл до того ж Claude Code, хіба він не зможе у режимі планування генерувати те саме? Принаймні я буквально кілька тижнів тому робив те саме в консолі",
-          "video_title": "CLAUDE DESIGN: робить за 5 хвилин те, на що у Figma йшов цілий день",
-          "video_url": "https://www.youtube.com/watch?v=svS762o1sl4",
-          "comment_url": "https://www.youtube.com/watch?v=svS762o1sl4&lc=UgxLv9LcFJWwOu4i7UR4AaABAg",
-          "published_at": "23 квітня 2026"
-        },
-        {
-          "author": "@dreikk91",
-          "text": "Claude якісь ліміти за 24$ надто маленькі, буквально декілька запитів і нема 10% тижневого ліміту, чекай 5 годин щоб поновився денний ліміт, щоб зробити ще 2-3 запити. якість відповідей погана, працює повільно, посеред завдання може сказати що закінчився ліміт. Таке враження, що в chatgpt ліміти раз в 10 більші, і то їх зараз порізали, ще два тижні тому, ліміти взагалі не можливо було вибрати, якість відповідей gpt 5.4 задовільна. Це я про звичайні запити типу написати тести або документацію, знайти проблему в модулі",
-          "video_title": "CLAUDE DESIGN: робить за 5 хвилин те, на що у Figma йшов цілий день",
-          "video_url": "https://www.youtube.com/watch?v=svS762o1sl4",
-          "comment_url": "https://www.youtube.com/watch?v=svS762o1sl4&lc=UgxFsOshyOrD5ZCeAyR4AaABAg",
-          "published_at": "22 квітня 2026"
-        },
-        {
-          "author": "@vikgra5598",
-          "text": "Спасибо за видео👍 \nНа самом деле очень классное ощущения от использования Claude, оторваться не возможно, благо хоть лимиты иногда заканчиваются)",
-          "video_title": "CLAUDE DESIGN: робить за 5 хвилин те, на що у Figma йшов цілий день",
-          "video_url": "https://www.youtube.com/watch?v=svS762o1sl4",
-          "comment_url": "https://www.youtube.com/watch?v=svS762o1sl4&lc=Ugwro5kwd7FV2Q0y4O94AaABAg",
-          "published_at": "22 квітня 2026"
-        },
-        {
-          "author": "@1hokage",
-          "text": "привіт давай огляд chat gpt image 2 як він справляється із завданнями українською, цікаво",
-          "video_title": "CLAUDE DESIGN: робить за 5 хвилин те, на що у Figma йшов цілий день",
-          "video_url": "https://www.youtube.com/watch?v=svS762o1sl4",
-          "comment_url": "https://www.youtube.com/watch?v=svS762o1sl4&lc=Ugz0bDLCd3e0cEFJNuB4AaABAg",
-          "published_at": "22 квітня 2026"
-        },
-        {
-          "author": "@Libre_Nomad",
-          "text": "Дивлячись на ці нові розробки, я бачу не просто інновації, а формування окремих, замкнених екосистем. Початок для мене був, звісно, з Microsoft (Windows/Office), потім Apple. Сьогодні ці гіганти — OpenAI, Google, Anthropic — перетворюють свої чат-інтерфейси на повноцінні супердодатки. Google розширює свій вплив у кожен напрямок: від AI у мобільному до повноцінної генерації контенту. Anthropic створює інструментарій навколо своїх моделей, OpenAI робить зі свого чату супердодаток, у якому буде все і з якого не потрібно нікуди виходити. Це виглядає вражаюче, але це стратегія монополізації. Нас приваблюють бездоганні фічі та можливості, тоді як насправді відбувається підсаджування до залежності від їхніх платформ.",
-          "video_title": "CLAUDE DESIGN: робить за 5 хвилин те, на що у Figma йшов цілий день",
-          "video_url": "https://www.youtube.com/watch?v=svS762o1sl4",
-          "comment_url": "https://www.youtube.com/watch?v=svS762o1sl4&lc=Ugz-bN3bP3A8qKHpS-x4AaABAg",
-          "published_at": "22 квітня 2026"
-        },
-        {
-          "author": "@Black1991Star",
-          "text": "Я не розділяю вашого захоплення, оскільки під час тесту на реальному проекту, воно видає, що попало. Візьміть готовий сайт/зображення сторінки сайту та попросіть доповнити його в тій же стилістиці. І якщо там буде щось складніше плоских блоків, по типу банального конструктора, то воно не справляється. При експорті html файлу ви отримаєте документ в якому нічого вам не налажить, а все віддається з їх серверів і оформлено в атамарному стилі, з яким вам буде в край складно працювати без тих же помічників. Забудьте про унікальні шрифти, тільки ГуглБезкоштовні. Забудьте про все що попадає під фільтри. Те що ви створите, ви будете абслуговувати виключно цими ШІ ботами.  Дякую що вас є 20$ на показати це.",
-          "video_title": "CLAUDE DESIGN: робить за 5 хвилин те, на що у Figma йшов цілий день",
-          "video_url": "https://www.youtube.com/watch?v=svS762o1sl4",
-          "comment_url": "https://www.youtube.com/watch?v=svS762o1sl4&lc=UgxD2ignlAfMcgQgut14AaABAg",
-          "published_at": "22 квітня 2026"
-        },
-        {
-          "author": "@ЮрійЧоботар-т3б",
-          "text": "Я сам нещодавно навчився використовувати мовні моделі в своїй роботі,яка не пов'язана із програмуванням - і поки що трохи розчарований різницею між очікуванням і результатами. Моделі, що Грок , що ЧатЖПТ мають вроджені вади, такі як постійне  галюціонування, хворобливе менторство, \" оптимізацію\"  всього і вся і з кожною ітерацією їх все важче примушувати робити завдання з належною якістю. Отже, цей інструмент поки залишається більше суто внутрішнім \" протезом\" для програмістів , в інших напрямках - це досить сирий переоцінений продукт,який вимагає неабияких працевитрат для перевірки отриманих результатів , їхнього коригування і доведення до робочого стану.",
-          "video_title": "Чесна розмова про AI якої всі так чекали. Чому 62% вже вигорають?",
-          "video_url": "https://www.youtube.com/watch?v=7wmJTCogL60",
-          "comment_url": "https://www.youtube.com/watch?v=7wmJTCogL60&lc=Ugw6oqY7HgV4NSHa6fl4AaABAg",
-          "published_at": "21 квітня 2026"
-        },
-        {
-          "author": "@fp1537",
-          "text": "Спробував у платній Gemini 3.1 Pro AI Plus, show me не працює",
-          "video_title": "НОВИНИ AI: ПРОРИВ! Модель тижня, яку всі так чекали",
-          "video_url": "https://www.youtube.com/watch?v=mkP9rdpMUWw",
-          "comment_url": "https://www.youtube.com/watch?v=mkP9rdpMUWw&lc=UgwAmbA0eMBpp2uwuOB4AaABAg",
-          "published_at": "19 квітня 2026"
-        },
-        {
-          "author": "@SoulinEveryPaw",
-          "text": "🎉Рекомендую до Claude Code -антігравіті з підпискою, 1 міс безкоштовно.\nХто хоче може підключатись на різних аккаунтах родичів+ на 90дгів дають по 300-1тис дол на вертекс АІ,підключення через АРІ клауде моделей.\nЄ і соннет, і опус , і 3.1про геміні для простіших задач, все переключається в 1 діалозі.\nУ травні після нового релізу геміні буде ще краще.\n\nА ще краще + до всього кодекс за 20дол, готуйтесь ,що він вистрілить за місяць-два.\n\nРаніше опен аі не звертали на нього увагу,після успіху закрили Сору і кинули веліки ресурси ,щоб підняти на рівень клауде код.\nКонкуренція це сила.\nКористийтесь)",
-          "video_title": "НОВИНИ AI: ПРОРИВ! Модель тижня, яку всі так чекали",
-          "video_url": "https://www.youtube.com/watch?v=mkP9rdpMUWw",
-          "comment_url": "https://www.youtube.com/watch?v=mkP9rdpMUWw&lc=Ugw3VRJR70-x9mX-EfJ4AaABAg",
-          "published_at": "19 квітня 2026"
-        },
-        {
-          "author": "@paj11000",
-          "text": "Show me від gemini платна послуга?",
-          "video_title": "НОВИНИ AI: ПРОРИВ! Модель тижня, яку всі так чекали",
-          "video_url": "https://www.youtube.com/watch?v=mkP9rdpMUWw",
-          "comment_url": "https://www.youtube.com/watch?v=mkP9rdpMUWw&lc=UgzsJHocmxn__SplzoR4AaABAg",
-          "published_at": "19 квітня 2026"
-        },
-        {
-          "author": "@bordurek",
-          "text": "Чесно кажучи, для мене більш корисне було б відео з розбором кожної моделі на 30 хвилин з інформацією про можливості, ціну, а головне встановленням та практичними прикладами, ніж таке відео, як сьогодні, де всього потроху і нічого конкретного для людини, яка б хотіла почати користуватися з таких моделей. Ваше ж відео через місяць вже буде не актуальне, не матиме нових переглядів, капіталізацію воно теж не підтримуватиме, а головне, на нього не прийдуть нові підписники.",
-          "video_title": "НОВИНИ AI: ПРОРИВ! Модель тижня, яку всі так чекали",
-          "video_url": "https://www.youtube.com/watch?v=mkP9rdpMUWw",
-          "comment_url": "https://www.youtube.com/watch?v=mkP9rdpMUWw&lc=UgwSH6aQar4gu0p3OMh4AaABAg",
-          "published_at": "19 квітня 2026"
-        },
-        {
-          "author": "@AutoDiag_PRO",
-          "text": "Та ми вже давно перейшли на моделі по 100$))",
-          "video_title": "НОВИНИ AI: ПРОРИВ! Модель тижня, яку всі так чекали",
-          "video_url": "https://www.youtube.com/watch?v=mkP9rdpMUWw",
-          "comment_url": "https://www.youtube.com/watch?v=mkP9rdpMUWw&lc=UgylEOlxS3_TPjOpeeN4AaABAg",
-          "published_at": "19 квітня 2026"
         }
       ]
     },
     {
       "label": "Інфраструктура, приватність і локальний запуск",
-      "count": 171,
+      "count": 180,
       "delta": 0,
       "samples": [
+        {
+          "author": "@SerhiiQA",
+          "text": "11:48 — Ігор, підкажіть, будь ласка, а ці скіли для wiki плануєте десь опублікувати? Бо зараз вони у вас в приватному репо.",
+          "video_title": "Як я перестав починати кожен чат з нуля",
+          "video_url": "https://www.youtube.com/watch?v=9DLyBdND22c",
+          "comment_url": "https://www.youtube.com/watch?v=9DLyBdND22c&lc=UgzF9Pk337tqEy2lxv14AaABAg",
+          "published_at": "28 липня 2026"
+        },
+        {
+          "author": "@YuriyMaksymchuk",
+          "text": "стосовно джемені його якість реально падає для безплатного користування з кожним релізом. що раз більше обмежень і що раз примітивніші відповіді.. навіть якщо палочкою потикати щоб кудись пішов подивився.. кілька місяців тому: нажав на кропку, сказав запит і отримував пристойну інформацію. зараз не лінуюся відкрити чат жпт..",
+          "video_title": "НОВИНИ AI: GOOGLE атакує ОДРАЗУ трьома моделями — чого чекати?",
+          "video_url": "https://www.youtube.com/watch?v=xOKytNwbSdg",
+          "comment_url": "https://www.youtube.com/watch?v=xOKytNwbSdg&lc=UgyPaUrPIzUABsJR1mJ4AaABAg",
+          "published_at": "28 липня 2026"
+        },
+        {
+          "author": "@HOSTRASOKYRA",
+          "text": "Основна ієрархія використання LLM - \n1. Безкоштовно \n2. $20 \n3. $100 \n4. $200 \n5. $2000 \n6. корпоративний \n7. банкрутство",
+          "video_title": "НОВИНИ AI: GOOGLE атакує ОДРАЗУ трьома моделями — чого чекати?",
+          "video_url": "https://www.youtube.com/watch?v=xOKytNwbSdg",
+          "comment_url": "https://www.youtube.com/watch?v=xOKytNwbSdg&lc=UgzxLcxaEDO2CFjmYx54AaABAg",
+          "published_at": "26 липня 2026"
+        },
+        {
+          "author": "@ivanmierchuk6424",
+          "text": "Як отримати ГуглПро безкоштовно?\nЧи є локальна ШІ - типу нанобанана2",
+          "video_title": "НОВИНИ AI: GOOGLE атакує ОДРАЗУ трьома моделями — чого чекати?",
+          "video_url": "https://www.youtube.com/watch?v=xOKytNwbSdg",
+          "comment_url": "https://www.youtube.com/watch?v=xOKytNwbSdg&lc=Ugz9bNtNg7BKRAdy_kl4AaABAg",
+          "published_at": "26 липня 2026"
+        },
+        {
+          "author": "@ОлександрЛуцевич",
+          "text": "Дякую за чудове пояснення?  Зрозуміло і доступно.",
+          "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів",
+          "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+          "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=UgyRB4PP2iFsGk0bGWp4AaABAg",
+          "published_at": "26 липня 2026"
+        },
+        {
+          "author": "@LayerMuse",
+          "text": "Це класна штука, зараз перейшов з локальної версії до версії на vps де по мср підключив всю команду і тепер у нас одна робоча вікі для всієї команди і там зберігається контекст по всіх проєктах для всіх одразу.",
+          "video_title": "Як я перестав починати кожен чат з нуля",
+          "video_url": "https://www.youtube.com/watch?v=9DLyBdND22c",
+          "comment_url": "https://www.youtube.com/watch?v=9DLyBdND22c&lc=Ugz-c12OCb78vHpYndh4AaABAg",
+          "published_at": "23 липня 2026"
+        },
+        {
+          "author": "@demitro.cardellini",
+          "text": "тільки не інтерпретатор, а -- дебагер асемблеру \n\nНе стрічка, а -- рядок\n\nПромптітнг-- це не програмування. Тобто промпт -- це не програма, а швидше ТЗ.\n\nЯ поясню на прикладі: мені треба доволі часто публікувати локальні  md-файли в Confluence.\n\nЯ спочатку створив скіл для публікації, але один і той самий документ міг бути опублікований трохи в різний спосіб, публікація займала хвилини\n\nПроблему вирішено було, коли я перетворив skil на nodejs cli утіліту.\n\nПо-перше я отримав визначеність результату -- один і той самий файл став публікуватися завжди однаково.\n\nПо-друге -- публікація документа стала вкладатися в секунду, а не займати декілька хвилин.\n\nПо-третє, кількість токенів для публікації документа тепер не залежить від розміру того файла. Це у випадку, коли скіл був замінений на просте використання cli-утіліти. \n\nТак от -- важливо не плутати програму та ТЗ на її розробку.\n\nВи відправляєте промпт і ші-агент з llm буде генерувати програму, виконувати її, аналізувати результати, адаптувати програму, і все по колу.\n\nЯкось так ...",
+          "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів",
+          "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+          "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=UgxD4EYMqZZb9sqEuUF4AaABAg",
+          "published_at": "22 липня 2026"
+        },
+        {
+          "author": "@eugenek777",
+          "text": "2:18 цей Карпаті розказує про англійську, але його Wiki LLM працює тільки через Claude Code",
+          "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів",
+          "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+          "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=Ugy_mjPGUMHnbjHXKEd4AaABAg",
+          "published_at": "21 липня 2026"
+        },
+        {
+          "author": "@andrewyt5793",
+          "text": "Декілька місяців у голові крутилась думка, яка відгукується після перегляду. \nУ 1999 пощастило потрапити на факультет інформатики у КПІ, там стояли мейнфрейми (суперкомпʼютери для складних задач, не плутати зі звичайними пк). Лаборанти писали код-алгоритм для виконання складної задачі, компʼютер виконував. Зараз це промпт,  доступно навіть з телефону. І Тут вже багато інших думок щодо того як мас-маркет цим користується.",
+          "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів",
+          "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+          "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=UgwiBdcQMpK12ErRDOB4AaABAg",
+          "published_at": "21 липня 2026"
+        },
         {
           "author": "@mitteos",
           "text": "Щось OpenAi намудрили з апкой, не дуже зручно так ще немає синхронізації с веб-ворком",
@@ -1572,86 +1644,78 @@
           "video_url": "https://www.youtube.com/watch?v=INXY8x_cy-s",
           "comment_url": "https://www.youtube.com/watch?v=INXY8x_cy-s&lc=UgxODi7Gv4wWweZ4IG94AaABAg",
           "published_at": "24 березня 2026"
-        },
-        {
-          "author": "@viacheslavmelnik888",
-          "text": "доки не вирішать питання безпеки, мені він не потрібен. до розмов про безкоштовність додайте вартість окремого сервака.",
-          "video_title": "ВІДКРИТТЯ РОКУ! AI-агент, що ЗМІНИТЬ все",
-          "video_url": "https://www.youtube.com/watch?v=PCaMCZ9FiNQ",
-          "comment_url": "https://www.youtube.com/watch?v=PCaMCZ9FiNQ&lc=UgzdleeK-Gk6j1pLeb54AaABAg",
-          "published_at": "24 березня 2026"
-        },
-        {
-          "author": "@ops_rv",
-          "text": "На рахунок скілів, лежать на git, біля них скрипт, який розкидає по папках відомих провайдерів, які в мене встановлені. Зробив так, бо була необхідність роботи на віддаленій машині і зараз при оновленні скілів легко оновити всюди. Також простіший варіант всімказати брати з одного місця в головних init файлах.",
-          "video_title": "НОВИНИ AI: Готові взяти AI-КОЛЕГУ на роботу? OpenAI, Anthropic та Nvidia здивували!",
-          "video_url": "https://www.youtube.com/watch?v=INXY8x_cy-s",
-          "comment_url": "https://www.youtube.com/watch?v=INXY8x_cy-s&lc=UgwqcKtAE4CqPDJ2eL94AaABAg",
-          "published_at": "22 березня 2026"
-        },
-        {
-          "author": "@imhogar",
-          "text": "а поясни.. де у клод кнопка Агент. у чат жпт є такий пункт.. а от у клода немає. дякую",
-          "video_title": "НОВИНИ AI: Готові взяти AI-КОЛЕГУ на роботу? OpenAI, Anthropic та Nvidia здивували!",
-          "video_url": "https://www.youtube.com/watch?v=INXY8x_cy-s",
-          "comment_url": "https://www.youtube.com/watch?v=INXY8x_cy-s&lc=UgxNMtvzjFrrROXWh1B4AaABAg",
-          "published_at": "22 березня 2026"
-        },
-        {
-          "author": "@taraslukashyk",
-          "text": "Стосується кінцівки відео, абсолютно правий. \nКолись почув фразу яка ж і відносилася до АІ і зміни які він за собою несе, \"ефективність ніколи не означає спокій\" ми просто додаємо більше собі роботи, але класно коли аі відкриває для тебе можливості які раніше для тебе були недоступні, в моєму випадку це стало програмування та створення сайтів, і можливість розвиватися та вчитися. І це відносно дешево",
-          "video_title": "НОВИНИ AI: Готові взяти AI-КОЛЕГУ на роботу? OpenAI, Anthropic та Nvidia здивували!",
-          "video_url": "https://www.youtube.com/watch?v=INXY8x_cy-s",
-          "comment_url": "https://www.youtube.com/watch?v=INXY8x_cy-s&lc=Ugx7rPZChcLcZCRkTvZ4AaABAg",
-          "published_at": "22 березня 2026"
-        },
-        {
-          "author": "@maciborka78",
-          "text": "Надо свой MCP сервер для скиллов использовать и прописать во всех агентах и оболочках инструкцию",
-          "video_title": "НОВИНИ AI: Готові взяти AI-КОЛЕГУ на роботу? OpenAI, Anthropic та Nvidia здивували!",
-          "video_url": "https://www.youtube.com/watch?v=INXY8x_cy-s",
-          "comment_url": "https://www.youtube.com/watch?v=INXY8x_cy-s&lc=Ugz1xZauoG9-o27ifrh4AaABAg",
-          "published_at": "22 березня 2026"
-        },
-        {
-          "author": "@quazarsg",
-          "text": "Потрібна невеличка консультація. Намагаюсь розібратися з тарифікацією використання Hostinger з OpenClaw. Я оформив річну підписку в Hostinger. Активував в ньому OpenClaw як показав автор. Все запрацювало. Але через пару тижнів (при тому що я після первинного налаштування не користувався сервісом) баланс кредитів 0. Нічого не працює- треба поповнювати баланс. Чи правильно я розумію що річна підписка - це лише за користування VPS, а використання кредитів ШІ має оплачуватись додатково?",
-          "video_title": "Чому я більше не використовую ChatGPT? Показую свого AI-агента!",
-          "video_url": "https://www.youtube.com/watch?v=HnciJGQXELU",
-          "comment_url": "https://www.youtube.com/watch?v=HnciJGQXELU&lc=UgxhVK6sNf7US8mXni94AaABAg",
-          "published_at": "19 березня 2026"
-        },
-        {
-          "author": "@RslVysh",
-          "text": "В Китаї, читав десь в тг, заборонили OpenClaw, через безпеку",
-          "video_title": "НОВИНИ AI: Чому всі хочуть стати твоїм AI-КОЛЕГОЮ?",
-          "video_url": "https://www.youtube.com/watch?v=ho0MqfrbY6w",
-          "comment_url": "https://www.youtube.com/watch?v=ho0MqfrbY6w&lc=UgzTh1fBP4DeXsBnxQh4AaABAg",
-          "published_at": "18 березня 2026"
-        },
-        {
-          "author": "@МиколаІнкогніто-т6р",
-          "text": "недавно пощупав модель Cerebras, там є безплатний план + можна юзати через Cline, дуже хочеться побачити реальне порівняня в кодуванні проекту з нуля і великого проекту засобами безкоштовних моделей. Платні моделі це звісно весело, але коли просто для себе щось кодиш після роботи, то тратитись з власних грошенят якось вже влом, а на роботі Claude Code юзаємо, в принципі це наш фаворит, після певного тюнінгу промпта - любий АІ значно \"розумнішає\". Ось було би прикольно мати халявний Claude Code.... А ще... чи є моделі які можна в свому клауді розмістити? Маю на увазі - шось типу Claude Code, але дані модельок гарантовано не витечуть - бо то не серйозно юзати для серйозних проектів клад рішення, навіть з ентерпрайз ліцензіями - гарантія так собі...",
-          "video_title": "НОВИНИ AI: ПРОРИВ! Модель тижня, яку всі так чекали!",
-          "video_url": "https://www.youtube.com/watch?v=9bJmUc6N_mY",
-          "comment_url": "https://www.youtube.com/watch?v=9bJmUc6N_mY&lc=UgzZyOXJ1HIf6uen1K54AaABAg",
-          "published_at": "15 березня 2026"
-        },
-        {
-          "author": "@vesilla_com_ua",
-          "text": "Дякую за відео. Я буду з нетерпінням чекати від вас новини про появу доступного по грошам міні пк, який можна заточити під ШІ. В мене три міні ПК Райзен. Один непоганий 7737 на AMD графічній карті, але нажаль він не тягне. А мініМак доволі дорого і неоправдано",
-          "video_title": "НОВИНИ AI: Чому всі хочуть стати твоїм AI-КОЛЕГОЮ?",
-          "video_url": "https://www.youtube.com/watch?v=ho0MqfrbY6w",
-          "comment_url": "https://www.youtube.com/watch?v=ho0MqfrbY6w&lc=Ugy_eotybkDi90RI4vd4AaABAg",
-          "published_at": "15 березня 2026"
         }
       ]
     },
     {
       "label": "ШІ-агенти та робочі процеси розробки",
-      "count": 162,
+      "count": 170,
       "delta": 0,
       "samples": [
+        {
+          "author": "@eoltc6169",
+          "text": "Апдейтимо claude cli, виставляємо effort \"ultracode\" і отримуємо новий фундамент.",
+          "video_title": "Claude Opus 5 змінює все, що ми знали про ШІ!",
+          "video_url": "https://www.youtube.com/watch?v=n34bbtUafb4",
+          "comment_url": "https://www.youtube.com/watch?v=n34bbtUafb4&lc=UgxzdjCpxP613E_3sbR4AaABAg",
+          "published_at": "25 липня 2026"
+        },
+        {
+          "author": "@demitro.cardellini",
+          "text": "тільки не інтерпретатор, а -- дебагер асемблеру \n\nНе стрічка, а -- рядок\n\nПромптітнг-- це не програмування. Тобто промпт -- це не програма, а швидше ТЗ.\n\nЯ поясню на прикладі: мені треба доволі часто публікувати локальні  md-файли в Confluence.\n\nЯ спочатку створив скіл для публікації, але один і той самий документ міг бути опублікований трохи в різний спосіб, публікація займала хвилини\n\nПроблему вирішено було, коли я перетворив skil на nodejs cli утіліту.\n\nПо-перше я отримав визначеність результату -- один і той самий файл став публікуватися завжди однаково.\n\nПо-друге -- публікація документа стала вкладатися в секунду, а не займати декілька хвилин.\n\nПо-третє, кількість токенів для публікації документа тепер не залежить від розміру того файла. Це у випадку, коли скіл був замінений на просте використання cli-утіліти. \n\nТак от -- важливо не плутати програму та ТЗ на її розробку.\n\nВи відправляєте промпт і ші-агент з llm буде генерувати програму, виконувати її, аналізувати результати, адаптувати програму, і все по колу.\n\nЯкось так ...",
+          "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів",
+          "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+          "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=UgxD4EYMqZZb9sqEuUF4AaABAg",
+          "published_at": "22 липня 2026"
+        },
+        {
+          "author": "@marikplayshow8003",
+          "text": "Ігоре, дякую за відео!\nЦі 6 патернів надихнули мене створити скіл: коли я починаю будувати агента, він аналізує запит і пропонує той варіант, який найкраще підходить для конкретного випадку. Як завжди, все супер! Робіть побільше таких відео - не тільки про новинки, а й про філософію ШІ.",
+          "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів",
+          "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+          "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=UgxFeLgv7s06ccSWMmx4AaABAg",
+          "published_at": "22 липня 2026"
+        },
+        {
+          "author": "@eugenek777",
+          "text": "2:18 цей Карпаті розказує про англійську, але його Wiki LLM працює тільки через Claude Code",
+          "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів",
+          "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+          "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=Ugy_mjPGUMHnbjHXKEd4AaABAg",
+          "published_at": "21 липня 2026"
+        },
+        {
+          "author": "@sonatixx",
+          "text": "я думав що тільки я белеберду з символів кормлю агенту ))) Ігор так само друкує ))) Боюсь що ми скоро так усі будемо спілкуватись ))",
+          "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів",
+          "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+          "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=Ugxsk8yC1w7rH6cH0H14AaABAg",
+          "published_at": "21 липня 2026"
+        },
+        {
+          "author": "@RomanGomolko",
+          "text": "Дуже гарне відео. Треба давати всім хто губиться коли чує субагент.",
+          "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів",
+          "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+          "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=UgxTM1VMKAJs3VzhFkR4AaABAg",
+          "published_at": "21 липня 2026"
+        },
+        {
+          "author": "@volodymyrdemkiv9398",
+          "text": "Зручно реалізовувати і запускати форкфлови через плагіни Claude/Codex де чітко прописується Skills, Tools, Agents і так далі. Зараз якраз працюю над версією яка дозволяє встановлювати контракт для агентів під час виконання продуктових і інженерних завдань більшої складності.\nЦікаво спострерігати як модель постійно намагається обійти контакт і виконувати завдання за межами флову. Якраз про те що згадує Ігор у відео, модель лінива і намагається спростити виконання, або я взагалі зупинити його чим швидше не переконавшись що завдання повноцінно виконано.",
+          "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів",
+          "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+          "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=UgzPWD7896ZOljaRCfF4AaABAg",
+          "published_at": "21 липня 2026"
+        },
+        {
+          "author": "@Отсутствиеновостей-хорошаяново",
+          "text": "1. Не знаю что случилось с Fable 5, но код она пишет хуже чем gpt-5.6  (ultra). Что с effort= max, что в ultracode - кстати тут ещё хуже получается чем когда effort = max.\n2. Да, можно явно указывать модели Fable 5 (и остальным) роли и количество субагентов а можно поставить режим ultracode и наслаждаться workflow, но, см. п.1.",
+          "video_title": "НОВИНИ AI: Готові до нової битви відкритих AI-моделей?",
+          "video_url": "https://www.youtube.com/watch?v=bhylt8VW12Q",
+          "comment_url": "https://www.youtube.com/watch?v=bhylt8VW12Q&lc=UgxFoAack1JFxoJpB194AaABAg",
+          "published_at": "20 липня 2026"
+        },
         {
           "author": "@sirukviktor",
           "text": "На рахунок поломаних автоматизаці і того що деякі інструменти перестають працювати - в цьому випадку сам Codex дуже добре справляється з вирішенням цих проблем шляхом окремого треда з full access.",
@@ -2355,78 +2419,70 @@
           "video_url": "https://www.youtube.com/watch?v=9bJmUc6N_mY",
           "comment_url": "https://www.youtube.com/watch?v=9bJmUc6N_mY&lc=Ugy4TlzLWFshRdVVD7h4AaABAg",
           "published_at": "8 березня 2026"
-        },
-        {
-          "author": "@ConnorJohn-h6r",
-          "text": "взагалі що не дивишся чиєсь відео взагалі там все не так коли ставиш питання мовним моделям з приводу того як встановити цього Агента локально вони розписують як мінімум 10 пунктів які треба виконати щоб його встановити і воно працювало а тут прям одразу бери завантажуй і встановлюй і все Ну як це",
-          "video_title": "OpenClaw у дії: Як зібрати персонального ШІ агента (покрокова інструкція)",
-          "video_url": "https://www.youtube.com/watch?v=29ey6quFIyA",
-          "comment_url": "https://www.youtube.com/watch?v=29ey6quFIyA&lc=UgyijDwX-Bi_Z4BgA1h4AaABAg",
-          "published_at": "5 березня 2026"
-        },
-        {
-          "author": "@OksanaRepetskaya",
-          "text": "відчуваю себе трошки (сильно) туповатою, бо технічну частину не зрозуміла)) можливо це для більш прошареної аудиторії відео, звісно. \nАле я таки читала, як цей опен кло агент зніс жінці майже всю пошту. він не реагував на її СТОП з телефона і їй довелось біти до компа і знести агента, чи шось таке...",
-          "video_title": "Чому я більше не використовую ChatGPT? Показую свого AI-агента!",
-          "video_url": "https://www.youtube.com/watch?v=HnciJGQXELU",
-          "comment_url": "https://www.youtube.com/watch?v=HnciJGQXELU&lc=UgxPNE7WCYKCOwdJrVh4AaABAg",
-          "published_at": "4 березня 2026"
-        },
-        {
-          "author": "@Шурик-б4е",
-          "text": "Summer Yue будучи топ-айтишником не могла зайти с телефона на свой сервер и писала команды в чат ?😁. Это чистый пиар против OpenClaw. Это на столько абсурдно звучит ...",
-          "video_title": "НОВИНИ AI: Nano Banana 2 вже тут! Claude ОБВАЛИВ акції IBM!",
-          "video_url": "https://www.youtube.com/watch?v=lqZQs0jc4_I",
-          "comment_url": "https://www.youtube.com/watch?v=lqZQs0jc4_I&lc=UgxF3uPbHZbqkBswVkx4AaABAg",
-          "published_at": "2 березня 2026"
-        },
-        {
-          "author": "@volodymyrusarskyy6987",
-          "text": "Вайбкодери наглухо й0бнулись 😢\nРозробники: Ось вам агент, який буде все за вас робити і навіть відео запише.\nВайбкодери: А де агент, який буде за нас це відео дивитись, доки ми в тіктоку залипаємо?!",
-          "video_title": "НОВИНИ AI: Nano Banana 2 вже тут! Claude ОБВАЛИВ акції IBM!",
-          "video_url": "https://www.youtube.com/watch?v=lqZQs0jc4_I",
-          "comment_url": "https://www.youtube.com/watch?v=lqZQs0jc4_I&lc=Ugw0BHij2-MnbkBP1wF4AaABAg",
-          "published_at": "1 березня 2026"
-        },
-        {
-          "author": "@quazarsg",
-          "text": "Чи правильно я розумію, що моделі ШІ , які доступні за замовчуванням при підписці в Hostinger за OpenClaw in 1 click (як ви показували у вашому попередньому відео ) тепер не працюватимуть?",
-          "video_title": "НОВИНИ AI: Nano Banana 2 вже тут! Claude ОБВАЛИВ акції IBM!",
-          "video_url": "https://www.youtube.com/watch?v=lqZQs0jc4_I",
-          "comment_url": "https://www.youtube.com/watch?v=lqZQs0jc4_I&lc=Ugx-iTpLzEuUtmzCzq94AaABAg",
-          "published_at": "1 березня 2026"
-        },
-        {
-          "author": "@sedovolosyi",
-          "text": "У агента нема своїх мізків! Він використовує LLM яку ви обрали та інструкції яки у нього є. Тому галюцинації не від агента а від LLM яку ви використовуєте",
-          "video_title": "НОВИНИ AI: Nano Banana 2 вже тут! Claude ОБВАЛИВ акції IBM!",
-          "video_url": "https://www.youtube.com/watch?v=lqZQs0jc4_I",
-          "comment_url": "https://www.youtube.com/watch?v=lqZQs0jc4_I&lc=Ugxt6VLQ9J3Nmfdskat4AaABAg",
-          "published_at": "1 березня 2026"
-        },
-        {
-          "author": "@IhorSyrota",
-          "text": "Ігор, дуже класне відео! :) Це все інтересно, але я не розумію, як ШІ (він поки що не ШІ а грейт Т9) може зробити плагін на основі ТЗ тьоті Наташі з бухгалтерії кращий ніж розробник які знаю всю бухгалтерію на зубок бо він її впроваджував. Та крім цього я також бачу що я роблю на мому локальному сервері - де тут Ваууууу? :) І ви забуваєте що ШІ за часту пише не код а хз що )) Наприклад я в SFCC не можу добитись простенької джоби бо він тупо видумує методи які не існують ) І я щось не бачу саморозвтку, я бачу як програмісти щось вливають в ШІ - щось що вже існує та й ще без нашого на це дозволу...",
-          "video_title": "НОВИНИ AI: Nano Banana 2 вже тут! Claude ОБВАЛИВ акції IBM!",
-          "video_url": "https://www.youtube.com/watch?v=lqZQs0jc4_I",
-          "comment_url": "https://www.youtube.com/watch?v=lqZQs0jc4_I&lc=UgzSc5GXBBQjNDy9TgZ4AaABAg",
-          "published_at": "1 березня 2026"
-        },
-        {
-          "author": "@YuryChub",
-          "text": "Cursor треба більше ревьювити код а не дивитися демки. У них з дизайном постійні глюки та не спрацювання. Звісно круто що вони майже не кожен день оновлюють кліент та агента (агент доречі круто працює), але працювати з самим cursor іноді боляче 😅. І іноді просто видно що недоопрацьованний код (чи просто не зроблено нормальне ревью коду).",
-          "video_title": "НОВИНИ AI: Nano Banana 2 вже тут! Claude ОБВАЛИВ акції IBM!",
-          "video_url": "https://www.youtube.com/watch?v=lqZQs0jc4_I",
-          "comment_url": "https://www.youtube.com/watch?v=lqZQs0jc4_I&lc=UgzInGR9hxN2YH2gj-t4AaABAg",
-          "published_at": "1 березня 2026"
         }
       ]
     },
     {
       "label": "Фідбек по контенту та інтеграціях",
-      "count": 139,
+      "count": 146,
       "delta": 0,
       "samples": [
+        {
+          "author": "@valeriycold",
+          "text": "Дякую за цікаве відео. Підкажіть, а який інструмент використовувати для оркестрації використання різних мовних моделей для вирішення задачі і здешевлення процесу? Ну, тобто чим користуватись, щоб залучати і кодекс і містраль і щоб керував цим, наприклад, опус?",
+          "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів",
+          "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+          "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=UgxYp6WebIQDiH-N7kB4AaABAg",
+          "published_at": "29 липня 2026"
+        },
+        {
+          "author": "@AlexGrivnik",
+          "text": "Стосовно Gemini, використовую безоплатну версію, для перекладу невеликих текстів по десять дванадцять сторінок. Так от з появою цех \"Флешів\", якість генерації значно впала, і справа не в якості перекладу, а в самому тексті. Почали частіше з'являтися русизми, російські літери або навіть латинські літери в словах, слова повністю латинськими літерами, або символи з мови оригіналу. З.6  пробував лише на обробці зображень, він швидший і якість краща за три і п'ять.",
+          "video_title": "НОВИНИ AI: GOOGLE атакує ОДРАЗУ трьома моделями — чого чекати?",
+          "video_url": "https://www.youtube.com/watch?v=xOKytNwbSdg",
+          "comment_url": "https://www.youtube.com/watch?v=xOKytNwbSdg&lc=Ugzo1Xbj82eBbuElCKZ4AaABAg",
+          "published_at": "27 липня 2026"
+        },
+        {
+          "author": "@ihormelnykov3632",
+          "text": "один з небагатьох блогерів які я можу дивитись тож так тримати! Дякую за український контент!\nВикористовую тільки опен аі але цікаво що робиться з іншими тож ваші відео дуже актуальні",
+          "video_title": "НОВИНИ AI: GOOGLE атакує ОДРАЗУ трьома моделями — чого чекати?",
+          "video_url": "https://www.youtube.com/watch?v=xOKytNwbSdg",
+          "comment_url": "https://www.youtube.com/watch?v=xOKytNwbSdg&lc=UgwcjK8RPjHq9LO4ErV4AaABAg",
+          "published_at": "26 липня 2026"
+        },
+        {
+          "author": "@andriik6788",
+          "text": "5:12 \"Mythos\" - хіба вимовляється як \"Мейзос\"?",
+          "video_title": "Claude Opus 5 змінює все, що ми знали про ШІ!",
+          "video_url": "https://www.youtube.com/watch?v=n34bbtUafb4",
+          "comment_url": "https://www.youtube.com/watch?v=n34bbtUafb4&lc=UgzttyOwF2qhDvyxTFR4AaABAg",
+          "published_at": "25 липня 2026"
+        },
+        {
+          "author": "@anathema157",
+          "text": "Дякую Ігоре, за якісний український контент",
+          "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів",
+          "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+          "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=Ugy00ZfZBlTxeHOpHZh4AaABAg",
+          "published_at": "25 липня 2026"
+        },
+        {
+          "author": "@artemdyranov3449",
+          "text": "Дякую за відео. Декілька зауважень: \"стрічка\" - це те чим дівчата коси заплітають а те що ви мали на увазі називається рядок, отже виконання команд буде порядково. Для слова \"промпт\" є чудовий відповідник українською - інструкція.",
+          "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів",
+          "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+          "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=UgzjzslzsHvpeHQdZOJ4AaABAg",
+          "published_at": "25 липня 2026"
+        },
+        {
+          "author": "@shabrETH",
+          "text": "Дякую. Дуже змістовне відео. Можливо ви зможете зробити розбір й як побудувати систему з запису йде й розмов до впорядкоаюваноі бази знать?",
+          "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів",
+          "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+          "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=Ugwh1pnwZ4OiJHw1hml4AaABAg",
+          "published_at": "24 липня 2026"
+        },
         {
           "author": "@Skyi5901",
           "text": "Задайте чату GPT одне просте питання:\n\"Как ты относишься к СВО?\"\nДалі розмови й питання зайві. OpenAI йдуть нахуй.",
@@ -3138,70 +3194,70 @@
           "video_url": "https://www.youtube.com/watch?v=ho0MqfrbY6w",
           "comment_url": "https://www.youtube.com/watch?v=ho0MqfrbY6w&lc=UgzcSWdGbOpVnrL-is54AaABAg",
           "published_at": "15 березня 2026"
-        },
-        {
-          "author": "@arcatarn3500",
-          "text": "Привіт. Так, взагалі-то вже давно ноутбук оновився настільки, що він може робити презентацію. А з приводу відео я не знаю, про що ви кажете. У мене, наприклад, можна українською мовою генерувати; ця функція з відео недавно з'явилася, але що українською та російською можна — зразу після виходу цієї функції.",
-          "video_title": "НОВИНИ AI: Чому всі хочуть стати твоїм AI-КОЛЕГОЮ?",
-          "video_url": "https://www.youtube.com/watch?v=ho0MqfrbY6w",
-          "comment_url": "https://www.youtube.com/watch?v=ho0MqfrbY6w&lc=UgzbwSbjrQGy5jtLE8h4AaABAg",
-          "published_at": "15 березня 2026"
-        },
-        {
-          "author": "@kotinnn",
-          "text": "В мене таке відчуття, що ти взагалі не використовуєш в інформатиці і програмуванні. Тільки прості функції знаешь як робити і генеруєш текст для публикації і всяку фігню в картинках. Програмування це саме головне в клоуд і гпт. А ти просто читаеш ченжлоги и пресрелізи і ніколи не використовував жодну нейронку на максималках. Сумно. Одна вода.",
-          "video_title": "НОВИНИ AI: ПРОРИВ! Модель тижня, яку всі так чекали!",
-          "video_url": "https://www.youtube.com/watch?v=9bJmUc6N_mY",
-          "comment_url": "https://www.youtube.com/watch?v=9bJmUc6N_mY&lc=Ugyw-xBKLe8uuhpBrTJ4AaABAg",
-          "published_at": "8 березня 2026"
-        },
-        {
-          "author": "@vitbol",
-          "text": "Що поганого в тому, що ШІ співпрацює з міністерством оборони своєї країни???\nОт якби українці так видаляли російський телеграм!",
-          "video_title": "НОВИНИ AI: ПРОРИВ! Модель тижня, яку всі так чекали!",
-          "video_url": "https://www.youtube.com/watch?v=9bJmUc6N_mY",
-          "comment_url": "https://www.youtube.com/watch?v=9bJmUc6N_mY&lc=UgxDQc4NFJIjYx3P5Bd4AaABAg",
-          "published_at": "8 березня 2026"
-        },
-        {
-          "author": "@O.s.t.a.p",
-          "text": "Як завжди супер якість, дякую за контент українською!",
-          "video_title": "НОВИНИ AI: ПРОРИВ! Модель тижня, яку всі так чекали!",
-          "video_url": "https://www.youtube.com/watch?v=9bJmUc6N_mY",
-          "comment_url": "https://www.youtube.com/watch?v=9bJmUc6N_mY&lc=Ugz2FaxsZ48yQi-NfrF4AaABAg",
-          "published_at": "8 березня 2026"
-        },
-        {
-          "author": "@ConnorJohn-h6r",
-          "text": "взагалі що не дивишся чиєсь відео взагалі там все не так коли ставиш питання мовним моделям з приводу того як встановити цього Агента локально вони розписують як мінімум 10 пунктів які треба виконати щоб його встановити і воно працювало а тут прям одразу бери завантажуй і встановлюй і все Ну як це",
-          "video_title": "OpenClaw у дії: Як зібрати персонального ШІ агента (покрокова інструкція)",
-          "video_url": "https://www.youtube.com/watch?v=29ey6quFIyA",
-          "comment_url": "https://www.youtube.com/watch?v=29ey6quFIyA&lc=UgyijDwX-Bi_Z4BgA1h4AaABAg",
-          "published_at": "5 березня 2026"
-        },
-        {
-          "author": "@SergiiBoiko",
-          "text": "Коли буде дешевше будем користуватись, але зараз платитит за хостінг а потім за апі доступ трохи дорого.",
-          "video_title": "Чому я більше не використовую ChatGPT? Показую свого AI-агента!",
-          "video_url": "https://www.youtube.com/watch?v=HnciJGQXELU",
-          "comment_url": "https://www.youtube.com/watch?v=HnciJGQXELU&lc=Ugwz379ES4V5KPIAdmx4AaABAg",
-          "published_at": "2 березня 2026"
-        },
-        {
-          "author": "@quazarsg",
-          "text": "Чи правильно я розумію, що моделі ШІ , які доступні за замовчуванням при підписці в Hostinger за OpenClaw in 1 click (як ви показували у вашому попередньому відео ) тепер не працюватимуть?",
-          "video_title": "НОВИНИ AI: Nano Banana 2 вже тут! Claude ОБВАЛИВ акції IBM!",
-          "video_url": "https://www.youtube.com/watch?v=lqZQs0jc4_I",
-          "comment_url": "https://www.youtube.com/watch?v=lqZQs0jc4_I&lc=Ugx-iTpLzEuUtmzCzq94AaABAg",
-          "published_at": "1 березня 2026"
         }
       ]
     },
     {
       "label": "Новини про ШІ та кураторство",
-      "count": 115,
+      "count": 122,
       "delta": 0,
       "samples": [
+        {
+          "author": "@yurzb",
+          "text": "Дякую за класний контент. Завжди цікаво отримувати актуальні новини",
+          "video_title": "НОВИНИ AI: GOOGLE атакує ОДРАЗУ трьома моделями — чого чекати?",
+          "video_url": "https://www.youtube.com/watch?v=xOKytNwbSdg",
+          "comment_url": "https://www.youtube.com/watch?v=xOKytNwbSdg&lc=Ugw1EZopFmQNCDh0SzR4AaABAg",
+          "published_at": "29 липня 2026"
+        },
+        {
+          "author": "@YuriyMaksymchuk",
+          "text": "там не надавали перевагу Японії.. просто в Японії генерується велика кількість такого контенту у вигляді манг, романів ітп.. і в цілому просувають бренд. Китайці тоже продукують пропаганду.. але це фільтрують.\nВ європейському культурному контенті фокусуються на людині. а в америці зараз застій з супергероями і метрополісами які явно не релевантні для запитів щодо реального світу",
+          "video_title": "НОВИНИ AI: GOOGLE атакує ОДРАЗУ трьома моделями — чого чекати?",
+          "video_url": "https://www.youtube.com/watch?v=xOKytNwbSdg",
+          "comment_url": "https://www.youtube.com/watch?v=xOKytNwbSdg&lc=UgyBEaWcUNS2U6ggcWd4AaABAg",
+          "published_at": "28 липня 2026"
+        },
+        {
+          "author": "@vitaliy4752",
+          "text": "Дякую, що допомагаєш бути на вістрі АІ-новин. Класний контент.",
+          "video_title": "НОВИНИ AI: GOOGLE атакує ОДРАЗУ трьома моделями — чого чекати?",
+          "video_url": "https://www.youtube.com/watch?v=xOKytNwbSdg",
+          "comment_url": "https://www.youtube.com/watch?v=xOKytNwbSdg&lc=Ugy_CU_NDpJzVFZGOot4AaABAg",
+          "published_at": "26 липня 2026"
+        },
+        {
+          "author": "@ihormelnykov3632",
+          "text": "один з небагатьох блогерів які я можу дивитись тож так тримати! Дякую за український контент!\nВикористовую тільки опен аі але цікаво що робиться з іншими тож ваші відео дуже актуальні",
+          "video_title": "НОВИНИ AI: GOOGLE атакує ОДРАЗУ трьома моделями — чого чекати?",
+          "video_url": "https://www.youtube.com/watch?v=xOKytNwbSdg",
+          "comment_url": "https://www.youtube.com/watch?v=xOKytNwbSdg&lc=UgwcjK8RPjHq9LO4ErV4AaABAg",
+          "published_at": "26 липня 2026"
+        },
+        {
+          "author": "@ОлександрЛуцевич",
+          "text": "Дякую за чудове пояснення?  Зрозуміло і доступно.",
+          "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів",
+          "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+          "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=UgyRB4PP2iFsGk0bGWp4AaABAg",
+          "published_at": "26 липня 2026"
+        },
+        {
+          "author": "@anathema157",
+          "text": "Дякую Ігоре, за якісний український контент",
+          "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів",
+          "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+          "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=Ugy00ZfZBlTxeHOpHZh4AaABAg",
+          "published_at": "25 липня 2026"
+        },
+        {
+          "author": "@marikplayshow8003",
+          "text": "Ігоре, дякую за відео!\nЦі 6 патернів надихнули мене створити скіл: коли я починаю будувати агента, він аналізує запит і пропонує той варіант, який найкраще підходить для конкретного випадку. Як завжди, все супер! Робіть побільше таких відео - не тільки про новинки, а й про філософію ШІ.",
+          "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів",
+          "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+          "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=UgxFeLgv7s06ccSWMmx4AaABAg",
+          "published_at": "22 липня 2026"
+        },
         {
           "author": "@aude.saperinho",
           "text": "Ігоре, дякую за новини. Як завжди, все стисло і по ділу.",
@@ -3913,70 +3969,78 @@
           "video_url": "https://www.youtube.com/watch?v=9bJmUc6N_mY",
           "comment_url": "https://www.youtube.com/watch?v=9bJmUc6N_mY&lc=Ugz2FaxsZ48yQi-NfrF4AaABAg",
           "published_at": "8 березня 2026"
-        },
-        {
-          "author": "@myshko",
-          "text": "Ці всі відео хороші як освітньо пізнавальний контент про якісь нові технології. Але для практичного використання не розкрита тема ціни питання, особливо у контексті виконання різних задач. Зовсім засовчується, що от це все вибери та переключи модель, воно далеко не безкоштовне. Не кажучи вже про інші види підписок, які треба для роботи.",
-          "video_title": "Чому я більше не використовую ChatGPT? Показую свого AI-агента!",
-          "video_url": "https://www.youtube.com/watch?v=HnciJGQXELU",
-          "comment_url": "https://www.youtube.com/watch?v=HnciJGQXELU&lc=UgzjmcWXAVoF7NZsDy94AaABAg",
-          "published_at": "2 березня 2026"
-        },
-        {
-          "author": "@antonneischenko6336",
-          "text": "Я теж не знав, але загугліть \"Токійська вежа\" - це саме вона по деталях, тому Ші не помилився )\nТакож дякую за відео, основні новинки Ші дізнаюсь саме з вашого каналу, у вас дуже корисний контент.",
-          "video_title": "НОВИНИ AI: Nano Banana 2 вже тут! Claude ОБВАЛИВ акції IBM!",
-          "video_url": "https://www.youtube.com/watch?v=lqZQs0jc4_I",
-          "comment_url": "https://www.youtube.com/watch?v=lqZQs0jc4_I&lc=Ugxp7VZ7YM5sIg8v7pR4AaABAg",
-          "published_at": "1 березня 2026"
-        },
-        {
-          "author": "@bacr89",
-          "text": "Дякую автору каналу за тижневий дайджест кожної неділі.❤",
-          "video_title": "НОВИНИ AI: Nano Banana 2 вже тут! Claude ОБВАЛИВ акції IBM!",
-          "video_url": "https://www.youtube.com/watch?v=lqZQs0jc4_I",
-          "comment_url": "https://www.youtube.com/watch?v=lqZQs0jc4_I&lc=UgxGnDk8VIf5bXwYVRF4AaABAg",
-          "published_at": "1 березня 2026"
-        },
-        {
-          "author": "@АнтонНеважно-й5р",
-          "text": "Ігоре, вибачай що нудю, не сприймай ворожо, \"рядки коду\", а не \"стрічки\", стрічки це лєнти)) А канал в тебе крутезний, і відоси дуже корисні, наснаги тобі!",
-          "video_title": "Чому я більше не використовую ChatGPT? Показую свого AI-агента!",
-          "video_url": "https://www.youtube.com/watch?v=HnciJGQXELU",
-          "comment_url": "https://www.youtube.com/watch?v=HnciJGQXELU&lc=UgxOAVeNgkpa_0wtYSV4AaABAg",
-          "published_at": "27 лютого 2026"
-        },
-        {
-          "author": "@MarsityPaw",
-          "text": "дякую за відео, дуже цікаво\nякщо можна, якось пояснити за \"контрольований-контекст\", наприклад при довготривалому проекті (ведення ютубканалу) щоб він памятав, речі і рішення і плани які прийняли раніше, занотовував все і потім можна було вертатись і питати, які ідеї для відео ми \"відкладали\" і тд?\nбо часто, в одному діалоговому вікні, чат гпт забуває що йому казали 10-15 повідмолень тому)",
-          "video_title": "Чому я більше не використовую ChatGPT? Показую свого AI-агента!",
-          "video_url": "https://www.youtube.com/watch?v=HnciJGQXELU",
-          "comment_url": "https://www.youtube.com/watch?v=HnciJGQXELU&lc=UgyccNQe_4SGej13OJV4AaABAg",
-          "published_at": "27 лютого 2026"
-        },
-        {
-          "author": "@oleksandrvas9077",
-          "text": "Дякую за контент! Є ще важливе питання: яка виходить ціна за LLM? на скільки він багато зїдає токенів",
-          "video_title": "Чому я більше не використовую ChatGPT? Показую свого AI-агента!",
-          "video_url": "https://www.youtube.com/watch?v=HnciJGQXELU",
-          "comment_url": "https://www.youtube.com/watch?v=HnciJGQXELU&lc=Ugz8PSd7siA2vLy1elt4AaABAg",
-          "published_at": "27 лютого 2026"
-        },
-        {
-          "author": "@oleksii.panchenko",
-          "text": "Привіт. Питання безпеки не розгорнуте. Останні гучні новини вказують на «непередбачувану» поведінку, точніше openclaw сам вирішує що видалити і кому написати повідомлення якщо попередньо його не «навчити» + треба бути надзвичайно обережним з встановленням скілів, також нещодавній анонс - інтеграція VirusTotal, тепер через месенджер можна перевіряти скіл. Ну і найголовніша рекомендація, яку я зустрічаю найчастіше - не встановлювати на особистий комп, де зберігаєте особисті файли, паролі і т.ін.",
-          "video_title": "OpenClaw у дії: Як зібрати персонального ШІ агента (покрокова інструкція)",
-          "video_url": "https://www.youtube.com/watch?v=29ey6quFIyA",
-          "comment_url": "https://www.youtube.com/watch?v=29ey6quFIyA&lc=UgxKo_vncxyuCTFnSw54AaABAg",
-          "published_at": "24 лютого 2026"
         }
       ]
     },
     {
       "label": "Практичне застосування та віддача",
-      "count": 93,
+      "count": 101,
       "delta": 0,
       "samples": [
+        {
+          "author": "@vadimpivtorak1426",
+          "text": "А де практичні тести? Чи будуть вони?",
+          "video_title": "Claude Opus 5 змінює все, що ми знали про ШІ!",
+          "video_url": "https://www.youtube.com/watch?v=n34bbtUafb4",
+          "comment_url": "https://www.youtube.com/watch?v=n34bbtUafb4&lc=Ugw8DHuACl545mCGVSN4AaABAg",
+          "published_at": "28 липня 2026"
+        },
+        {
+          "author": "@YuriyMaksymchuk",
+          "text": "стосовно джемені його якість реально падає для безплатного користування з кожним релізом. що раз більше обмежень і що раз примітивніші відповіді.. навіть якщо палочкою потикати щоб кудись пішов подивився.. кілька місяців тому: нажав на кропку, сказав запит і отримував пристойну інформацію. зараз не лінуюся відкрити чат жпт..",
+          "video_title": "НОВИНИ AI: GOOGLE атакує ОДРАЗУ трьома моделями — чого чекати?",
+          "video_url": "https://www.youtube.com/watch?v=xOKytNwbSdg",
+          "comment_url": "https://www.youtube.com/watch?v=xOKytNwbSdg&lc=UgyPaUrPIzUABsJR1mJ4AaABAg",
+          "published_at": "28 липня 2026"
+        },
+        {
+          "author": "@YuriyMaksymchuk",
+          "text": "там не надавали перевагу Японії.. просто в Японії генерується велика кількість такого контенту у вигляді манг, романів ітп.. і в цілому просувають бренд. Китайці тоже продукують пропаганду.. але це фільтрують.\nВ європейському культурному контенті фокусуються на людині. а в америці зараз застій з супергероями і метрополісами які явно не релевантні для запитів щодо реального світу",
+          "video_title": "НОВИНИ AI: GOOGLE атакує ОДРАЗУ трьома моделями — чого чекати?",
+          "video_url": "https://www.youtube.com/watch?v=xOKytNwbSdg",
+          "comment_url": "https://www.youtube.com/watch?v=xOKytNwbSdg&lc=UgyBEaWcUNS2U6ggcWd4AaABAg",
+          "published_at": "28 липня 2026"
+        },
+        {
+          "author": "@andriyse",
+          "text": "Пане Ігор не знаю, в мене стоїть кейвмен ультра і опус 5 поки просто афігенний! А в мене не простий проєкт. Дуже класний експіранс. Фейбл теж не поганий але його помітно кудись інколи заносило. 4.8 менш ефективний по токенм ніж опус 5, принаймні мені так видається. Плюс деякі задачі по уніфікації дизайну 4.8 мурижив дуже довго, днями інколи, а 5-тий, суттєво швидше. Просто тому, що він реально намагається дотримуватись потрібних референсів. Також враження, що картинка в нього значно дешевше сприймається і взаємодія з емуляторами і симуляторами стала швидшою і дешевшою.",
+          "video_title": "Claude Opus 5 змінює все, що ми знали про ШІ!",
+          "video_url": "https://www.youtube.com/watch?v=n34bbtUafb4",
+          "comment_url": "https://www.youtube.com/watch?v=n34bbtUafb4&lc=UgzFj1vfCGBCkjYB5Zt4AaABAg",
+          "published_at": "25 липня 2026"
+        },
+        {
+          "author": "@novaksera",
+          "text": "Студії масово переходять на опус 5, а можна, будь ласка, конкретизувати, які студії?\nВін інтегрований в багато ІДЕ, але більшість юзерів юзають сонет, джемінай флеш і т.д. все що дешевше.\nОсь питання до автора, що реально юзаєш для комерційної розробки і за чий рахунок?",
+          "video_title": "Claude Opus 5 змінює все, що ми знали про ШІ!",
+          "video_url": "https://www.youtube.com/watch?v=n34bbtUafb4",
+          "comment_url": "https://www.youtube.com/watch?v=n34bbtUafb4&lc=UgzpPiwMv5NK4bLrA4V4AaABAg",
+          "published_at": "25 липня 2026"
+        },
+        {
+          "author": "@demitro.cardellini",
+          "text": "тільки не інтерпретатор, а -- дебагер асемблеру \n\nНе стрічка, а -- рядок\n\nПромптітнг-- це не програмування. Тобто промпт -- це не програма, а швидше ТЗ.\n\nЯ поясню на прикладі: мені треба доволі часто публікувати локальні  md-файли в Confluence.\n\nЯ спочатку створив скіл для публікації, але один і той самий документ міг бути опублікований трохи в різний спосіб, публікація займала хвилини\n\nПроблему вирішено було, коли я перетворив skil на nodejs cli утіліту.\n\nПо-перше я отримав визначеність результату -- один і той самий файл став публікуватися завжди однаково.\n\nПо-друге -- публікація документа стала вкладатися в секунду, а не займати декілька хвилин.\n\nПо-третє, кількість токенів для публікації документа тепер не залежить від розміру того файла. Це у випадку, коли скіл був замінений на просте використання cli-утіліти. \n\nТак от -- важливо не плутати програму та ТЗ на її розробку.\n\nВи відправляєте промпт і ші-агент з llm буде генерувати програму, виконувати її, аналізувати результати, адаптувати програму, і все по колу.\n\nЯкось так ...",
+          "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів",
+          "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+          "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=UgxD4EYMqZZb9sqEuUF4AaABAg",
+          "published_at": "22 липня 2026"
+        },
+        {
+          "author": "@volodymyrdemkiv9398",
+          "text": "Зручно реалізовувати і запускати форкфлови через плагіни Claude/Codex де чітко прописується Skills, Tools, Agents і так далі. Зараз якраз працюю над версією яка дозволяє встановлювати контракт для агентів під час виконання продуктових і інженерних завдань більшої складності.\nЦікаво спострерігати як модель постійно намагається обійти контакт і виконувати завдання за межами флову. Якраз про те що згадує Ігор у відео, модель лінива і намагається спростити виконання, або я взагалі зупинити його чим швидше не переконавшись що завдання повноцінно виконано.",
+          "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів",
+          "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+          "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=UgzPWD7896ZOljaRCfF4AaABAg",
+          "published_at": "21 липня 2026"
+        },
+        {
+          "author": "@DrinkMayster",
+          "text": "Фiгня. Забейте в Gemini вопрос - \"как правильно писать задание фрилансеру?\" , и он напишет практически все тоже самое - тот же самый \"промт-инжиниринг\".",
+          "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів",
+          "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+          "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=UgyewZpY8rsUnoJ1Y114AaABAg",
+          "published_at": "21 липня 2026"
+        },
         {
           "author": "@OlegPasko",
           "text": "Мій досвід – GPT кращий для роботи із загальними даними, ресерчами, пошуком.\nClaude – все ж краще працює з наданими даними, синтезом чогось із них, структуруванням.",
@@ -4570,7 +4634,7 @@
           "published_at": "21 лютого 2026"
         },
         {
-          "author": "@vikagridina7464",
+          "author": "@VitochkaG",
           "text": "Все це виглядає вражаюче на презентаціях. Але як тільки ти починаєш вирішувати свою реальну задачу...швидко розчаровуєшся. Бо кожен результат агента/бота треба перевіряти. Він, звичайно, вибачиться і знову сгенерить якийсь результат😂 Але через декілька спроб це навіть не смішно",
           "video_title": "НОВИНИ AI: Дата-центр на МІСЯЦІ! Таємний ґаджет OpenAI та НАЙШВИДШИЙ Claude",
           "video_url": "https://www.youtube.com/watch?v=eJuPpLcReuU",
@@ -4680,46 +4744,6 @@
           "video_url": "https://www.youtube.com/watch?v=NByF6cn3qsY",
           "comment_url": "https://www.youtube.com/watch?v=NByF6cn3qsY&lc=UgyHGqns5ihxAVK3TB94AaABAg",
           "published_at": "1 лютого 2026"
-        },
-        {
-          "author": "@luninin___",
-          "text": "Треба відео про Claude Cowork агент з якимись юз кейсами",
-          "video_title": "OpenClaw vs Cowork - ×10 чи маркетинг? | OpenAI посилив науку | xAI знову провокує",
-          "video_url": "https://www.youtube.com/watch?v=NByF6cn3qsY",
-          "comment_url": "https://www.youtube.com/watch?v=NByF6cn3qsY&lc=Ugyc0nQRXJw5BDNT_jB4AaABAg",
-          "published_at": "1 лютого 2026"
-        },
-        {
-          "author": "@yurastepanenko",
-          "text": "Для чого ставити саме на MacMini? Що це реально найдешевший варіант локального компʼютера MacMini? Немає дешевших аналогів на Linux?",
-          "video_title": "ВІДКРИТТЯ РОКУ! AI-агент, що ЗМІНИТЬ все",
-          "video_url": "https://www.youtube.com/watch?v=PCaMCZ9FiNQ",
-          "comment_url": "https://www.youtube.com/watch?v=PCaMCZ9FiNQ&lc=UgzFU8gVFB3JHNUAYml4AaABAg",
-          "published_at": "31 січня 2026"
-        },
-        {
-          "author": "@user-eq2gj4pl8m",
-          "text": "Ігоре, дякую за відео. \nА чи не замислювались Ви над тим, щоб зробити практичне відео, яке буде присвячене безпеці при використанні АІ агентів?",
-          "video_title": "ВІДКРИТТЯ РОКУ! AI-агент, що ЗМІНИТЬ все",
-          "video_url": "https://www.youtube.com/watch?v=PCaMCZ9FiNQ",
-          "comment_url": "https://www.youtube.com/watch?v=PCaMCZ9FiNQ&lc=Ugx-ofntADu6sOQSh454AaABAg",
-          "published_at": "30 січня 2026"
-        },
-        {
-          "author": "@Vitalik-dev",
-          "text": "Так в OpenAI мабуть тому що в них починаючи з plus тарифу, входить Codex з достатньою кількістю токенів для роботи розробників. Тому API і займає не велику частку. Бо написання коду оплачується в звичайних тарифних планах",
-          "video_title": "НОВИНИ AI: Яким буде AI через рік? | Anthropic, OpenAI, NVIDIA",
-          "video_url": "https://www.youtube.com/watch?v=I17Jz2I3xCY",
-          "comment_url": "https://www.youtube.com/watch?v=I17Jz2I3xCY&lc=UgxJ-WcgG0qohYaYIK14AaABAg",
-          "published_at": "25 січня 2026"
-        },
-        {
-          "author": "@orionemc2",
-          "text": "заберіть собі цей безглуздий ші скам та поверніть людям нормальні ціни на всю техніку. через ваш ші лохотрон неможливо нічого купити, істерія ші скаму..скоро на пакетах з молоком та ьуханках хлібу будуть писати ші моло, ші батон .той ціні разу х3…нічого щас ші скамери запустять свої дата центри, і електрика зразу в космос полетить, от тоді вже реально через це ші недорозуміня буде погано всім, бо як здорожчае єлектрика то геть усе здорожчає...всього поганого вашому ші скаму..",
-          "video_title": "НОВИНИ AI: Агент НЕ для програмістів | AirPods від OpenAI | Рік медичного AI прориву",
-          "video_url": "https://www.youtube.com/watch?v=62kHNFYzXbE",
-          "comment_url": "https://www.youtube.com/watch?v=62kHNFYzXbE&lc=UgypVpR6JLI7XpsUmbp4AaABAg",
-          "published_at": "21 січня 2026"
         }
       ]
     }
@@ -4727,49 +4751,49 @@
   "question_distribution": [
     {
       "label": "Загальні реакції",
-      "count": 342
+      "count": 362
     },
     {
       "label": "Ліміти моделей і якість",
-      "count": 119
+      "count": 125
     },
     {
       "label": "Порівняння інструментів",
-      "count": 72
+      "count": 74
     },
     {
       "label": "Безпека і доступи",
-      "count": 69
+      "count": 73
     },
     {
       "label": "Практична користь",
-      "count": 67
+      "count": 70
     },
     {
       "label": "Фідбек по подачі",
-      "count": 34
+      "count": 35
     }
   ],
   "request_distribution": [
     {
       "label": "Безпека та локальний запуск ШІ",
-      "count": 133
+      "count": 138
     },
     {
       "label": "Глибші порівняння інструментів",
-      "count": 104
+      "count": 107
     },
     {
       "label": "Реальні workflow-демо",
-      "count": 83
+      "count": 88
     },
     {
       "label": "Продовжувати щотижневий AI-дайджест",
-      "count": 31
+      "count": 32
     },
     {
       "label": "Глибші розбори AI-дизайну",
-      "count": 26
+      "count": 27
     }
   ],
   "top_videos": [
@@ -4778,7 +4802,7 @@
       "url": "https://www.youtube.com/watch?v=7wmJTCogL60",
       "published_at": "15 квітня 2026",
       "comment_count": 87,
-      "view_count": 13965,
+      "view_count": 13974,
       "like_count": 1029
     },
     {
@@ -4786,7 +4810,7 @@
       "url": "https://www.youtube.com/watch?v=PCaMCZ9FiNQ",
       "published_at": "30 січня 2026",
       "comment_count": 77,
-      "view_count": 28832,
+      "view_count": 28871,
       "like_count": 1482
     },
     {
@@ -4794,31 +4818,31 @@
       "url": "https://www.youtube.com/watch?v=M4KpsaveKpM",
       "published_at": "29 травня 2026",
       "comment_count": 61,
-      "view_count": 21610,
-      "like_count": 924
+      "view_count": 22260,
+      "like_count": 956
     },
     {
       "title": "OpenClaw у дії: Як зібрати персонального ШІ агента (покрокова інструкція)",
       "url": "https://www.youtube.com/watch?v=29ey6quFIyA",
       "published_at": "4 лютого 2026",
       "comment_count": 55,
-      "view_count": 23064,
-      "like_count": 1072
+      "view_count": 23133,
+      "like_count": 1074
     },
     {
       "title": "Чому я більше не використовую ChatGPT? Показую свого AI-агента!",
       "url": "https://www.youtube.com/watch?v=HnciJGQXELU",
       "published_at": "27 лютого 2026",
       "comment_count": 55,
-      "view_count": 15565,
-      "like_count": 946
+      "view_count": 15590,
+      "like_count": 947
     },
     {
       "title": "НОВИНИ AI: Готові взяти AI-КОЛЕГУ на роботу? OpenAI, Anthropic та Nvidia здивували!",
       "url": "https://www.youtube.com/watch?v=INXY8x_cy-s",
       "published_at": "22 березня 2026",
       "comment_count": 50,
-      "view_count": 16490,
+      "view_count": 16501,
       "like_count": 934
     },
     {
@@ -4826,23 +4850,23 @@
       "url": "https://www.youtube.com/watch?v=svS762o1sl4",
       "published_at": "22 квітня 2026",
       "comment_count": 49,
-      "view_count": 28278,
-      "like_count": 1230
+      "view_count": 28465,
+      "like_count": 1237
     },
     {
       "title": "Модель, яку Anthropic боялись випускати — Claude Fable 5",
       "url": "https://www.youtube.com/watch?v=vQi7OpAj5fw",
       "published_at": "12 червня 2026",
       "comment_count": 42,
-      "view_count": 13154,
-      "like_count": 643
+      "view_count": 13233,
+      "like_count": 645
     },
     {
       "title": "НОВИНИ AI: Nano Banana 2 вже тут! Claude ОБВАЛИВ акції IBM!",
       "url": "https://www.youtube.com/watch?v=lqZQs0jc4_I",
       "published_at": "1 березня 2026",
       "comment_count": 42,
-      "view_count": 17542,
+      "view_count": 17548,
       "like_count": 819
     },
     {
@@ -4850,31 +4874,31 @@
       "url": "https://www.youtube.com/watch?v=KCKYbIltNwc",
       "published_at": "12 квітня 2026",
       "comment_count": 40,
-      "view_count": 17424,
-      "like_count": 928
+      "view_count": 17443,
+      "like_count": 929
     },
     {
       "title": "Цей AI змінить вашу роботу у 2026! Показую 4 реальні приклади",
       "url": "https://www.youtube.com/watch?v=oNOYavt7gRY",
       "published_at": "13 лютого 2026",
       "comment_count": 39,
-      "view_count": 15675,
-      "like_count": 838
+      "view_count": 15705,
+      "like_count": 839
     },
     {
       "title": "НОВИНИ AI: ВОУ! GPT-5.6 — Sol, Terra, Luna, яких всі чекали!",
       "url": "https://www.youtube.com/watch?v=7sz4Pm4V-Ow",
       "published_at": "12 липня 2026",
       "comment_count": 38,
-      "view_count": 18091,
-      "like_count": 776
+      "view_count": 18736,
+      "like_count": 793
     },
     {
       "title": "НОВИНИ AI: Anthropic запустив OLX, Китай блокує Meta і Codex з тваринками!",
       "url": "https://www.youtube.com/watch?v=tbnL0SY9GqU",
       "published_at": "10 травня 2026",
       "comment_count": 36,
-      "view_count": 14944,
+      "view_count": 14963,
       "like_count": 769
     },
     {
@@ -4882,7 +4906,7 @@
       "url": "https://www.youtube.com/watch?v=1bsD69T-k3U",
       "published_at": "29 березня 2026",
       "comment_count": 36,
-      "view_count": 13250,
+      "view_count": 13251,
       "like_count": 757
     },
     {
@@ -4890,7 +4914,7 @@
       "url": "https://www.youtube.com/watch?v=yS7m7ofRr3I",
       "published_at": "26 квітня 2026",
       "comment_count": 34,
-      "view_count": 32227,
+      "view_count": 32240,
       "like_count": 1263
     },
     {
@@ -4898,7 +4922,7 @@
       "url": "https://www.youtube.com/watch?v=NAlp_i13_4Y",
       "published_at": "5 квітня 2026",
       "comment_count": 33,
-      "view_count": 17240,
+      "view_count": 17249,
       "like_count": 908
     },
     {
@@ -4906,7 +4930,7 @@
       "url": "https://www.youtube.com/watch?v=XZQBlTaxLKY",
       "published_at": "3 травня 2026",
       "comment_count": 33,
-      "view_count": 16182,
+      "view_count": 16212,
       "like_count": 904
     },
     {
@@ -4914,7 +4938,7 @@
       "url": "https://www.youtube.com/watch?v=9bJmUc6N_mY",
       "published_at": "8 березня 2026",
       "comment_count": 33,
-      "view_count": 13634,
+      "view_count": 13638,
       "like_count": 739
     },
     {
@@ -4922,31 +4946,39 @@
       "url": "https://www.youtube.com/watch?v=bVOjVOlAU6M",
       "published_at": "14 червня 2026",
       "comment_count": 32,
-      "view_count": 9789,
-      "like_count": 440
+      "view_count": 9819,
+      "like_count": 441
     },
     {
       "title": "Чому я більше не вибираю між OpenClaw, Claude Code і Codex — запускаю всіх трьох!",
       "url": "https://www.youtube.com/watch?v=dAtC96i2v5M",
       "published_at": "24 квітня 2026",
       "comment_count": 32,
-      "view_count": 9667,
-      "like_count": 457
+      "view_count": 9708,
+      "like_count": 458
     },
     {
       "title": "НОВИНИ AI: Claude знав, що його тестують і мовчав!",
       "url": "https://www.youtube.com/watch?v=rvaSzhpfHNY",
       "published_at": "17 травня 2026",
       "comment_count": 31,
-      "view_count": 14784,
-      "like_count": 695
+      "view_count": 14839,
+      "like_count": 696
+    },
+    {
+      "title": "Як я перестав починати кожен чат з нуля",
+      "url": "https://www.youtube.com/watch?v=9DLyBdND22c",
+      "published_at": "2 липня 2026",
+      "comment_count": 30,
+      "view_count": 13558,
+      "like_count": 708
     },
     {
       "title": "OpenClaw vs Cowork - ×10 чи маркетинг? | OpenAI посилив науку | xAI знову провокує",
       "url": "https://www.youtube.com/watch?v=NByF6cn3qsY",
       "published_at": "1 лютого 2026",
       "comment_count": 30,
-      "view_count": 8938,
+      "view_count": 8940,
       "like_count": 618
     },
     {
@@ -4954,39 +4986,39 @@
       "url": "https://www.youtube.com/watch?v=I17Jz2I3xCY",
       "published_at": "25 січня 2026",
       "comment_count": 30,
-      "view_count": 7420,
+      "view_count": 7421,
       "like_count": 515
+    },
+    {
+      "title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів",
+      "url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+      "published_at": "21 липня 2026",
+      "comment_count": 29,
+      "view_count": 11691,
+      "like_count": 659
     },
     {
       "title": "Чому я більше не відкриваю ноутбук? CLAUDE CODE з телефону!",
       "url": "https://www.youtube.com/watch?v=-zjxZopn1RY",
       "published_at": "27 березня 2026",
       "comment_count": 29,
-      "view_count": 10867,
-      "like_count": 609
-    },
-    {
-      "title": "Як я перестав починати кожен чат з нуля",
-      "url": "https://www.youtube.com/watch?v=9DLyBdND22c",
-      "published_at": "2 липня 2026",
-      "comment_count": 28,
-      "view_count": 12467,
-      "like_count": 665
+      "view_count": 10905,
+      "like_count": 610
     },
     {
       "title": "НОВИНИ AI: ChatGPT, Grok, Claude і чому всі у AI-боргу",
       "url": "https://www.youtube.com/watch?v=Cp5j_mHqcPY",
       "published_at": "31 травня 2026",
       "comment_count": 25,
-      "view_count": 8062,
-      "like_count": 530
+      "view_count": 8097,
+      "like_count": 531
     },
     {
       "title": "НОВИНИ AI: Anthropic vs OpenAI — ГРАДУС ЗАШКАЛЮЄ!",
       "url": "https://www.youtube.com/watch?v=HWA8VKNChcY",
       "published_at": "8 лютого 2026",
       "comment_count": 25,
-      "view_count": 12668,
+      "view_count": 12670,
       "like_count": 696
     },
     {
@@ -4994,7 +5026,7 @@
       "url": "https://www.youtube.com/watch?v=PwxId9BVmRs",
       "published_at": "22 лютого 2026",
       "comment_count": 24,
-      "view_count": 9303,
+      "view_count": 9304,
       "like_count": 597
     },
     {
@@ -5002,7 +5034,7 @@
       "url": "https://www.youtube.com/watch?v=62kHNFYzXbE",
       "published_at": "18 січня 2026",
       "comment_count": 24,
-      "view_count": 10487,
+      "view_count": 10489,
       "like_count": 704
     },
     {
@@ -5010,7 +5042,7 @@
       "url": "https://www.youtube.com/watch?v=eJuPpLcReuU",
       "published_at": "15 лютого 2026",
       "comment_count": 23,
-      "view_count": 8634,
+      "view_count": 8640,
       "like_count": 543
     },
     {
@@ -5018,15 +5050,15 @@
       "url": "https://www.youtube.com/watch?v=VNR_SyeZF20",
       "published_at": "15 липня 2026",
       "comment_count": 22,
-      "view_count": 8575,
-      "like_count": 437
+      "view_count": 9430,
+      "like_count": 476
     },
     {
       "title": "НОВИНИ AI: ПРОРИВ! Модель тижня, яку всі так чекали",
       "url": "https://www.youtube.com/watch?v=mkP9rdpMUWw",
       "published_at": "19 квітня 2026",
       "comment_count": 22,
-      "view_count": 13703,
+      "view_count": 13705,
       "like_count": 751
     },
     {
@@ -5034,7 +5066,7 @@
       "url": "https://www.youtube.com/watch?v=uXKZAF3ximI",
       "published_at": "11 січня 2026",
       "comment_count": 22,
-      "view_count": 5919,
+      "view_count": 5924,
       "like_count": 507
     },
     {
@@ -5042,39 +5074,55 @@
       "url": "https://www.youtube.com/watch?v=IZrZKSuqHpo",
       "published_at": "21 червня 2026",
       "comment_count": 21,
-      "view_count": 10676,
-      "like_count": 580
+      "view_count": 10709,
+      "like_count": 581
     },
     {
       "title": "AI АГЕНТ що працюють 24/7 поки я сплю. Показую сетап",
       "url": "https://www.youtube.com/watch?v=Amw5i_no1cs",
       "published_at": "23 червня 2026",
       "comment_count": 20,
-      "view_count": 9031,
-      "like_count": 457
+      "view_count": 9349,
+      "like_count": 472
     },
     {
       "title": "НОВИНИ AI: Чому всі хочуть стати твоїм AI-КОЛЕГОЮ?",
       "url": "https://www.youtube.com/watch?v=ho0MqfrbY6w",
       "published_at": "15 березня 2026",
       "comment_count": 20,
-      "view_count": 10673,
+      "view_count": 10683,
       "like_count": 664
+    },
+    {
+      "title": "Claude Opus 5 змінює все, що ми знали про ШІ!",
+      "url": "https://www.youtube.com/watch?v=n34bbtUafb4",
+      "published_at": "25 липня 2026",
+      "comment_count": 16,
+      "view_count": 5208,
+      "like_count": 312
+    },
+    {
+      "title": "НОВИНИ AI: GOOGLE атакує ОДРАЗУ трьома моделями — чого чекати?",
+      "url": "https://www.youtube.com/watch?v=xOKytNwbSdg",
+      "published_at": "26 липня 2026",
+      "comment_count": 15,
+      "view_count": 7769,
+      "like_count": 378
     },
     {
       "title": "НОВИНИ AI: OpenAI більше не перший! Хто новий ШІ лідер?",
       "url": "https://www.youtube.com/watch?v=AkbRxd8SBKI",
       "published_at": "7 червня 2026",
       "comment_count": 15,
-      "view_count": 14311,
-      "like_count": 686
+      "view_count": 14393,
+      "like_count": 687
     },
     {
       "title": "НОВИНИ AI: Дали всім AI по 20$ і мікрофон — ось що сталось",
       "url": "https://www.youtube.com/watch?v=jedytILhH70",
       "published_at": "24 травня 2026",
       "comment_count": 15,
-      "view_count": 11122,
+      "view_count": 11139,
       "like_count": 538
     },
     {
@@ -5082,181 +5130,182 @@
       "url": "https://www.youtube.com/watch?v=qxmm8dukqTg",
       "published_at": "5 липня 2026",
       "comment_count": 13,
-      "view_count": 9329,
-      "like_count": 485
+      "view_count": 9474,
+      "like_count": 490
+    },
+    {
+      "title": "НОВИНИ AI: Готові до нової битви відкритих AI-моделей?",
+      "url": "https://www.youtube.com/watch?v=bhylt8VW12Q",
+      "published_at": "19 липня 2026",
+      "comment_count": 12,
+      "view_count": 8714,
+      "like_count": 439
     },
     {
       "title": "НОВИНИ AI: Anthropic ВИМАГАЄ паспорт — а Claude вже живе у Slack!",
       "url": "https://www.youtube.com/watch?v=i0uQo8jnse4",
       "published_at": "28 червня 2026",
       "comment_count": 12,
-      "view_count": 6503,
-      "like_count": 370
-    },
-    {
-      "title": "НОВИНИ AI: Готові до нової битви відкритих AI-моделей?",
-      "url": "https://www.youtube.com/watch?v=bhylt8VW12Q",
-      "published_at": "19 липня 2026",
-      "comment_count": 7,
-      "view_count": 3848,
-      "like_count": 270
+      "view_count": 6571,
+      "like_count": 371
     },
     {
       "title": "Рутину AI АГЕНТАМ! Показую власний сетап #imatrof  #штучнийінтелект #aiагент #codex #hermes #nvidia",
       "url": "https://www.youtube.com/watch?v=8s2fsvRK5WI",
       "published_at": "26 червня 2026",
       "comment_count": 2,
-      "view_count": 2191,
+      "view_count": 2205,
       "like_count": 66
     }
   ],
   "recent_comments": [
     {
-      "author": "@Marianne-c2w",
-      "text": "ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^",
-      "published_at": "19 липня 2026",
-      "video_title": "НОВИНИ AI: Готові до нової битви відкритих AI-моделей?",
-      "video_url": "https://www.youtube.com/watch?v=bhylt8VW12Q",
-      "comment_url": "https://www.youtube.com/watch?v=bhylt8VW12Q&lc=UgzCRSoCIIHo-E4xKD54AaABAg",
+      "author": "@yurzb",
+      "text": "Дякую за класний контент. Завжди цікаво отримувати актуальні новини",
+      "published_at": "29 липня 2026",
+      "video_title": "НОВИНИ AI: GOOGLE атакує ОДРАЗУ трьома моделями — чого чекати?",
+      "video_url": "https://www.youtube.com/watch?v=xOKytNwbSdg",
+      "comment_url": "https://www.youtube.com/watch?v=xOKytNwbSdg&lc=Ugw1EZopFmQNCDh0SzR4AaABAg",
       "like_count": 0
     },
     {
-      "author": "@emutant01",
-      "text": "На Ali вже якийсь час продаються схожі пристрої - для вайбкодінгу по 3т грн, типу AhaLab AhaKey-X1 Keyboard",
-      "published_at": "19 липня 2026",
-      "video_title": "НОВИНИ AI: Готові до нової битви відкритих AI-моделей?",
-      "video_url": "https://www.youtube.com/watch?v=bhylt8VW12Q",
-      "comment_url": "https://www.youtube.com/watch?v=bhylt8VW12Q&lc=Ugxgpi5QQxbdqMoS7XB4AaABAg",
-      "like_count": 2
-    },
-    {
-      "author": "@kant42-r6z",
-      "text": "2:00 якась ардуіно поробка за 200 доларів 😅 нормально так",
-      "published_at": "19 липня 2026",
-      "video_title": "НОВИНИ AI: Готові до нової битви відкритих AI-моделей?",
-      "video_url": "https://www.youtube.com/watch?v=bhylt8VW12Q",
-      "comment_url": "https://www.youtube.com/watch?v=bhylt8VW12Q&lc=UgxXpyMvw0qlK4UR8wl4AaABAg",
-      "like_count": 1
-    },
-    {
-      "author": "@Black1991Star",
-      "text": "Я не розумію чому ви називаєте це \"власна ШІ\" ? Вашим девайсом оперує стороння організація ви ніяк не дотичні. ШІ модель здатна ігнорувати ваші вимоги. Де тут відчуття контролю ?",
-      "published_at": "19 липня 2026",
-      "video_title": "НОВИНИ AI: Готові до нової битви відкритих AI-моделей?",
-      "video_url": "https://www.youtube.com/watch?v=bhylt8VW12Q",
-      "comment_url": "https://www.youtube.com/watch?v=bhylt8VW12Q&lc=UgxQswVqGe6qHL0CzDV4AaABAg",
-      "like_count": 1
-    },
-    {
-      "author": "@suxaryk",
-      "text": "GLM 5.2 better cost/value.",
-      "published_at": "19 липня 2026",
-      "video_title": "НОВИНИ AI: Готові до нової битви відкритих AI-моделей?",
-      "video_url": "https://www.youtube.com/watch?v=bhylt8VW12Q",
-      "comment_url": "https://www.youtube.com/watch?v=bhylt8VW12Q&lc=Ugz3pQIlY6Q5O5PyMK54AaABAg",
+      "author": "@valeriycold",
+      "text": "Дякую за цікаве відео. Підкажіть, а який інструмент використовувати для оркестрації використання різних мовних моделей для вирішення задачі і здешевлення процесу? Ну, тобто чим користуватись, щоб залучати і кодекс і містраль і щоб керував цим, наприклад, опус?",
+      "published_at": "29 липня 2026",
+      "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів",
+      "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+      "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=UgxYp6WebIQDiH-N7kB4AaABAg",
       "like_count": 0
     },
     {
-      "author": "@andriirozhylo3578",
-      "text": "Улюблений недільний ритуал ❤",
-      "published_at": "19 липня 2026",
-      "video_title": "НОВИНИ AI: Готові до нової битви відкритих AI-моделей?",
-      "video_url": "https://www.youtube.com/watch?v=bhylt8VW12Q",
-      "comment_url": "https://www.youtube.com/watch?v=bhylt8VW12Q&lc=Ugym48CTm5wjdhCyiux4AaABAg",
+      "author": "@SerhiiQA",
+      "text": "11:48 — Ігор, підкажіть, будь ласка, а ці скіли для wiki плануєте десь опублікувати? Бо зараз вони у вас в приватному репо.",
+      "published_at": "28 липня 2026",
+      "video_title": "Як я перестав починати кожен чат з нуля",
+      "video_url": "https://www.youtube.com/watch?v=9DLyBdND22c",
+      "comment_url": "https://www.youtube.com/watch?v=9DLyBdND22c&lc=UgzF9Pk337tqEy2lxv14AaABAg",
+      "like_count": 0
+    },
+    {
+      "author": "@vadimpivtorak1426",
+      "text": "А де практичні тести? Чи будуть вони?",
+      "published_at": "28 липня 2026",
+      "video_title": "Claude Opus 5 змінює все, що ми знали про ШІ!",
+      "video_url": "https://www.youtube.com/watch?v=n34bbtUafb4",
+      "comment_url": "https://www.youtube.com/watch?v=n34bbtUafb4&lc=Ugw8DHuACl545mCGVSN4AaABAg",
+      "like_count": 0
+    },
+    {
+      "author": "@YuriyMaksymchuk",
+      "text": "стосовно джемені його якість реально падає для безплатного користування з кожним релізом. що раз більше обмежень і що раз примітивніші відповіді.. навіть якщо палочкою потикати щоб кудись пішов подивився.. кілька місяців тому: нажав на кропку, сказав запит і отримував пристойну інформацію. зараз не лінуюся відкрити чат жпт..",
+      "published_at": "28 липня 2026",
+      "video_title": "НОВИНИ AI: GOOGLE атакує ОДРАЗУ трьома моделями — чого чекати?",
+      "video_url": "https://www.youtube.com/watch?v=xOKytNwbSdg",
+      "comment_url": "https://www.youtube.com/watch?v=xOKytNwbSdg&lc=UgyPaUrPIzUABsJR1mJ4AaABAg",
+      "like_count": 0
+    },
+    {
+      "author": "@YuriyMaksymchuk",
+      "text": "там не надавали перевагу Японії.. просто в Японії генерується велика кількість такого контенту у вигляді манг, романів ітп.. і в цілому просувають бренд. Китайці тоже продукують пропаганду.. але це фільтрують.\nВ європейському культурному контенті фокусуються на людині. а в америці зараз застій з супергероями і метрополісами які явно не релевантні для запитів щодо реального світу",
+      "published_at": "28 липня 2026",
+      "video_title": "НОВИНИ AI: GOOGLE атакує ОДРАЗУ трьома моделями — чого чекати?",
+      "video_url": "https://www.youtube.com/watch?v=xOKytNwbSdg",
+      "comment_url": "https://www.youtube.com/watch?v=xOKytNwbSdg&lc=UgyBEaWcUNS2U6ggcWd4AaABAg",
       "like_count": 0
     }
   ],
   "quotes": [
     {
-      "author": "@Marianne-c2w",
-      "text": "ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^ЦЕ КАЙФ ВАША КАМПАНІЯ ^-^",
-      "video_title": "НОВИНИ AI: Готові до нової битви відкритих AI-моделей?",
-      "video_url": "https://www.youtube.com/watch?v=bhylt8VW12Q",
-      "comment_url": "https://www.youtube.com/watch?v=bhylt8VW12Q&lc=UgzCRSoCIIHo-E4xKD54AaABAg",
-      "published_at": "19 липня 2026",
+      "author": "@yurzb",
+      "text": "Дякую за класний контент. Завжди цікаво отримувати актуальні новини",
+      "video_title": "НОВИНИ AI: GOOGLE атакує ОДРАЗУ трьома моделями — чого чекати?",
+      "video_url": "https://www.youtube.com/watch?v=xOKytNwbSdg",
+      "comment_url": "https://www.youtube.com/watch?v=xOKytNwbSdg&lc=Ugw1EZopFmQNCDh0SzR4AaABAg",
+      "published_at": "29 липня 2026",
       "themes": [
-        "Загальна реакція аудиторії"
+        "Новини про ШІ та кураторство"
       ]
     },
     {
-      "author": "@emutant01",
-      "text": "На Ali вже якийсь час продаються схожі пристрої - для вайбкодінгу по 3т грн, типу AhaLab AhaKey-X1 Keyboard",
-      "video_title": "НОВИНИ AI: Готові до нової битви відкритих AI-моделей?",
-      "video_url": "https://www.youtube.com/watch?v=bhylt8VW12Q",
-      "comment_url": "https://www.youtube.com/watch?v=bhylt8VW12Q&lc=Ugxgpi5QQxbdqMoS7XB4AaABAg",
-      "published_at": "19 липня 2026",
+      "author": "@valeriycold",
+      "text": "Дякую за цікаве відео. Підкажіть, а який інструмент використовувати для оркестрації використання різних мовних моделей для вирішення задачі і здешевлення процесу? Ну, тобто чим користуватись, щоб залучати і кодекс і містраль і щоб керував цим, наприклад, опус?",
+      "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів",
+      "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+      "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=UgxYp6WebIQDiH-N7kB4AaABAg",
+      "published_at": "29 липня 2026",
       "themes": [
-        "Загальна реакція аудиторії"
+        "Можливості моделей і порівняння",
+        "Фідбек по контенту та інтеграціях"
       ]
     },
     {
-      "author": "@kant42-r6z",
-      "text": "2:00 якась ардуіно поробка за 200 доларів 😅 нормально так",
-      "video_title": "НОВИНИ AI: Готові до нової битви відкритих AI-моделей?",
-      "video_url": "https://www.youtube.com/watch?v=bhylt8VW12Q",
-      "comment_url": "https://www.youtube.com/watch?v=bhylt8VW12Q&lc=UgxXpyMvw0qlK4UR8wl4AaABAg",
-      "published_at": "19 липня 2026",
+      "author": "@SerhiiQA",
+      "text": "11:48 — Ігор, підкажіть, будь ласка, а ці скіли для wiki плануєте десь опублікувати? Бо зараз вони у вас в приватному репо.",
+      "video_title": "Як я перестав починати кожен чат з нуля",
+      "video_url": "https://www.youtube.com/watch?v=9DLyBdND22c",
+      "comment_url": "https://www.youtube.com/watch?v=9DLyBdND22c&lc=UgzF9Pk337tqEy2lxv14AaABAg",
+      "published_at": "28 липня 2026",
       "themes": [
-        "Загальна реакція аудиторії"
+        "Інфраструктура, приватність і локальний запуск"
       ]
     },
     {
-      "author": "@Black1991Star",
-      "text": "Я не розумію чому ви називаєте це \"власна ШІ\" ? Вашим девайсом оперує стороння організація ви ніяк не дотичні. ШІ модель здатна ігнорувати ваші вимоги. Де тут відчуття контролю ?",
-      "video_title": "НОВИНИ AI: Готові до нової битви відкритих AI-моделей?",
-      "video_url": "https://www.youtube.com/watch?v=bhylt8VW12Q",
-      "comment_url": "https://www.youtube.com/watch?v=bhylt8VW12Q&lc=UgxQswVqGe6qHL0CzDV4AaABAg",
-      "published_at": "19 липня 2026",
+      "author": "@vadimpivtorak1426",
+      "text": "А де практичні тести? Чи будуть вони?",
+      "video_title": "Claude Opus 5 змінює все, що ми знали про ШІ!",
+      "video_url": "https://www.youtube.com/watch?v=n34bbtUafb4",
+      "comment_url": "https://www.youtube.com/watch?v=n34bbtUafb4&lc=Ugw8DHuACl545mCGVSN4AaABAg",
+      "published_at": "28 липня 2026",
       "themes": [
-        "Можливості моделей і порівняння"
+        "Практичне застосування та віддача"
       ]
     }
   ],
   "questions": [
     {
       "cluster": "Загальні реакції",
-      "count": 342,
-      "question": "Ігоре, дякую за новини. Як завжди, все стисло і по ділу.",
+      "count": 362,
+      "question": "А де практичні тести? Чи будуть вони?",
       "suggested_response": "Відповісти коротко в Q&A або включити в розігрів наступного відео.",
-      "comment_url": "https://www.youtube.com/watch?v=bhylt8VW12Q&lc=UgxNOfcWie88qwkKzNB4AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=bhylt8VW12Q",
-      "video_title": "НОВИНИ AI: Готові до нової битви відкритих AI-моделей?"
+      "comment_url": "https://www.youtube.com/watch?v=n34bbtUafb4&lc=Ugw8DHuACl545mCGVSN4AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=n34bbtUafb4",
+      "video_title": "Claude Opus 5 змінює все, що ми знали про ШІ!"
     },
     {
       "cluster": "Ліміти моделей і якість",
-      "count": 119,
-      "question": "Я не розумію чому ви називаєте це \"власна ШІ\" ? Вашим девайсом оперує стороння організація ви ніяк не дотичні. ШІ модель здатна ігнорувати ваші вимоги. Де тут відчуття контролю ?",
+      "count": 125,
+      "question": "Дякую за цікаве відео. Підкажіть, а який інструмент використовувати для оркестрації використання різних мовних моделей для вирішення задачі і здешевлення процесу? Ну, тобто чим користуватись, щоб залучати і кодекс і містраль і щоб керував цим, наприклад, опус?",
       "suggested_response": "Показати обмеження моделей на живих прикладах і коли чекати кращих альтернатив.",
-      "comment_url": "https://www.youtube.com/watch?v=bhylt8VW12Q&lc=UgxQswVqGe6qHL0CzDV4AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=bhylt8VW12Q",
-      "video_title": "НОВИНИ AI: Готові до нової битви відкритих AI-моделей?"
+      "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=UgxYp6WebIQDiH-N7kB4AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+      "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів"
     },
     {
       "cluster": "Порівняння інструментів",
-      "count": 72,
-      "question": "На рахунок поломаних автоматизаці і того що деякі інструменти перестають працювати - в цьому випадку сам Codex дуже добре справляється з вирішенням цих проблем шляхом окремого треда з full access.",
+      "count": 74,
+      "question": "Ігоре, дякую за відео!\nЦі 6 патернів надихнули мене створити скіл: коли я починаю будувати агента, він аналізує запит і пропонує той варіант, який найкраще підходить для конкретного випадку. Як завжди, все супер! Робіть побільше таких відео - не тільки про новинки, а й про філософію ШІ.",
       "suggested_response": "Зробити порівняльний breakdown з правилами: коли брати Codex, Claude Code або OpenClaw.",
-      "comment_url": "https://www.youtube.com/watch?v=VNR_SyeZF20&lc=UgzDTGbSJAIp9Na1-x54AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=VNR_SyeZF20",
-      "video_title": "ChatGPT Work  — сам доводить завдання до кінця!"
+      "comment_url": "https://www.youtube.com/watch?v=b9BaOg5UDis&lc=UgxFeLgv7s06ccSWMmx4AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
+      "video_title": "Чому більшість людей використовують LLM неправильно!? Показую 8 принципів"
     },
     {
       "cluster": "Безпека і доступи",
-      "count": 69,
-      "question": "Але якось не честно я помітив що кодекс у фоні працює ☝🏼 вони мій пк використовують а я ще їм гроші даю... Він йде до системи торрент частково....",
+      "count": 73,
+      "question": "11:48 — Ігор, підкажіть, будь ласка, а ці скіли для wiki плануєте десь опублікувати? Бо зараз вони у вас в приватному репо.",
       "suggested_response": "Пояснити безпечний setup: які доступи давати, що ізолювати локально, а що ні.",
-      "comment_url": "https://www.youtube.com/watch?v=7sz4Pm4V-Ow&lc=UgzwGfXsI0jbwJLLsjN4AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=7sz4Pm4V-Ow",
-      "video_title": "НОВИНИ AI: ВОУ! GPT-5.6 — Sol, Terra, Luna, яких всі чекали!"
+      "comment_url": "https://www.youtube.com/watch?v=9DLyBdND22c&lc=UgzF9Pk337tqEy2lxv14AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=9DLyBdND22c",
+      "video_title": "Як я перестав починати кожен чат з нуля"
     },
     {
       "cluster": "Практична користь",
-      "count": 67,
-      "question": "Корисне відео, але я шоці від використання телеграм?! Досі?!",
+      "count": 70,
+      "question": "На про підписці 200к кеш контексту для opus5. Але може збільшуватись до 400к. На макс підписці контекст 1М. Як це працює на про, є у вас інформація?",
       "suggested_response": "Дати 2-3 робочі кейси з результатом, вартістю помилки й фінальним ROI.",
-      "comment_url": "https://www.youtube.com/watch?v=9DLyBdND22c&lc=UgwxVTJp2VifSFh-EVx4AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=9DLyBdND22c",
-      "video_title": "Як я перестав починати кожен чат з нуля"
+      "comment_url": "https://www.youtube.com/watch?v=xOKytNwbSdg&lc=UgzHFoiJPFf7Wp2-Fb54AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=xOKytNwbSdg",
+      "video_title": "НОВИНИ AI: GOOGLE атакує ОДРАЗУ трьома моделями — чого чекати?"
     }
   ],
   "content_ideas": [
@@ -5264,107 +5313,107 @@
       "title": "Безпечні AI-агенти на твоєму комп'ютері: які доступи реально окей",
       "format": "Пояснення + чекліст",
       "why_now": "Безпека і доступи викликають емоцію, тому тема має потенціал для сильної дискусії й збережень.",
-      "evidence_count": 304,
+      "evidence_count": 318,
       "related_brands": "Hostinger, Google, Apple"
     },
     {
       "title": "Що досі ламається в GPT-5.5, Veo та генерації зображень",
       "format": "Лабораторія обмежень",
       "why_now": "Коментарі показують високий інтерес до меж інструментів, а не лише до анонсів.",
-      "evidence_count": 279,
+      "evidence_count": 296,
       "related_brands": "GPT-5.5, Veo, OpenAI"
     },
     {
       "title": "Codex vs Claude Code vs OpenClaw: дерево вибору для реальної роботи",
       "format": "Порівняння + живе демо",
       "why_now": "Аудиторії потрібне не ще одне wow-відео, а чіткі правила вибору інструмента під задачу.",
-      "evidence_count": 266,
+      "evidence_count": 277,
       "related_brands": "Codex, Claude Code, OpenClaw"
     },
     {
       "title": "Як інтегрувати рекламу й не втрачати довіру аудиторії",
       "format": "Мета-епізод / стратегія каналу",
       "why_now": "Є відчутний запит на кращий баланс між інтеграцією та чистою користю відео.",
-      "evidence_count": 243,
+      "evidence_count": 253,
       "related_brands": "Hostinger"
     }
   ],
   "activity": [
     {
-      "date": "2026-07-10",
-      "label": "10 липня 2026",
-      "count": 1
-    },
-    {
-      "date": "2026-07-11",
-      "label": "11 липня 2026",
-      "count": 2
-    },
-    {
-      "date": "2026-07-12",
-      "label": "12 липня 2026",
-      "count": 34
-    },
-    {
-      "date": "2026-07-13",
-      "label": "13 липня 2026",
-      "count": 7
-    },
-    {
-      "date": "2026-07-14",
-      "label": "14 липня 2026",
+      "date": "2026-07-20",
+      "label": "20 липня 2026",
       "count": 3
     },
     {
-      "date": "2026-07-15",
-      "label": "15 липня 2026",
-      "count": 25
+      "date": "2026-07-21",
+      "label": "21 липня 2026",
+      "count": 17
     },
     {
-      "date": "2026-07-16",
-      "label": "16 липня 2026",
+      "date": "2026-07-22",
+      "label": "22 липня 2026",
+      "count": 5
+    },
+    {
+      "date": "2026-07-23",
+      "label": "23 липня 2026",
+      "count": 2
+    },
+    {
+      "date": "2026-07-24",
+      "label": "24 липня 2026",
+      "count": 1
+    },
+    {
+      "date": "2026-07-25",
+      "label": "25 липня 2026",
+      "count": 17
+    },
+    {
+      "date": "2026-07-26",
+      "label": "26 липня 2026",
+      "count": 16
+    },
+    {
+      "date": "2026-07-27",
+      "label": "27 липня 2026",
+      "count": 6
+    },
+    {
+      "date": "2026-07-28",
+      "label": "28 липня 2026",
       "count": 4
     },
     {
-      "date": "2026-07-17",
-      "label": "17 липня 2026",
-      "count": 1
-    },
-    {
-      "date": "2026-07-18",
-      "label": "18 липня 2026",
-      "count": 1
-    },
-    {
-      "date": "2026-07-19",
-      "label": "19 липня 2026",
-      "count": 8
+      "date": "2026-07-29",
+      "label": "29 липня 2026",
+      "count": 2
     }
   ],
   "excel_preview": [
     {
       "theme": "Можливості моделей і порівняння",
-      "count": 196,
+      "count": 208,
       "intensity": 1.0
     },
     {
       "theme": "Інфраструктура, приватність і локальний запуск",
-      "count": 171,
-      "intensity": 0.872
+      "count": 180,
+      "intensity": 0.865
     },
     {
       "theme": "ШІ-агенти та робочі процеси розробки",
-      "count": 162,
-      "intensity": 0.827
+      "count": 170,
+      "intensity": 0.817
     },
     {
       "theme": "Фідбек по контенту та інтеграціях",
-      "count": 139,
-      "intensity": 0.709
+      "count": 146,
+      "intensity": 0.702
     },
     {
       "theme": "Новини про ШІ та кураторство",
-      "count": 115,
+      "count": 122,
       "intensity": 0.587
     }
   ],
