@@ -1,0 +1,21 @@
+package.json
+  s_319ed468fa411a::t_9d33f8be030008 19-21
+package-lock.json
+  s_319ed468fa411a::t_d6bdb916a9490c 1166-1168,1222-1224,1242
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "b93dcf1bf4b8b15b396f541d8ef0d4f87f2881da",
+  "prompts": {},
+  "sessions": {
+    "s_319ed468fa411a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6e04c27f-6cab-46ba-b8ae-54e2c57447c5",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Igor Matrofailo <imatrofaylo@gmail.com>"
+    }
+  }
+}
