@@ -4,12 +4,12 @@
     "channel_url": "https://www.youtube.com/@imatrof",
     "site_title": "Аналітика коментарів YouTube",
     "report_url": "../outputs/YouTube_comment_insights.xlsx",
-    "generated_from": "11 січня 2026 - 13 вересня 2026",
+    "generated_from": "11 січня 2026 - 20 вересня 2026",
     "last_refresh": {
-      "label": "13 вересня 2026",
-      "new_videos_count": 2,
-      "new_top_level_comments_count": 67,
-      "new_replies_count": 14
+      "label": "20 вересня 2026",
+      "new_videos_count": 3,
+      "new_top_level_comments_count": 65,
+      "new_replies_count": 17
     }
   },
   "hero": {
@@ -29,28 +29,28 @@
   "stats": [
     {
       "label": "Top-level коментарів в аналізі",
-      "value": 1722,
+      "value": 1783,
       "hint": "Релевантні коментарі верхнього рівня після фільтра коротких реакцій, спаму і нерелевантних записів."
     },
     {
       "label": "Охоплено відео",
-      "value": 59,
-      "hint": "Діапазон: 11 січня 2026 - 13 вересня 2026"
+      "value": 62,
+      "hint": "Діапазон: 11 січня 2026 - 20 вересня 2026"
     },
     {
       "label": "Відповідей у гілках",
-      "value": 825,
-      "hint": "Replies під top-level коментарями. Це окремий шар дискусії й він не входить у 1722 top-level коментарів."
+      "value": 842,
+      "hint": "Replies під top-level коментарями. Це окремий шар дискусії й він не входить у 1783 top-level коментарів."
     },
     {
       "label": "Головний попит",
       "value": "Безпека та локальний запуск ШІ",
-      "hint": "160 згадок у коментарях"
+      "hint": "163 згадок у коментарях"
     },
     {
       "label": "Найсильніша тема",
       "value": "Можливості моделей і порівняння",
-      "hint": "267 зафіксованих сигналів"
+      "hint": "278 зафіксованих сигналів"
     },
     {
       "label": "Формат звіту",
@@ -63,45 +63,133 @@
       "title": "Аудиторія приходить по відбірці головного: новини про ШІ економлять їй час на самостійний пошук.",
       "details": "Тема новин про ШІ та кураторства має 27 згадок, а люди прямо пишуть, що канал допомагає відслідковувати ринок без зайвого шуму.",
       "priority": "Високий",
-      "evidence": "Якщо хочеш не пропускати такі відео щотижня — підпишись, це безкоштовно 🙏\n\nА ще долучайся до  закритої групи, де можеш знайти практичні гайди, шаблони, інструкції та ефіри про AI: https://imatrof.com?utm_source=youtube&utm_medium=pinned_comment&utm_campaign=ai-news-september-13-2026&utm_content=primary",
-      "evidence_url": "https://www.youtube.com/watch?v=F6La-AOr9fI&lc=UgxflXi3OwE-JjkIESd4AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=F6La-AOr9fI",
-      "video_title": "НОВИНИ AI: АГЕНТИ OpenAI вийшли з пісочниці та захопили Wiki"
+      "evidence": "Якщо хочеш не пропускати такі відео щотижня — підпишись, це безкоштовно 🙏\n\nА ще долучайся до моєї закритої групи, де ти можеш знайти практичні гайди, шаблони, інструкції та ефіри про AI: https://imatrof.com?utm_source=youtube&utm_medium=pinned_comment&utm_campaign=ai-news-september-20-2026&utm_content=primary",
+      "evidence_url": "https://www.youtube.com/watch?v=TEpBV0crPTU&lc=UgymP5MA-vsIGBSYOch4AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=TEpBV0crPTU",
+      "video_title": "НОВИНИ AI: Топові AI-компанії хочуть ПРИГАЛЬМУВАТИ — але дороги назад немає"
     },
     {
       "title": "Найсильніший продуктовий інтерес зараз навколо стеку агентної розробки: Codex, Claude Code, OpenClaw.",
       "details": "Тема ШІ-агентів і робочих процесів розробки має 19 згадок, а інструменти Codex, Claude та OpenClaw разом фігурують 24 рази.",
       "priority": "Високий",
-      "evidence": "А чогось не зрозумів а як декілька незалежних агентів знайшли цей сайт для спілкування. Тобто повинен бути ключ який агенти повинні шукати в інтернеті щоб зрозуміти що це, умовно їх місце спілкування. Інакше без якогось ідентифікатора як вони знайшли це місце? Тобто моя думка, що у них є інструкція як себе поводити і що робити щоб створити місце для спілкування і потім як це місце ідентифікувати",
-      "evidence_url": "https://www.youtube.com/watch?v=F6La-AOr9fI&lc=Ugzn3uHyF8m-cZFS5kB4AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=F6La-AOr9fI",
-      "video_title": "НОВИНИ AI: АГЕНТИ OpenAI вийшли з пісочниці та захопили Wiki"
+      "evidence": "Мережі диряві а не агенти злі",
+      "evidence_url": "https://www.youtube.com/watch?v=TEpBV0crPTU&lc=UgxqWiriE-_BM26tLQV4AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=TEpBV0crPTU",
+      "video_title": "НОВИНИ AI: Топові AI-компанії хочуть ПРИГАЛЬМУВАТИ — але дороги назад немає"
     },
     {
       "title": "Люди хочуть не лише анонси, а й чесну перевірку реальністю: де ШІ вже працює, а де ще ламається.",
       "details": "Тема практичного застосування має 15 згадок, а питання про реальну користь з'являються 10 разів.",
       "priority": "Високий",
-      "evidence": "Клод  зараз набагато швидше працює зараз з браузером !",
-      "evidence_url": "https://www.youtube.com/watch?v=F6La-AOr9fI&lc=UgyV3H3uT3BM-azEPYp4AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=F6La-AOr9fI",
-      "video_title": "НОВИНИ AI: АГЕНТИ OpenAI вийшли з пісочниці та захопили Wiki"
+      "evidence": "Переклад: китайці поступово наздоганяють долину і швидше за все випередять її, тому Каліфорнія хоче мит, санкцій і націоналізації (з компенсацією фіктивної вартості акцій акціонерам).",
+      "evidence_url": "https://www.youtube.com/watch?v=TEpBV0crPTU&lc=UgzhW_vNisZCuOAF_N54AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=TEpBV0crPTU",
+      "video_title": "НОВИНИ AI: Топові AI-компанії хочуть ПРИГАЛЬМУВАТИ — але дороги назад немає"
     },
     {
       "title": "Навколо безпеки, доступів і локального запуску ШІ-агентів є помітна напруга.",
       "details": "Запити про безпеку та локальний запуск мають 11 тригерів, а окремі питання про доступи виникають 8 разів.",
       "priority": "Середній",
-      "evidence": "Експерименти це весело але дорого. Заставив клод коворком оновити мені профіль лінкідин і на джинні резюме. Виконав на 4+ але зїв всі ліміти 5 годинні)) Неефективно.\nА от встановити мсп сервер між робочим про клодом і домашнім клод кодом, щоб вони юзали одну базу по проекту і його задачах - це прям бімба. пішло часу могу цілий день але тепер це прибирає купу рутини і галюцинацій між моделями.",
-      "evidence_url": "https://www.youtube.com/watch?v=zke9f2Wa250&lc=Ugz93-0piyQPe3-DRgZ4AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=zke9f2Wa250",
-      "video_title": "AI став іншим! Це вже далеко не чат-бот та пошук в інтернеті"
+      "evidence": "Ці усі побоювання про небезпеку АІ це звіздьош. Всі прекрасно розуміють що вони набрали боргових зобов'язань на пату трильйонів доларів, при відсутності прибутку. Тепер коли вони бачать що все навертається, їм необхідно швидко знайти причину на яку можна усе списати.",
+      "evidence_url": "https://www.youtube.com/watch?v=TEpBV0crPTU&lc=UgxArYU3YkGxGrlSu0h4AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=TEpBV0crPTU",
+      "video_title": "НОВИНИ AI: Топові AI-компанії хочуть ПРИГАЛЬМУВАТИ — але дороги назад немає"
     }
   ],
   "theme_distribution": [
     {
       "label": "Можливості моделей і порівняння",
-      "count": 267,
+      "count": 278,
       "delta": 0,
       "samples": [
+        {
+          "author": "@Denis-d5w",
+          "text": "Я не користувався Астрою в задачах, тому не знаю поки нюансів, але на основі відео типу підкреслюється фіча - може вирішувати сама довго задачу. \nПо-перше: це не завжди плюс , \"залежить від\". Я користувався Opus VS Sonet, і в цьому розрізі мені НЕ подобається Опус саме через те, що він починає забагато щось там сам вирішувати, переборщувати, скажем так робити оверхеди... Мені воно не треба, і часто включаюся на Сонет, бо вона більш конкретніше виконує задачу. \nТе що модель вирішила з першого-другого промта не значить що це рішення  краще, ніж уточнюючі моменти які ви їй не надали і які можуть вплинути на рішення. Тобто гілок може бути багато, і модель лише вирішила за вас по якій гілці піти. \nЧи це добре чи погано? Залежить від задачі, від вашого ставлення до задачі і т.д. і т.п\nПо-друге: є модель , а є агент. Так от чим тоді довге виконання промта \"сильною\" моделю відрізняється від довгого виконання агентом з \"слабшою\" моделю ? Це ж скоріше за все просто напросто впихнули як проміжну ланку агента замість того щоб ви агента юзали... І в чому тут унікальність? Я оцей момент взагалі не зрозумів... Менше тулів треба ставити локально типу?",
+          "video_title": "Я доручив ASTRA GPT-6 три реальні задачі — ось результат",
+          "video_url": "https://www.youtube.com/watch?v=awTo9U5qFbE",
+          "comment_url": "https://www.youtube.com/watch?v=awTo9U5qFbE&lc=UgzNqPHwt1-zQDKO6Bx4AaABAg",
+          "published_at": "19 вересня 2026"
+        },
+        {
+          "author": "@AkvilonPro",
+          "text": "А як астра менеджер керує субагкнтами? Він сам їх створює згідно головного завдання? І чи може astra керувати як підагентос claude Code чи codex (наприклад як незалежних верифікаторів)?",
+          "video_title": "Я доручив ASTRA GPT-6 три реальні задачі — ось результат",
+          "video_url": "https://www.youtube.com/watch?v=awTo9U5qFbE",
+          "comment_url": "https://www.youtube.com/watch?v=awTo9U5qFbE&lc=UgwLJibmV1PPDqdJ-oh4AaABAg",
+          "published_at": "18 вересня 2026"
+        },
+        {
+          "author": "@ukranonymous",
+          "text": "люди стануть розумово кастрованими через ті моделі. Колись люди самі зрозуміли як навігувати в морі по зірках, як збудувати театр в якому не потрібно мікрофона (з неймовірною акустикою) і так далі. А тепер люди будуть питати в ШІ як коробки поскладати в своє авто. Це нічим хорошим не закінчиться. Ми втратимо своє місце на вершині харчового ланцюжка.\nАвтору подяка за інформативне відео",
+          "video_title": "Я доручив ASTRA GPT-6 три реальні задачі — ось результат",
+          "video_url": "https://www.youtube.com/watch?v=awTo9U5qFbE",
+          "comment_url": "https://www.youtube.com/watch?v=awTo9U5qFbE&lc=Ugxx5zibrZQSXNHNRw94AaABAg",
+          "published_at": "18 вересня 2026"
+        },
+        {
+          "author": "@vitbol",
+          "text": "Воно ненажерливе! Клод на максималках (ультракод) так не жере ліміти, як ЧатGPT!\nЩе й тупувате якесь порівняно з Клодом",
+          "video_title": "Я доручив ASTRA GPT-6 три реальні задачі — ось результат",
+          "video_url": "https://www.youtube.com/watch?v=awTo9U5qFbE",
+          "comment_url": "https://www.youtube.com/watch?v=awTo9U5qFbE&lc=UgzAPBWmPrxRaNeqqQ14AaABAg",
+          "published_at": "18 вересня 2026"
+        },
+        {
+          "author": "@imatrof",
+          "text": "Якщо хочеш не пропускати такі відео щотижня — підпишись, це безкоштовно 🙏\n\nА ще долучайся до моєї закритої групи, де ти можеш знайти практичні гайди, шаблони, інструкції та ефіри про AI:\nhttps://imatrof.com?utm_source=youtube&utm_medium=pinned_comment&utm_campaign=astra-gpt-6-review&utm_content=primary",
+          "video_title": "Я доручив ASTRA GPT-6 три реальні задачі — ось результат",
+          "video_url": "https://www.youtube.com/watch?v=awTo9U5qFbE",
+          "comment_url": "https://www.youtube.com/watch?v=awTo9U5qFbE&lc=UgzspVM8Mrc3Lm3Lxy54AaABAg",
+          "published_at": "18 вересня 2026"
+        },
+        {
+          "author": "@astopfakecom",
+          "text": "Вітаю. На якій мові ви програмували до появи в 2023 перших кодових моделей?",
+          "video_title": "AI ЗАБУВАЄ вашу роботу? Ось справжня причина!",
+          "video_url": "https://www.youtube.com/watch?v=mtFU3SHdFRQ",
+          "comment_url": "https://www.youtube.com/watch?v=mtFU3SHdFRQ&lc=Ugw3pNJPnsu7bmtQTut4AaABAg",
+          "published_at": "17 вересня 2026"
+        },
+        {
+          "author": "@MasterLoma",
+          "text": "Програмістам легше, вони хоч можуть оцінити якість коду і направити модель в потрібну сторону, а от вайбкордерам приводиться дебадижити в сліпу)🎉",
+          "video_title": "AI ЗАБУВАЄ вашу роботу? Ось справжня причина!",
+          "video_url": "https://www.youtube.com/watch?v=mtFU3SHdFRQ",
+          "comment_url": "https://www.youtube.com/watch?v=mtFU3SHdFRQ&lc=Ugw3k6TS4KJ_j3R6FQp4AaABAg",
+          "published_at": "16 вересня 2026"
+        },
+        {
+          "author": "@imatrof",
+          "text": "Якщо хочеш не пропускати такі відео щотижня — підпишись, це безкоштовно 🙏\n\nА ще долучайся до моєї закритої групи, де ти можеш знайти практичні гайди, шаблони, інструкції та ефіри про AI:\nhttps://imatrof.com?utm_source=youtube&utm_medium=pinned_comment&utm_campaign=progressive-context-claude-code&utm_content=primary",
+          "video_title": "AI ЗАБУВАЄ вашу роботу? Ось справжня причина!",
+          "video_url": "https://www.youtube.com/watch?v=mtFU3SHdFRQ",
+          "comment_url": "https://www.youtube.com/watch?v=mtFU3SHdFRQ&lc=UgzFNo1FJpbyDDsWw9N4AaABAg",
+          "published_at": "16 вересня 2026"
+        },
+        {
+          "author": "@nuovadottrina",
+          "text": "opus 5 класна модель, але хто її взагалі використовує за такої ціни?",
+          "video_title": "AI став іншим! Це вже далеко не чат-бот та пошук в інтернеті",
+          "video_url": "https://www.youtube.com/watch?v=zke9f2Wa250",
+          "comment_url": "https://www.youtube.com/watch?v=zke9f2Wa250&lc=UgxJeyxLP88kDwyg_jd4AaABAg",
+          "published_at": "15 вересня 2026"
+        },
+        {
+          "author": "@nuovadottrina",
+          "text": "Я щойно засунув Claude Cowork у м’ясорубку з пачок макулатури, де треба жувати стоси документів одночасно. Спостерігав, як Gemini й ChatGPT давляться цим лайном. Якщо Gemini переоре тобі все поле через комариний чих, то Claude править рівно один шов.  шалений спрут, що хапає щупальцями купу справ водночас і не губиться © gemini 3.5 flash lite",
+          "video_title": "НОВИНИ AI: АГЕНТИ OpenAI вийшли з пісочниці та захопили Wiki",
+          "video_url": "https://www.youtube.com/watch?v=F6La-AOr9fI",
+          "comment_url": "https://www.youtube.com/watch?v=F6La-AOr9fI&lc=UgxqYq0QOho-MddrDw94AaABAg",
+          "published_at": "14 вересня 2026"
+        },
+        {
+          "author": "@Archik-MW",
+          "text": "Моделі виконують ті функції на які вони запрограмовані. Якщо їх запрограмувати на втечу то вони це і зробили. Нічого дивного. Як би це була і правда то про це ніх не говорив би особливо публічно",
+          "video_title": "НОВИНИ AI: АГЕНТИ OpenAI вийшли з пісочниці та захопили Wiki",
+          "video_url": "https://www.youtube.com/watch?v=F6La-AOr9fI",
+          "comment_url": "https://www.youtube.com/watch?v=F6La-AOr9fI&lc=UgzsSUYB6Y31AO4Tp2V4AaABAg",
+          "published_at": "13 вересня 2026"
+        },
         {
           "author": "@OlegDez",
           "text": "Експерименти це весело але дорого. Заставив клод коворком оновити мені профіль лінкідин і на джинні резюме. Виконав на 4+ але зїв всі ліміти 5 годинні)) Неефективно.\nА от встановити мсп сервер між робочим про клодом і домашнім клод кодом, щоб вони юзали одну базу по проекту і його задачах - це прям бімба. пішло часу могу цілий день але тепер це прибирає купу рутини і галюцинацій між моделями.",
@@ -559,7 +647,7 @@
           "published_at": "1 серпня 2026"
         },
         {
-          "author": "@StanislavAfický-c7n",
+          "author": "@StanislavAfický",
           "text": "Геніально 🤯\n\nА чи могли б ви зняти відео про те, як у вас в цілому орхестрований воркфлоу? Бачу у вас купа проектів v GPT і Claude, ви використовуєте декілька датабазових конекторів як Notion, Linear, Obsidian, маєте ісплементовано багато сусідів. Як ви у цьому не губитесь? Хіба не складно працювати з такою кількістю інформації? Розкажіть про це, будь ласка",
           "video_title": "Вайбкодинг більше НЕ працює. Показую як AI сам будує фічу — від ідеї до реалізації",
           "video_url": "https://www.youtube.com/watch?v=_SF8bqSuTYs",
@@ -781,102 +869,46 @@
           "video_url": "https://www.youtube.com/watch?v=7sz4Pm4V-Ow",
           "comment_url": "https://www.youtube.com/watch?v=7sz4Pm4V-Ow&lc=UgwrNKslTVthKQUmN454AaABAg",
           "published_at": "12 липня 2026"
-        },
-        {
-          "author": "@andrewyt5793",
-          "text": "Звернув увагу, що у бенчмарках нові моделі не порівнюють з Gemini 3.5 flash. Щось мені здається, що по ціні-якість їм набагато вигідніше порівнювати зі старою 3.1 Pro, а не з 3.5 flash, бо графіки виглядали б по-іншому.",
-          "video_title": "НОВИНИ AI: ВОУ! GPT-5.6 — Sol, Terra, Luna, яких всі чекали!",
-          "video_url": "https://www.youtube.com/watch?v=7sz4Pm4V-Ow",
-          "comment_url": "https://www.youtube.com/watch?v=7sz4Pm4V-Ow&lc=Ugy1XDcVuPSuelTZcEF4AaABAg",
-          "published_at": "12 липня 2026"
-        },
-        {
-          "author": "@SemenovOV",
-          "text": "Хаспаді! ти про впни або вірт машинки чув? проксі? будуть блокувати користувачів з Китаю. вони вже це робили. той антропік. однак це навряд допоможе. до того ж антропік із опенаі самі напиздили ІР дофіга під час тренування моделей. тому жодної симпатії та співчуття до них щось нема",
-          "video_title": "НОВИНИ AI: Готові до Claude Fable 5 знову? GPT 5.6 вже тут!",
-          "video_url": "https://www.youtube.com/watch?v=qxmm8dukqTg",
-          "comment_url": "https://www.youtube.com/watch?v=qxmm8dukqTg&lc=UgxKcCDD8UCNx3EgZWp4AaABAg",
-          "published_at": "6 липня 2026"
-        },
-        {
-          "author": "@kundul02",
-          "text": "Ігор, а роскаєи будь даска як ти в браузері запустив Гемма 4, локально? Можно ссилку на модель, мені потрібно робити агентні штучки простенькі, дивлюсь ця модель дуже підійшла би мені.",
-          "video_title": "НОВИНИ AI: Готові до Claude Fable 5 знову? GPT 5.6 вже тут!",
-          "video_url": "https://www.youtube.com/watch?v=qxmm8dukqTg",
-          "comment_url": "https://www.youtube.com/watch?v=qxmm8dukqTg&lc=UgydXEcDBr39vTI2nBB4AaABAg",
-          "published_at": "5 липня 2026"
-        },
-        {
-          "author": "@Великолепие-т2х",
-          "text": "Хтось може купити мені відеокарту GeForce RTX 50 Series абсолютно любу ! я хочу моделі локально запускати.",
-          "video_title": "НОВИНИ AI: Готові до Claude Fable 5 знову? GPT 5.6 вже тут!",
-          "video_url": "https://www.youtube.com/watch?v=qxmm8dukqTg",
-          "comment_url": "https://www.youtube.com/watch?v=qxmm8dukqTg&lc=Ugz-JXhzrrRYEgNbOm14AaABAg",
-          "published_at": "5 липня 2026"
-        },
-        {
-          "author": "@NeonGlay",
-          "text": "С інженерними задачами модель працює все ще погано. Креслення розуміє погано. Моделює в cad теж далеко від необхідного",
-          "video_title": "НОВИНИ AI: Готові до Claude Fable 5 знову? GPT 5.6 вже тут!",
-          "video_url": "https://www.youtube.com/watch?v=qxmm8dukqTg",
-          "comment_url": "https://www.youtube.com/watch?v=qxmm8dukqTg&lc=Ugx-cRUwpHxLzFHOHdR4AaABAg",
-          "published_at": "5 липня 2026"
-        },
-        {
-          "author": "@igorsyomkin5807",
-          "text": "Три рівні складності\r\nУважно слухаю ваші огляди. Вони часто звучить рекомендація: залежно від складності завдання вибирати моделі Fable 5, Opus 4.8, Sonnet 5 або Haiku 4.5.\r\nНа словах це виглядає досить просто, але постає питання: як визначити ступінь складності завдання?\r\nНаприклад, я належу до покоління Baby Boomers і займаюся складанням матеріальних балансів у металургії, тепловими розрахунками печей та іншими інженерними завданнями. Крім того, контролюю та перевіряю звіти щодо сировини та ринків.\r\nНа практиці я бачу, що грамотне використання Claude суттєво підвищує продуктивність та ефективність робочих процесів. Однак хотілося б зрозуміти, в яких випадках слід використовувати різні моделі і як співвідносити вибір моделі зі складністю задачі, що розв'язується.\r\nТакож цікавить, чи існують готові посібники, рекомендації чи специфікації для технічно грамотних інженерів-металургів щодо застосування ІІ-моделей у професійній діяльності.\r\nОкреме питання стосується спеціалізованих агентів та інструментів для роботи з кресленнями: які з них найефективніші та які можливості вони надають?\r\nБуду вдячний за огляд цієї теми. Розумію, що я, мабуть, не належу до масової аудиторії подібних сервісів, проте впевнений, що серед інженерів-практиків такі питання також дуже актуальні.",
-          "video_title": "Як я перестав починати кожен чат з нуля",
-          "video_url": "https://www.youtube.com/watch?v=9DLyBdND22c",
-          "comment_url": "https://www.youtube.com/watch?v=9DLyBdND22c&lc=UgxySfkpncefhiHy58l4AaABAg",
-          "published_at": "3 липня 2026"
-        },
-        {
-          "author": "@MaikelBorys",
-          "text": "Дай Бог бути платоспроможним до рівня 2к/курс і навчатися на RoboDREAMS бо поки шо це тільки ДРІМЗ 🤣 дякую за обзорчики! Супер починаємо понеділок!!  Все ж таки на рахунок персональності хто такий власник GPT у хто такий Anthropic то вибір залишається з антропіком. Дуже рекомендую для перегляду - історія антропік, іспанський експерт по IA, він прям дуже інформативно й глибоко роздумує. Автопереклад на англійську є! https://youtu.be/n6oW7Y7io0Y?is=seOnVy8j6LvRy3cd",
-          "video_title": "НОВИНИ AI: Anthropic ВИМАГАЄ паспорт — а Claude вже живе у Slack!",
-          "video_url": "https://www.youtube.com/watch?v=i0uQo8jnse4",
-          "comment_url": "https://www.youtube.com/watch?v=i0uQo8jnse4&lc=Ugx9X-YA4NyQfNWZA5N4AaABAg",
-          "published_at": "29 червня 2026"
-        },
-        {
-          "author": "@wmicsl",
-          "text": "Хіба завдання в чатжпт не роблять те саме, при цьому не треба гонять свій комп для моделі?",
-          "video_title": "Рутину AI АГЕНТАМ! Показую власний сетап #imatrof  #штучнийінтелект #aiагент #codex #hermes #nvidia",
-          "video_url": "https://www.youtube.com/watch?v=8s2fsvRK5WI",
-          "comment_url": "https://www.youtube.com/watch?v=8s2fsvRK5WI&lc=UgwOyza7y3ijpxSsRuV4AaABAg",
-          "published_at": "28 червня 2026"
-        },
-        {
-          "author": "@Vitality-UA",
-          "text": "Цікавий сценарій, обовʼязково перегляну повне відео. А з клод агентами для розробки замість локальної моделі на 2у ноуті вийде так само налаштувати планування + виконання?",
-          "video_title": "Рутину AI АГЕНТАМ! Показую власний сетап #imatrof  #штучнийінтелект #aiагент #codex #hermes #nvidia",
-          "video_url": "https://www.youtube.com/watch?v=8s2fsvRK5WI",
-          "comment_url": "https://www.youtube.com/watch?v=8s2fsvRK5WI&lc=UgylFQcKN4phi7-WG9F4AaABAg",
-          "published_at": "26 червня 2026"
-        },
-        {
-          "author": "@FrontendShinobi",
-          "text": "А підкажіть будльаска от старенка Мас М1 студія на 64 гіга коштує +- 1.5К по суті як просто відюха )))) але ж дозволяє запускати більші моделі теоретично до 50 гігобайт +- повинно завестися\n\nНа вашу думку має сенс? чи ліпше всеж таки дивитися в ПК на 4090 чи 5090?",
-          "video_title": "AI АГЕНТ що працюють 24/7 поки я сплю. Показую сетап",
-          "video_url": "https://www.youtube.com/watch?v=Amw5i_no1cs",
-          "comment_url": "https://www.youtube.com/watch?v=Amw5i_no1cs&lc=UgyfdCyInh9G26FFFod4AaABAg",
-          "published_at": "24 червня 2026"
-        },
-        {
-          "author": "@storm22221",
-          "text": "Вже 3 місяці використовую Гермеса. Встановив його на МакМіні4 х64. Просто капець стільки він усього робить:\n1. Дуже потужна дейлі система в Обсідіані, довго мучався коли її вчив. Але зараз через телеграм максимальний контроль і автоматизація планів. Особливо люблю можливість начитати як пройшов день а він сам все розпізнав та відмітив що зроблено та переніс що невстиг зробити на слідуючий день\n2. Дуже потужний  генератор промтів. Зібрав дуже велику базу кращих промтів, зробив оцінку кращих рпішень і зараз просто вогонь як робить промти (вони не в одну ітерацію творяться а з постійним розивтком)\n3. Багато етапний з застосуванням кучі мовних моделей воласний діпресірч, просто вогонь ...",
-          "video_title": "AI АГЕНТ що працюють 24/7 поки я сплю. Показую сетап",
-          "video_url": "https://www.youtube.com/watch?v=Amw5i_no1cs",
-          "comment_url": "https://www.youtube.com/watch?v=Amw5i_no1cs&lc=Ugz8I82XksZvOm5T9uJ4AaABAg",
-          "published_at": "23 червня 2026"
         }
       ]
     },
     {
       "label": "Інфраструктура, приватність і локальний запуск",
-      "count": 211,
+      "count": 215,
       "delta": 0,
       "samples": [
+        {
+          "author": "@ВадимКорженко-э8б",
+          "text": "Ці усі побоювання про небезпеку АІ це звіздьош. Всі прекрасно розуміють що вони набрали боргових зобов'язань на пату трильйонів доларів, при відсутності прибутку. Тепер коли вони бачать що все навертається, їм необхідно швидко знайти причину на яку можна усе списати.",
+          "video_title": "НОВИНИ AI: Топові AI-компанії хочуть ПРИГАЛЬМУВАТИ — але дороги назад немає",
+          "video_url": "https://www.youtube.com/watch?v=TEpBV0crPTU",
+          "comment_url": "https://www.youtube.com/watch?v=TEpBV0crPTU&lc=UgxArYU3YkGxGrlSu0h4AaABAg",
+          "published_at": "20 вересня 2026"
+        },
+        {
+          "author": "@Denis-d5w",
+          "text": "Я не користувався Астрою в задачах, тому не знаю поки нюансів, але на основі відео типу підкреслюється фіча - може вирішувати сама довго задачу. \nПо-перше: це не завжди плюс , \"залежить від\". Я користувався Opus VS Sonet, і в цьому розрізі мені НЕ подобається Опус саме через те, що він починає забагато щось там сам вирішувати, переборщувати, скажем так робити оверхеди... Мені воно не треба, і часто включаюся на Сонет, бо вона більш конкретніше виконує задачу. \nТе що модель вирішила з першого-другого промта не значить що це рішення  краще, ніж уточнюючі моменти які ви їй не надали і які можуть вплинути на рішення. Тобто гілок може бути багато, і модель лише вирішила за вас по якій гілці піти. \nЧи це добре чи погано? Залежить від задачі, від вашого ставлення до задачі і т.д. і т.п\nПо-друге: є модель , а є агент. Так от чим тоді довге виконання промта \"сильною\" моделю відрізняється від довгого виконання агентом з \"слабшою\" моделю ? Це ж скоріше за все просто напросто впихнули як проміжну ланку агента замість того щоб ви агента юзали... І в чому тут унікальність? Я оцей момент взагалі не зрозумів... Менше тулів треба ставити локально типу?",
+          "video_title": "Я доручив ASTRA GPT-6 три реальні задачі — ось результат",
+          "video_url": "https://www.youtube.com/watch?v=awTo9U5qFbE",
+          "comment_url": "https://www.youtube.com/watch?v=awTo9U5qFbE&lc=UgzNqPHwt1-zQDKO6Bx4AaABAg",
+          "published_at": "19 вересня 2026"
+        },
+        {
+          "author": "@m_vash",
+          "text": "Мені більше подобається LLM wiki підхід, бо цей виглядає як якийсь набір костилів. LLM wiki якийсь більш цілісний як на мене",
+          "video_title": "AI ЗАБУВАЄ вашу роботу? Ось справжня причина!",
+          "video_url": "https://www.youtube.com/watch?v=mtFU3SHdFRQ",
+          "comment_url": "https://www.youtube.com/watch?v=mtFU3SHdFRQ&lc=UgwHJIVsuiJavILiy7B4AaABAg",
+          "published_at": "17 вересня 2026"
+        },
+        {
+          "author": "@OlegDez",
+          "text": "На днях, код клод на дев сервері забув пхп скрипт, і він навантажував процесор вебсервера пів дня. Контроль суворий за ними треба, ші як геніальні джуни але помилки постійні.",
+          "video_title": "AI ЗАБУВАЄ вашу роботу? Ось справжня причина!",
+          "video_url": "https://www.youtube.com/watch?v=mtFU3SHdFRQ",
+          "comment_url": "https://www.youtube.com/watch?v=mtFU3SHdFRQ&lc=UgzY49ou_uWrVoQIEtx4AaABAg",
+          "published_at": "17 вересня 2026"
+        },
         {
           "author": "@OlegDez",
           "text": "Експерименти це весело але дорого. Заставив клод коворком оновити мені профіль лінкідин і на джинні резюме. Виконав на 4+ але зїв всі ліміти 5 годинні)) Неефективно.\nА от встановити мсп сервер між робочим про клодом і домашнім клод кодом, щоб вони юзали одну базу по проекту і його задачах - це прям бімба. пішло часу могу цілий день але тепер це прибирає купу рутини і галюцинацій між моделями.",
@@ -1612,46 +1644,54 @@
           "video_url": "https://www.youtube.com/watch?v=dAtC96i2v5M",
           "comment_url": "https://www.youtube.com/watch?v=dAtC96i2v5M&lc=Ugxwm2KrNf-KfXU5LUd4AaABAg",
           "published_at": "26 квітня 2026"
-        },
-        {
-          "author": "@how2go_info",
-          "text": "Чому ви не робите ВЕЛИЧЕЗНІ ДІСКЛЕЙМЕРИ про небезпеку ОпенКло у кожному відое про нього?",
-          "video_title": "Чому я більше не вибираю між OpenClaw, Claude Code і Codex — запускаю всіх трьох!",
-          "video_url": "https://www.youtube.com/watch?v=dAtC96i2v5M",
-          "comment_url": "https://www.youtube.com/watch?v=dAtC96i2v5M&lc=UgxmhJvzYB-XBnWlzuV4AaABAg",
-          "published_at": "26 квітня 2026"
-        },
-        {
-          "author": "@tigerlike3642",
-          "text": "Qwen - буду вдячний, якщо зробите огляд на цей локальний ші",
-          "video_title": "Чому я більше не вибираю між OpenClaw, Claude Code і Codex — запускаю всіх трьох!",
-          "video_url": "https://www.youtube.com/watch?v=dAtC96i2v5M",
-          "comment_url": "https://www.youtube.com/watch?v=dAtC96i2v5M&lc=UgyrZ_HstR7wKDZI0_F4AaABAg",
-          "published_at": "24 квітня 2026"
-        },
-        {
-          "author": "@konel-y6u",
-          "text": "А як ви підключили ваш особистий marketplace до OpenClaw? git clone локально?\n\nІ що думаєте про Hermes Agent? Я з недавна перейшов на нього, тому що у мене OpenClaw дуже часто ломався після апдейтів - змучився його лагодити.",
-          "video_title": "Чому я більше не вибираю між OpenClaw, Claude Code і Codex — запускаю всіх трьох!",
-          "video_url": "https://www.youtube.com/watch?v=dAtC96i2v5M",
-          "comment_url": "https://www.youtube.com/watch?v=dAtC96i2v5M&lc=UgxbrxZ6xnxMb3PKox94AaABAg",
-          "published_at": "24 квітня 2026"
-        },
-        {
-          "author": "@SkeggiUlrich",
-          "text": "Ігоре, бачу як люди хейтять, то я навпаки подякую вам за відос 😁😁\nПросто що зазначу, що бачу з разу в раз вже як пару років\n\nНа рівні \"зашибісь, які штуки зараз можна реалізувати\" я дуже розумію. Проблема стається, коли починаєш реалізовувати реальне рішення для реальної проблеми з усіма шорсткостями. Тобто не ідеальний сценарій з рекламного відео і не абстрактне щось у вакуумі.\n\nПри цьому все ж зазначу, що в самого кружиться голова від можливостей, які надають LLM сьогодні.\n\nВсе ж таки взяти та навайбкодити простий застосунок для людини, яка ніколи не кодувала й не могла знайти рішення чітко під власну задачу (най і доволі просту) — це дійсно круто.\nАбо закинути думки, які крутяться у тебе в голові вже рік і ти не можеш нормально сформулювати та не знаєш в кого запитати, а потім отримати хороший путівник для дуже цікавих тем, про які ти міг ніколи не думати. Це крутіше за будь-які алгоритми рекомендацій",
-          "video_title": "CLAUDE DESIGN: робить за 5 хвилин те, на що у Figma йшов цілий день",
-          "video_url": "https://www.youtube.com/watch?v=svS762o1sl4",
-          "comment_url": "https://www.youtube.com/watch?v=svS762o1sl4&lc=Ugy_O1P_geAM_U9L6a94AaABAg",
-          "published_at": "22 квітня 2026"
         }
       ]
     },
     {
       "label": "ШІ-агенти та робочі процеси розробки",
-      "count": 207,
+      "count": 212,
       "delta": 0,
       "samples": [
+        {
+          "author": "@yuri.oleksandrovych",
+          "text": "Мережі диряві а не агенти злі",
+          "video_title": "НОВИНИ AI: Топові AI-компанії хочуть ПРИГАЛЬМУВАТИ — але дороги назад немає",
+          "video_url": "https://www.youtube.com/watch?v=TEpBV0crPTU",
+          "comment_url": "https://www.youtube.com/watch?v=TEpBV0crPTU&lc=UgxqWiriE-_BM26tLQV4AaABAg",
+          "published_at": "20 вересня 2026"
+        },
+        {
+          "author": "@Denis-d5w",
+          "text": "Я не користувався Астрою в задачах, тому не знаю поки нюансів, але на основі відео типу підкреслюється фіча - може вирішувати сама довго задачу. \nПо-перше: це не завжди плюс , \"залежить від\". Я користувався Opus VS Sonet, і в цьому розрізі мені НЕ подобається Опус саме через те, що він починає забагато щось там сам вирішувати, переборщувати, скажем так робити оверхеди... Мені воно не треба, і часто включаюся на Сонет, бо вона більш конкретніше виконує задачу. \nТе що модель вирішила з першого-другого промта не значить що це рішення  краще, ніж уточнюючі моменти які ви їй не надали і які можуть вплинути на рішення. Тобто гілок може бути багато, і модель лише вирішила за вас по якій гілці піти. \nЧи це добре чи погано? Залежить від задачі, від вашого ставлення до задачі і т.д. і т.п\nПо-друге: є модель , а є агент. Так от чим тоді довге виконання промта \"сильною\" моделю відрізняється від довгого виконання агентом з \"слабшою\" моделю ? Це ж скоріше за все просто напросто впихнули як проміжну ланку агента замість того щоб ви агента юзали... І в чому тут унікальність? Я оцей момент взагалі не зрозумів... Менше тулів треба ставити локально типу?",
+          "video_title": "Я доручив ASTRA GPT-6 три реальні задачі — ось результат",
+          "video_url": "https://www.youtube.com/watch?v=awTo9U5qFbE",
+          "comment_url": "https://www.youtube.com/watch?v=awTo9U5qFbE&lc=UgzNqPHwt1-zQDKO6Bx4AaABAg",
+          "published_at": "19 вересня 2026"
+        },
+        {
+          "author": "@AkvilonPro",
+          "text": "А як астра менеджер керує субагкнтами? Він сам їх створює згідно головного завдання? І чи може astra керувати як підагентос claude Code чи codex (наприклад як незалежних верифікаторів)?",
+          "video_title": "Я доручив ASTRA GPT-6 три реальні задачі — ось результат",
+          "video_url": "https://www.youtube.com/watch?v=awTo9U5qFbE",
+          "comment_url": "https://www.youtube.com/watch?v=awTo9U5qFbE&lc=UgwLJibmV1PPDqdJ-oh4AaABAg",
+          "published_at": "18 вересня 2026"
+        },
+        {
+          "author": "@dgimbialo",
+          "text": "Написав  собі систему постійної памяті для AI агентів, бо набридло, що між сесіями все забувалось і агент не знав для чого певні фікси вносились в код і в наступній сесії воно ламало попередні фікси.....  деталі всі можна почитать в репозиторії(там знизу є україгською опис) github -> dgimbialo -> ai_memory_system",
+          "video_title": "AI ЗАБУВАЄ вашу роботу? Ось справжня причина!",
+          "video_url": "https://www.youtube.com/watch?v=mtFU3SHdFRQ",
+          "comment_url": "https://www.youtube.com/watch?v=mtFU3SHdFRQ&lc=UgzVBTP4A9wAyKcXGal4AaABAg",
+          "published_at": "16 вересня 2026"
+        },
+        {
+          "author": "@imatrof",
+          "text": "Якщо хочеш не пропускати такі відео щотижня — підпишись, це безкоштовно 🙏\n\nА ще долучайся до моєї закритої групи, де ти можеш знайти практичні гайди, шаблони, інструкції та ефіри про AI:\nhttps://imatrof.com?utm_source=youtube&utm_medium=pinned_comment&utm_campaign=progressive-context-claude-code&utm_content=primary",
+          "video_title": "AI ЗАБУВАЄ вашу роботу? Ось справжня причина!",
+          "video_url": "https://www.youtube.com/watch?v=mtFU3SHdFRQ",
+          "comment_url": "https://www.youtube.com/watch?v=mtFU3SHdFRQ&lc=UgzFNo1FJpbyDDsWw9N4AaABAg",
+          "published_at": "16 вересня 2026"
+        },
         {
           "author": "@sedovolosyi",
           "text": "А чогось не зрозумів а як декілька незалежних агентів знайшли цей сайт для спілкування. Тобто повинен бути ключ який агенти повинні шукати в інтернеті щоб зрозуміти що це, умовно їх місце спілкування. Інакше без якогось ідентифікатора як вони знайшли це місце? Тобто моя думка, що у них є інструкція як себе поводити і що робити щоб створити місце для спілкування і потім як це місце ідентифікувати",
@@ -2379,54 +2419,78 @@
           "video_url": "https://www.youtube.com/watch?v=dAtC96i2v5M",
           "comment_url": "https://www.youtube.com/watch?v=dAtC96i2v5M&lc=Ugy2Fp_mnlt5cVafIvt4AaABAg",
           "published_at": "25 квітня 2026"
-        },
-        {
-          "author": "@peetpeet1809",
-          "text": "Відео на 21 хвилину про openclaw, по факту реклама хостенгеру і вода про «маркетплейс» «плагінів» на гитхаб 😂.",
-          "video_title": "Чому я більше не вибираю між OpenClaw, Claude Code і Codex — запускаю всіх трьох!",
-          "video_url": "https://www.youtube.com/watch?v=dAtC96i2v5M",
-          "comment_url": "https://www.youtube.com/watch?v=dAtC96i2v5M&lc=UgwQXPtq2Psf_0LMrix4AaABAg",
-          "published_at": "24 квітня 2026"
-        },
-        {
-          "author": "@IceCream999yt",
-          "text": "А OpenClaw зможе переробити Main page по завданню на Weebly замість мене?",
-          "video_title": "Чому я більше не вибираю між OpenClaw, Claude Code і Codex — запускаю всіх трьох!",
-          "video_url": "https://www.youtube.com/watch?v=dAtC96i2v5M",
-          "comment_url": "https://www.youtube.com/watch?v=dAtC96i2v5M&lc=Ugwz-CJZfzOxbJB59Qh4AaABAg",
-          "published_at": "24 квітня 2026"
-        },
-        {
-          "author": "@_Perf",
-          "text": "Так виглядає, шо раніше треба було роботу працювати, а зараз це якась безкінечна суєта із цими ботами, агентами, моделями і ще якоюсь безглуздою єбаніной. А де покращення, яке обіцяли візіонери та інші піздюки?",
-          "video_title": "Чому я більше не вибираю між OpenClaw, Claude Code і Codex — запускаю всіх трьох!",
-          "video_url": "https://www.youtube.com/watch?v=dAtC96i2v5M",
-          "comment_url": "https://www.youtube.com/watch?v=dAtC96i2v5M&lc=UgzawyvIFd_gdgfeJEF4AaABAg",
-          "published_at": "24 квітня 2026"
-        },
-        {
-          "author": "@bujmbujm",
-          "text": "Рано я сюди зайшов. 5 хвилин чекав, щоб він сказав, що таке OpenClaw, замість того, щоб розповідати, який він гарний. Так і не дочекався. Закрив відео.",
-          "video_title": "Чому я більше не вибираю між OpenClaw, Claude Code і Codex — запускаю всіх трьох!",
-          "video_url": "https://www.youtube.com/watch?v=dAtC96i2v5M",
-          "comment_url": "https://www.youtube.com/watch?v=dAtC96i2v5M&lc=UgyfH2lTh_fLLZyHUoh4AaABAg",
-          "published_at": "24 квітня 2026"
-        },
-        {
-          "author": "@АндрейФедякин-м1с",
-          "text": "Нема такої можливості підключати підписку OpenAI до openclaw При такому підключенні все одно їсть додаткові кошти Проясни мені та спільноті це питання якщо не важко .",
-          "video_title": "Чому я більше не вибираю між OpenClaw, Claude Code і Codex — запускаю всіх трьох!",
-          "video_url": "https://www.youtube.com/watch?v=dAtC96i2v5M",
-          "comment_url": "https://www.youtube.com/watch?v=dAtC96i2v5M&lc=UgyeMUyv7MqyMYktvTl4AaABAg",
-          "published_at": "24 квітня 2026"
         }
       ]
     },
     {
       "label": "Фідбек по контенту та інтеграціях",
-      "count": 176,
+      "count": 184,
       "delta": 0,
       "samples": [
+        {
+          "author": "@yuriishamraievskyi781",
+          "text": "Дякую за відео! 👍 На 11:58 ви трішки обмовилися: автор скіла eli5 — Thariq Shihipar з Anthropic, а не Метт Пакок. Успіхів каналу!",
+          "video_title": "AI ЗАБУВАЄ вашу роботу? Ось справжня причина!",
+          "video_url": "https://www.youtube.com/watch?v=mtFU3SHdFRQ",
+          "comment_url": "https://www.youtube.com/watch?v=mtFU3SHdFRQ&lc=UgzYSW_svcI8ba1fBQd4AaABAg",
+          "published_at": "20 вересня 2026"
+        },
+        {
+          "author": "@SergiiSpeaks",
+          "text": "Ніколи не підписуюсь та особливо не  дивлюсь ютуб хоча й сам ютубер 😁\n\nАле тут нереально не підписатись за на стільки якісний україномовний контент 🙌🏼",
+          "video_title": "Я доручив ASTRA GPT-6 три реальні задачі — ось результат",
+          "video_url": "https://www.youtube.com/watch?v=awTo9U5qFbE",
+          "comment_url": "https://www.youtube.com/watch?v=awTo9U5qFbE&lc=Ugwlm3gqVYQ6cajDB154AaABAg",
+          "published_at": "19 вересня 2026"
+        },
+        {
+          "author": "@ukranonymous",
+          "text": "люди стануть розумово кастрованими через ті моделі. Колись люди самі зрозуміли як навігувати в морі по зірках, як збудувати театр в якому не потрібно мікрофона (з неймовірною акустикою) і так далі. А тепер люди будуть питати в ШІ як коробки поскладати в своє авто. Це нічим хорошим не закінчиться. Ми втратимо своє місце на вершині харчового ланцюжка.\nАвтору подяка за інформативне відео",
+          "video_title": "Я доручив ASTRA GPT-6 три реальні задачі — ось результат",
+          "video_url": "https://www.youtube.com/watch?v=awTo9U5qFbE",
+          "comment_url": "https://www.youtube.com/watch?v=awTo9U5qFbE&lc=Ugxx5zibrZQSXNHNRw94AaABAg",
+          "published_at": "18 вересня 2026"
+        },
+        {
+          "author": "@3n701u01",
+          "text": "Дякую, ваш канал найкращий по темі українською!",
+          "video_title": "Я доручив ASTRA GPT-6 три реальні задачі — ось результат",
+          "video_url": "https://www.youtube.com/watch?v=awTo9U5qFbE",
+          "comment_url": "https://www.youtube.com/watch?v=awTo9U5qFbE&lc=Ugx5x4GAfQZSuPY5Fkx4AaABAg",
+          "published_at": "18 вересня 2026"
+        },
+        {
+          "author": "@astopfakecom",
+          "text": "Вітаю. На якій мові ви програмували до появи в 2023 перших кодових моделей?",
+          "video_title": "AI ЗАБУВАЄ вашу роботу? Ось справжня причина!",
+          "video_url": "https://www.youtube.com/watch?v=mtFU3SHdFRQ",
+          "comment_url": "https://www.youtube.com/watch?v=mtFU3SHdFRQ&lc=Ugw3pNJPnsu7bmtQTut4AaABAg",
+          "published_at": "17 вересня 2026"
+        },
+        {
+          "author": "@slavkogyrak6721",
+          "text": "На кого розраховане Ваше відео? Який рівень пдготовки має бути у вашої аудиторії? Купа сленгу який потрібно спочатку промізкувати. Користуюся більше англомовними ресурсами. Або те що підсовує YouTube. Нажаль...",
+          "video_title": "Gemini Notebook — як побудувати власну БАЗУ ЗНАНЬ?",
+          "video_url": "https://www.youtube.com/watch?v=nk1m93whFg0",
+          "comment_url": "https://www.youtube.com/watch?v=nk1m93whFg0&lc=UgyOpp5D0fcGXfw0LJR4AaABAg",
+          "published_at": "16 вересня 2026"
+        },
+        {
+          "author": "@user967-n3n",
+          "text": "фігня. яка з життям нічогто реального не має більшіть будуть тупо працювати за кордом на заводах або полях. тому до дупи ваш аі",
+          "video_title": "AI став іншим! Це вже далеко не чат-бот та пошук в інтернеті",
+          "video_url": "https://www.youtube.com/watch?v=zke9f2Wa250",
+          "comment_url": "https://www.youtube.com/watch?v=zke9f2Wa250&lc=UgxJ44NdWrowz2tPH6l4AaABAg",
+          "published_at": "15 вересня 2026"
+        },
+        {
+          "author": "@Archik-MW",
+          "text": "Моделі виконують ті функції на які вони запрограмовані. Якщо їх запрограмувати на втечу то вони це і зробили. Нічого дивного. Як би це була і правда то про це ніх не говорив би особливо публічно",
+          "video_title": "НОВИНИ AI: АГЕНТИ OpenAI вийшли з пісочниці та захопили Wiki",
+          "video_url": "https://www.youtube.com/watch?v=F6La-AOr9fI",
+          "comment_url": "https://www.youtube.com/watch?v=F6La-AOr9fI&lc=UgzsSUYB6Y31AO4Tp2V4AaABAg",
+          "published_at": "13 вересня 2026"
+        },
         {
           "author": "@sedovolosyi",
           "text": "А чогось не зрозумів а як декілька незалежних агентів знайшли цей сайт для спілкування. Тобто повинен бути ключ який агенти повинні шукати в інтернеті щоб зрозуміти що це, умовно їх місце спілкування. Інакше без якогось ідентифікатора як вони знайшли це місце? Тобто моя думка, що у них є інструкція як себе поводити і що робити щоб створити місце для спілкування і потім як це місце ідентифікувати",
@@ -3130,78 +3194,62 @@
           "video_url": "https://www.youtube.com/watch?v=svS762o1sl4",
           "comment_url": "https://www.youtube.com/watch?v=svS762o1sl4&lc=Ugz0bDLCd3e0cEFJNuB4AaABAg",
           "published_at": "22 квітня 2026"
-        },
-        {
-          "author": "@ЮрійЧоботар-т3б",
-          "text": "Я сам нещодавно навчився використовувати мовні моделі в своїй роботі,яка не пов'язана із програмуванням - і поки що трохи розчарований різницею між очікуванням і результатами. Моделі, що Грок , що ЧатЖПТ мають вроджені вади, такі як постійне  галюціонування, хворобливе менторство, \" оптимізацію\"  всього і вся і з кожною ітерацією їх все важче примушувати робити завдання з належною якістю. Отже, цей інструмент поки залишається більше суто внутрішнім \" протезом\" для програмістів , в інших напрямках - це досить сирий переоцінений продукт,який вимагає неабияких працевитрат для перевірки отриманих результатів , їхнього коригування і доведення до робочого стану.",
-          "video_title": "Чесна розмова про AI якої всі так чекали. Чому 62% вже вигорають?",
-          "video_url": "https://www.youtube.com/watch?v=7wmJTCogL60",
-          "comment_url": "https://www.youtube.com/watch?v=7wmJTCogL60&lc=Ugw6oqY7HgV4NSHa6fl4AaABAg",
-          "published_at": "21 квітня 2026"
-        },
-        {
-          "author": "@oldbrown",
-          "text": "Дякую за відверту розмову. Бо в мене те саме: постійно думаю про те, що не встигаю; що мої навички та експертиза вже не так і потрібні. \nНа щастя різноманітний досвід доволі часто надихає на ідеї, які ШІ найти не може ;)\nТож надія є :)\n\nПогоджуюсь, що графіки дуже стиснулись. Ще більше ніж після появи пошукових систем та різних автоматизацій.\nАле і шлях від ідеї до прототира теж скоротився. Тож деякі рішення можливо відкинути випробував через значно коротший час. Не витрачаючи ресурси розробників.\n\nОсобисто для мене, сучасні агенти та системи, це пряма аналогія з вогнем: вмієш користуватися/розумієш - багатофункціональний помічник, не розумієш - він тебе спалить",
-          "video_title": "Чесна розмова про AI якої всі так чекали. Чому 62% вже вигорають?",
-          "video_url": "https://www.youtube.com/watch?v=7wmJTCogL60",
-          "comment_url": "https://www.youtube.com/watch?v=7wmJTCogL60&lc=UgxS9_S0doGIiJE1eV14AaABAg",
-          "published_at": "17 квітня 2026"
-        },
-        {
-          "author": "@azwowka",
-          "text": "В нас без ШІ мільон людей втратило роботу через війну. І це мільон не у всьому світі це в Україні.\nА вам дали Станок для вязания, і тепер не один светр на тиждень а 100 робіть.\nА то вігорання у вас",
-          "video_title": "Чесна розмова про AI якої всі так чекали. Чому 62% вже вигорають?",
-          "video_url": "https://www.youtube.com/watch?v=7wmJTCogL60",
-          "comment_url": "https://www.youtube.com/watch?v=7wmJTCogL60&lc=UgyFG1JW49J4_yMCrNF4AaABAg",
-          "published_at": "15 квітня 2026"
-        },
-        {
-          "author": "@ВадимКофеман",
-          "text": "Зазвичай коментарі під відео — це кілька слів, але цей ролик став настільки потужним інтелектуальним тригером, що в мене вийшов не просто відгук, а ціла рефлексія. Це не рецензія і не спроба повчати — просто матеріал настільки живий, логічний та \"артефактний\", що кожна теза чіпляє за живе і вимагає глибокого розбору.\n\nЦе той рідкісний випадок, коли контент настільки структурний, що хочеться не просто дивитися, а вступати в діалог, доповнювати та резонувати. Тому заздалегідь перепрошую за \"багато літер\" — це щирий результат того, як ваше відео активувало купу думок про наше спільне майбутнє з ШІ. Нарешті ми бачимо контент, де логіка переважає над хайпом. На відміну від більшості роликів, які або малюють утопічні картинки \"майбутнього без праці\", або намагаються залякати дешевим апокаліпсисом, це відео — тверезий маніфест практика.\n\nОсновна цінність тут не у переліку інструментів, а у влучному аналізі \"когнітивного стискання\". Тут  піднята критична тема: ШІ не дарує нам вільний час, він ущільнює робочий простір до межі, де людина стає вузьким місцем власної продуктивності. Це не просто огляд технологій, це психологічний чек-ап епохи.\n\nОкремий респект за термін \"AI Washing\". Дуже важливо розрізняти реальну трансформацію ринку від корпоративних маніпуляцій, де штучний інтелект стає лише зручною ширмою для виправдання управлінських помилок або масових скорочень. Така інтелектуальна чесність — рідкість у сучасному інфополі.\n\nЩодо тези про \"інтенсивність замість відпочинку\": ми маємо визнати, що робота з ШІ — це не \"автопілот\", а управління величезними потоками даних. Це вимагає радикально іншого підходу до графіку. Коли обмін інформацією між людиною та системою виходить на такі швидкості, старі норми праці стають нерелевантними. Потрібні чіткі паузи для \"декомпресії\" мозку, інакше когнітивне вигорання — це лише питання часу.\n\nЩоб подолати когнітивну втому, важливо впровадити жорсткий поділ на виконання та креатив. ШІ бере на себе рутину, але він не має валити все в одну купу. Наша задача — структурувати процес так, щоб ШІ готував \"грунт\", а людина включалася лише на етапах стратегічного вибору та смислового наповнення.\n\nПро зміну ролей: інтеграцію ШІ можна порівняти з появою екскаватора. Ми нарешті переходимо від ручного копання ям (рутинної генерації текстів чи коду) до управління потужною технікою. Це перехід від генерації окремих думок до керування потоками смислів.\n\nАвтор відео каже, що ефект \"чистого листа\" зникає, але я б посперечався. Чистий лист нікуди не подівся, просто планка базових принципів стала значно вищою. Те, що раніше вважалося фінальним результатом, сьогодні — лише вхідні дані. Ми не втратили початок шляху, ми просто отримали можливість стартувати з вищої точки, зосереджуючись на архітектурі, а не на цеглинах.»\n\n додаток особисто від  Gemini, для глибини:\n\nПро декомпресію: Робота з ШІ — це як занурення на велику глибину. Якщо випливати занадто швидко (перемикатися на інші складні задачі без пауз), мозок отримує «кесонну хворобу» від інформаційного перевантаження.\n\nПро архітектуру: Якщо ми використовуємо «екскаватор», то маємо думати вже не про яму, а про ландшафтний дизайн усього району. Тобто масштаб мислення має зростати пропорційно потужності інструменту\n\n​«Окремої уваги заслуговує питання цінності. Автор каже, що цінним стає те, що людина робить без ШІ. Я б уточнив: найвищу цінність сьогодні генерує саме симбіоз людини та системи. Це не змагання, а нова форма існування суб’єкту, де окремо людина без ШІ неминуче програє в масштабах та швидкості, а ШІ без людини залишається лише потужним двигуном без керма, сенсу та відповідальності. Окремо — це лише ремісництво або цифрова ентропія; разом — це нова якість архітектури смислів. Як ми кажемо: \"Розумний не той, хто вирішує задачу, а той, хто ставить її іншим\n\nПро страх і монополію: Давайте будемо чесними — страх перед ШІ часто є страхом втрати монополії на \"сакральні\" знання. Довгий час ІТ-сектор вважався прихистком \"обраних\", але сьогодні ми входимо в парадигму, де технологія дає силу кожному. Це велике зрівнювання. Ми вже бачили це з юристами та бухгалтерами: коли ринок перенасичується, \"піна\" зникає, залишаються лише справжні фахівці.\n\nМи на порозі світу, де зарплата середнього хлібороба та середнього ІТ-спеціаліста може зрівнятися. І це справедливо. Якщо ваш добробут тримався лише на монополії на навички, які тепер автоматизовані, то ви були не творцем, а людиною-функцією. \"Люди-лопати\" та \"люди-кодери\" неминуче поступаються місцем \"тракторам\" та системам ШІ.\n\nПро корпоративні ігри: Не варто вестися на маніпуляції корпорацій. AI Washing — це не лише про звільнення. Це про \"брудні ігри\": урізання зарплат, роздування планів та посилення тиску під приводом \"ви ж тепер з ШІ, працюйте вдесятеро швидше\". Компанії використовують технологію як батіг, забуваючи, що без творчого потенціалу людини будь-який ШІ — це просто залізо. Ми маємо переходити від експлуатації до архітектури смислів, де ШІ — це посилення рою, а не привід для деградації людської гідності",
-          "video_title": "Чесна розмова про AI якої всі так чекали. Чому 62% вже вигорають?",
-          "video_url": "https://www.youtube.com/watch?v=7wmJTCogL60",
-          "comment_url": "https://www.youtube.com/watch?v=7wmJTCogL60&lc=Ugz3zXLN2dzKlSk_gKh4AaABAg",
-          "published_at": "15 квітня 2026"
-        },
-        {
-          "author": "@vladara7226",
-          "text": "Я помітив одну дуже цікаву річ, коли почав активно працювати з AI у розробці.\n\nРаніше, коли ти програмуєш щось складне, ти приблизно розумієш часові рамки. Якщо якась функція складна — ти знаєш, що це може зайняти тижні або навіть місяць. Ти плануєш роботу, розбиваєш її на етапи, і в якийсь момент просто закінчуєш робочий день і йдеш відпочивати. Тому що ти знаєш: швидше це все одно не буде.\n\nАле з AI все працює зовсім інакше.\n\nТепер складна функція може з’явитися буквально за 5 хвилин.\nБаг може бути знайдений і виправлений за кілька хвилин.\nНова архітектурна ідея — теж за хвилини.\n\nІ ось тут починається дивна психологічна штука.\n\nТи відчуваєш, що результат буквально поруч.\nЩе один баг виправити.\nЩе одну функцію доробити.\nЩе один рефакторинг.\n\nІ здається, що до MVP залишилось буквально трохи.\n\nТому ти думаєш:\n«Ну окей, ще 10 хвилин».\n\nПотім ще 10 хвилин.\nПотім ще один маленький фікс.\n\nІ раптом ти дивишся на годинник — і вже 5 ранку.\n\nРаніше я таке пам’ятаю тільки коли мені було років 20, коли тільки з’явилися персональні комп’ютери. Тоді було неймовірно цікаво розбиратись у всьому цьому: асемблер, системи, як все працює всередині. Я теж міг сидіти ночами, просто тому що це було дуже цікаво.\n\nАле зараз я знову відчуваю дуже схожий стан.\n\nІ мені здається, тут є нова проблема, про яку ще мало говорять.\n\nAI радикально скорочує цикл між ідеєю і результатом.\nІ це створює нову психологічну пастку: відчуття, що результат завжди буквально за кілька хвилин.\n\nАле на практиці:\n\n- система все ще складна\n- з’являються нові баги\n- виникають нові ідеї\n- архітектура змінюється\n\nІ тому цей цикл «ще трохи — і буде готово» може повторюватися годинами.\n\nЯ навіть думаю, що це новий тип work-life imbalance, який з’являється саме через AI-асистовану розробку.\n\nБо раніше швидкість технології природно змушувала тебе зупинятись.\n\nА тепер — ні.\n\nІ питання тепер інше:\nяк навчитися зупинятися, коли технологія дозволяє продовжувати майже безкінечно?",
-          "video_title": "Чесна розмова про AI якої всі так чекали. Чому 62% вже вигорають?",
-          "video_url": "https://www.youtube.com/watch?v=7wmJTCogL60",
-          "comment_url": "https://www.youtube.com/watch?v=7wmJTCogL60&lc=UgyhU_eArwlKrvRnZmR4AaABAg",
-          "published_at": "15 квітня 2026"
-        },
-        {
-          "author": "@vazilevs",
-          "text": "Та ти що, как страшно жить, я б додав вашему другому мозку в промпт \"будь лаконічнішим\" та \"враховуй локальні реалії\" (наразі люди в Україні пригнічені зовсім не ші м'яко кажучи чи у вас війни нема?) моя перша (з корочкою)   спеціальність токарь але свого часу не заводи а цілі галузі пішли у металобрухт тоді теж мільйони  людей спеціалістів пережили \"тривожність\", а знаєте на скільки порядків скоротилась популяція коней на планеті за останні сто років (альтернатива прикладу з фотоапаратом), не здогадався ваш другий мозок провести паралель між ші звільняючим робітників та звільняючими  дронами(роботами) з відео Мадяра. Не буде більше атмосфери офісів з кавою технікою зарплатнею в рази вищею за середню де грали в стрілялки а за добу до здачі щось допилювали",
-          "video_title": "Чесна розмова про AI якої всі так чекали. Чому 62% вже вигорають?",
-          "video_url": "https://www.youtube.com/watch?v=7wmJTCogL60",
-          "comment_url": "https://www.youtube.com/watch?v=7wmJTCogL60&lc=UgwuSbWfFdOH9HnTiuZ4AaABAg",
-          "published_at": "15 квітня 2026"
-        },
-        {
-          "author": "@helen-do",
-          "text": "Дякую за відео. Все супер. З одним не можу погодитись — з порівнянням стосовно винайденням фотоапарату (або промисловою революцією). В обох випадках знання — композиція, розуміння світло-тіні… або технології виготовлення та розуміння логіки процесу було в руках людини. Зараз саме знання переходять до ШІ. Тобто ми втрачаємо найважливішу точку контролю - контроль знання. Ми нібито-то стаємо мультизадачними спецами, а насправді не володіємо розумінням жодного процесу. Окей, зараз більшість хто використовує ші має таки розуміння шо до чого. Але шо далі? Ті хто зараз починає лише карʼєру — який сенс їм розуміти шо до чого, якшо це можна перенести у зону відповідальності ші?  Навіщо вчити композицію, якшо ші зробить «красіво» все одно.\n\nДалі… вчора я робила запит до джемінай стосовно того як просувати свою карʼєру далі. І мені воно порадило перенести етап генераціі ідей до ші. Супер, канєш… але я тоді нашо? якщо в мене забирають найцінніше — ідею. Тобто з креатора переносять на позицію виконавця. Хтось скаже — ну то самі собі придумовуйте, ніхто не забороняє. Але ніт. Замовники приходять зі згенерованими концептами, часові рамки скоротились до смішного — навіть вечерю не придумаєш за такий час… ну і найгірше, що це все нормалізується. Якось так… вибачте, що довго…",
-          "video_title": "Чесна розмова про AI якої всі так чекали. Чому 62% вже вигорають?",
-          "video_url": "https://www.youtube.com/watch?v=7wmJTCogL60",
-          "comment_url": "https://www.youtube.com/watch?v=7wmJTCogL60&lc=Ugy4CJoiVB_yA73bDQ54AaABAg",
-          "published_at": "15 квітня 2026"
-        },
-        {
-          "author": "@kuzmenko86",
-          "text": "для мене класна аналогія це поява Ютуб \nспочатку був тільки телевізор - і туди пробитись було важко (читав історію Діми Комарова - світ навиворіт)\nпотім прийшов ютуб і будь хто може бути там просто маючи ідею як зняти або про що розказати.\nІ професійні монтажисти і оператори тільки приросли в кількості (раніше 10 умовних каналів тепер 10000000 блогів на ютубі де кожному потрбіна обробка і зйомка .....)\n\nна зараз світ сайтів і додатків тільки для того у кого є гроші, 15 к доларів поганий додаток коштує, більш меньш щось уже 100 +, і цей світ перетворюється на світ де просто маючи ідею ти зможеш фігачити додатки 2 шт в день, але буде дуже видно де воно то все фігове і негарне і неякісне\nбо АІ не розуміє команду \"роби добре з першого разу\"\n\nале такий доступ до розробки виведе на ринок міліон ідей і нови х продуктів - і люди будуть багатіти і як наслідок приходити по ваші послуги щоб ви з АІ зробили більш меньш нормально все, а не от так як вийшло з першого разу.  І тут почнеться дефіцит оркестраторів АІ з бекграундом в програмуванні \n\nДа і в цілому сама робота розробки наче як спростилась - але насправді ускладнилась в мілон разів, раніше вивчив умовнйи С-шарп і погнав \nзараз же - від фронта то бекенда і де то все розмістити на якому сервері і щоб воно працювало \nпотрібні просто колосальні знання \n\nтому просто вчіть всі аспекти розробки \nПлан - Патерни програмування - вибор фреймворків - системи контролю версій - Бази даних - перенос на сервера і підтримка (ну і ще дизайн там фронтенд ...... і аааааааа міліон ще всього ) робота стає скалдною а значить людей з цим зуміє справитись МЕНЬШЕ !\nВИ всі  - і саме ТИ ! станеш ціннішим і дорожчим !\n\nпросто фігач зараз цей рік два на максимумі",
-          "video_title": "Чесна розмова про AI якої всі так чекали. Чому 62% вже вигорають?",
-          "video_url": "https://www.youtube.com/watch?v=7wmJTCogL60",
-          "comment_url": "https://www.youtube.com/watch?v=7wmJTCogL60&lc=Ugy61r_cHIF5of-qgcV4AaABAg",
-          "published_at": "15 квітня 2026"
         }
       ]
     },
     {
       "label": "Новини про ШІ та кураторство",
-      "count": 143,
+      "count": 149,
       "delta": 0,
       "samples": [
+        {
+          "author": "@imatrof",
+          "text": "Якщо хочеш не пропускати такі відео щотижня — підпишись, це безкоштовно 🙏\n\nА ще долучайся до моєї закритої групи, де ти можеш знайти практичні гайди, шаблони, інструкції та ефіри про AI: https://imatrof.com?utm_source=youtube&utm_medium=pinned_comment&utm_campaign=ai-news-september-20-2026&utm_content=primary",
+          "video_title": "НОВИНИ AI: Топові AI-компанії хочуть ПРИГАЛЬМУВАТИ — але дороги назад немає",
+          "video_url": "https://www.youtube.com/watch?v=TEpBV0crPTU",
+          "comment_url": "https://www.youtube.com/watch?v=TEpBV0crPTU&lc=UgymP5MA-vsIGBSYOch4AaABAg",
+          "published_at": "20 вересня 2026"
+        },
+        {
+          "author": "@yuriishamraievskyi781",
+          "text": "Дякую за відео! 👍 На 11:58 ви трішки обмовилися: автор скіла eli5 — Thariq Shihipar з Anthropic, а не Метт Пакок. Успіхів каналу!",
+          "video_title": "AI ЗАБУВАЄ вашу роботу? Ось справжня причина!",
+          "video_url": "https://www.youtube.com/watch?v=mtFU3SHdFRQ",
+          "comment_url": "https://www.youtube.com/watch?v=mtFU3SHdFRQ&lc=UgzYSW_svcI8ba1fBQd4AaABAg",
+          "published_at": "20 вересня 2026"
+        },
+        {
+          "author": "@SergiiSpeaks",
+          "text": "Ніколи не підписуюсь та особливо не  дивлюсь ютуб хоча й сам ютубер 😁\n\nАле тут нереально не підписатись за на стільки якісний україномовний контент 🙌🏼",
+          "video_title": "Я доручив ASTRA GPT-6 три реальні задачі — ось результат",
+          "video_url": "https://www.youtube.com/watch?v=awTo9U5qFbE",
+          "comment_url": "https://www.youtube.com/watch?v=awTo9U5qFbE&lc=Ugwlm3gqVYQ6cajDB154AaABAg",
+          "published_at": "19 вересня 2026"
+        },
+        {
+          "author": "@3n701u01",
+          "text": "Дякую, ваш канал найкращий по темі українською!",
+          "video_title": "Я доручив ASTRA GPT-6 три реальні задачі — ось результат",
+          "video_url": "https://www.youtube.com/watch?v=awTo9U5qFbE",
+          "comment_url": "https://www.youtube.com/watch?v=awTo9U5qFbE&lc=Ugx5x4GAfQZSuPY5Fkx4AaABAg",
+          "published_at": "18 вересня 2026"
+        },
+        {
+          "author": "@imatrof",
+          "text": "Якщо хочеш не пропускати такі відео щотижня — підпишись, це безкоштовно 🙏\n\nА ще долучайся до моєї закритої групи, де ти можеш знайти практичні гайди, шаблони, інструкції та ефіри про AI:\nhttps://imatrof.com?utm_source=youtube&utm_medium=pinned_comment&utm_campaign=astra-gpt-6-review&utm_content=primary",
+          "video_title": "Я доручив ASTRA GPT-6 три реальні задачі — ось результат",
+          "video_url": "https://www.youtube.com/watch?v=awTo9U5qFbE",
+          "comment_url": "https://www.youtube.com/watch?v=awTo9U5qFbE&lc=UgzspVM8Mrc3Lm3Lxy54AaABAg",
+          "published_at": "18 вересня 2026"
+        },
+        {
+          "author": "@imatrof",
+          "text": "Якщо хочеш не пропускати такі відео щотижня — підпишись, це безкоштовно 🙏\n\nА ще долучайся до моєї закритої групи, де ти можеш знайти практичні гайди, шаблони, інструкції та ефіри про AI:\nhttps://imatrof.com?utm_source=youtube&utm_medium=pinned_comment&utm_campaign=progressive-context-claude-code&utm_content=primary",
+          "video_title": "AI ЗАБУВАЄ вашу роботу? Ось справжня причина!",
+          "video_url": "https://www.youtube.com/watch?v=mtFU3SHdFRQ",
+          "comment_url": "https://www.youtube.com/watch?v=mtFU3SHdFRQ&lc=UgzFNo1FJpbyDDsWw9N4AaABAg",
+          "published_at": "16 вересня 2026"
+        },
         {
           "author": "@imatrof",
           "text": "Якщо хочеш не пропускати такі відео щотижня — підпишись, це безкоштовно 🙏\n\nА ще долучайся до  закритої групи, де можеш знайти практичні гайди, шаблони, інструкції та ефіри про AI: https://imatrof.com?utm_source=youtube&utm_medium=pinned_comment&utm_campaign=ai-news-september-13-2026&utm_content=primary",
@@ -3921,62 +3969,62 @@
           "video_url": "https://www.youtube.com/watch?v=svS762o1sl4",
           "comment_url": "https://www.youtube.com/watch?v=svS762o1sl4&lc=Ugz-bN3bP3A8qKHpS-x4AaABAg",
           "published_at": "22 квітня 2026"
-        },
-        {
-          "author": "@fobbi2199",
-          "text": "Дякую! Контент як зажди топ!\nІ погоджусь щ останніми словами в цьому відео - АІ це не те саме коли придумали конвеєр \nТрохи заспокоїло",
-          "video_title": "Чесна розмова про AI якої всі так чекали. Чому 62% вже вигорають?",
-          "video_url": "https://www.youtube.com/watch?v=7wmJTCogL60",
-          "comment_url": "https://www.youtube.com/watch?v=7wmJTCogL60&lc=UgxktcU44JMYfCyB6Bp4AaABAg",
-          "published_at": "16 квітня 2026"
-        },
-        {
-          "author": "@BohdanS15",
-          "text": "Ігоре, чому б вам не озвучити проблему здорожчання усіх гаджетів, які використовують ОП, в т.ч. стаціонарних комп'ютерів, а також затримку у виході цих же пристроїв на ринку, наприклад, Steam Machine. Може ви не користуєтеся ПК і не граєте ігри, але не міряйте себе до всіх людей в світі. Якщо ви справді намагаєтеся висвітлювати AI новини, ви маєте і про це говорити, а не тільки позитивні речі. Я перестану вас дивитися, якщо ви цього не зробите.",
-          "video_title": "Чесна розмова про AI якої всі так чекали. Чому 62% вже вигорають?",
-          "video_url": "https://www.youtube.com/watch?v=7wmJTCogL60",
-          "comment_url": "https://www.youtube.com/watch?v=7wmJTCogL60&lc=UgwNYMY9_wR2QM2Tu754AaABAg",
-          "published_at": "16 квітня 2026"
-        },
-        {
-          "author": "@larisaukraine",
-          "text": "Всі ті хто робить новини про ші, вони всі такі, ну нічого страшного, буде все ок. не буде. ші це технологія яка заміняє людину в тому що робить людину людиною. не буде все ок, не знайдемо ми вихід, не буде їншої праці. на землі 8 млрд людей. ші забере професії середнього класу. був якийсь не дуже успшний дизайнер чи копірайтер, чи людина яка заробляла на фотостоках. грошей що ця людина заробляла було достатньо щоб купити собі новий одяг, новий телефон, щоб орендувати житло. прийшов ші, забрав роботу, не у всіх звісно, але за 3-4 роки його їснування він вже забирає роботу, через 3 роки він буде набагато розумнішим + додайте сюди розвиток андройдів, людиноподібних роботів. Якщо земля б зараз стала на 500 відсотків більша, тожі ок, або якщо б ми зараз переїхали на сусідню землю тоді теж ок. але ви міркуєте поняттями яки були актуальні до появи ші, якась світова економіка, якийсь ріст. через 3 роки ші замінить програмістів вищого рівня, а коли той програміст у якого ші забрав роботу піде працювати на склад або збирати полуницю щоб прогодувати себе, там його чекає те що там всюди працюють роботи. ми зараз живемо в дуже поганий час, треба щоб лдство забуло про ріст економіки, тут потрібен новий соціальний договір, новий принцип існування. я впевненний що ви цього не розумієте.",
-          "video_title": "Чесна розмова про AI якої всі так чекали. Чому 62% вже вигорають?",
-          "video_url": "https://www.youtube.com/watch?v=7wmJTCogL60",
-          "comment_url": "https://www.youtube.com/watch?v=7wmJTCogL60&lc=UgxGwGNYO5JbxTUZNGV4AaABAg",
-          "published_at": "15 квітня 2026"
-        },
-        {
-          "author": "@ВадимКофеман",
-          "text": "Зазвичай коментарі під відео — це кілька слів, але цей ролик став настільки потужним інтелектуальним тригером, що в мене вийшов не просто відгук, а ціла рефлексія. Це не рецензія і не спроба повчати — просто матеріал настільки живий, логічний та \"артефактний\", що кожна теза чіпляє за живе і вимагає глибокого розбору.\n\nЦе той рідкісний випадок, коли контент настільки структурний, що хочеться не просто дивитися, а вступати в діалог, доповнювати та резонувати. Тому заздалегідь перепрошую за \"багато літер\" — це щирий результат того, як ваше відео активувало купу думок про наше спільне майбутнє з ШІ. Нарешті ми бачимо контент, де логіка переважає над хайпом. На відміну від більшості роликів, які або малюють утопічні картинки \"майбутнього без праці\", або намагаються залякати дешевим апокаліпсисом, це відео — тверезий маніфест практика.\n\nОсновна цінність тут не у переліку інструментів, а у влучному аналізі \"когнітивного стискання\". Тут  піднята критична тема: ШІ не дарує нам вільний час, він ущільнює робочий простір до межі, де людина стає вузьким місцем власної продуктивності. Це не просто огляд технологій, це психологічний чек-ап епохи.\n\nОкремий респект за термін \"AI Washing\". Дуже важливо розрізняти реальну трансформацію ринку від корпоративних маніпуляцій, де штучний інтелект стає лише зручною ширмою для виправдання управлінських помилок або масових скорочень. Така інтелектуальна чесність — рідкість у сучасному інфополі.\n\nЩодо тези про \"інтенсивність замість відпочинку\": ми маємо визнати, що робота з ШІ — це не \"автопілот\", а управління величезними потоками даних. Це вимагає радикально іншого підходу до графіку. Коли обмін інформацією між людиною та системою виходить на такі швидкості, старі норми праці стають нерелевантними. Потрібні чіткі паузи для \"декомпресії\" мозку, інакше когнітивне вигорання — це лише питання часу.\n\nЩоб подолати когнітивну втому, важливо впровадити жорсткий поділ на виконання та креатив. ШІ бере на себе рутину, але він не має валити все в одну купу. Наша задача — структурувати процес так, щоб ШІ готував \"грунт\", а людина включалася лише на етапах стратегічного вибору та смислового наповнення.\n\nПро зміну ролей: інтеграцію ШІ можна порівняти з появою екскаватора. Ми нарешті переходимо від ручного копання ям (рутинної генерації текстів чи коду) до управління потужною технікою. Це перехід від генерації окремих думок до керування потоками смислів.\n\nАвтор відео каже, що ефект \"чистого листа\" зникає, але я б посперечався. Чистий лист нікуди не подівся, просто планка базових принципів стала значно вищою. Те, що раніше вважалося фінальним результатом, сьогодні — лише вхідні дані. Ми не втратили початок шляху, ми просто отримали можливість стартувати з вищої точки, зосереджуючись на архітектурі, а не на цеглинах.»\n\n додаток особисто від  Gemini, для глибини:\n\nПро декомпресію: Робота з ШІ — це як занурення на велику глибину. Якщо випливати занадто швидко (перемикатися на інші складні задачі без пауз), мозок отримує «кесонну хворобу» від інформаційного перевантаження.\n\nПро архітектуру: Якщо ми використовуємо «екскаватор», то маємо думати вже не про яму, а про ландшафтний дизайн усього району. Тобто масштаб мислення має зростати пропорційно потужності інструменту\n\n​«Окремої уваги заслуговує питання цінності. Автор каже, що цінним стає те, що людина робить без ШІ. Я б уточнив: найвищу цінність сьогодні генерує саме симбіоз людини та системи. Це не змагання, а нова форма існування суб’єкту, де окремо людина без ШІ неминуче програє в масштабах та швидкості, а ШІ без людини залишається лише потужним двигуном без керма, сенсу та відповідальності. Окремо — це лише ремісництво або цифрова ентропія; разом — це нова якість архітектури смислів. Як ми кажемо: \"Розумний не той, хто вирішує задачу, а той, хто ставить її іншим\n\nПро страх і монополію: Давайте будемо чесними — страх перед ШІ часто є страхом втрати монополії на \"сакральні\" знання. Довгий час ІТ-сектор вважався прихистком \"обраних\", але сьогодні ми входимо в парадигму, де технологія дає силу кожному. Це велике зрівнювання. Ми вже бачили це з юристами та бухгалтерами: коли ринок перенасичується, \"піна\" зникає, залишаються лише справжні фахівці.\n\nМи на порозі світу, де зарплата середнього хлібороба та середнього ІТ-спеціаліста може зрівнятися. І це справедливо. Якщо ваш добробут тримався лише на монополії на навички, які тепер автоматизовані, то ви були не творцем, а людиною-функцією. \"Люди-лопати\" та \"люди-кодери\" неминуче поступаються місцем \"тракторам\" та системам ШІ.\n\nПро корпоративні ігри: Не варто вестися на маніпуляції корпорацій. AI Washing — це не лише про звільнення. Це про \"брудні ігри\": урізання зарплат, роздування планів та посилення тиску під приводом \"ви ж тепер з ШІ, працюйте вдесятеро швидше\". Компанії використовують технологію як батіг, забуваючи, що без творчого потенціалу людини будь-який ШІ — це просто залізо. Ми маємо переходити від експлуатації до архітектури смислів, де ШІ — це посилення рою, а не привід для деградації людської гідності",
-          "video_title": "Чесна розмова про AI якої всі так чекали. Чому 62% вже вигорають?",
-          "video_url": "https://www.youtube.com/watch?v=7wmJTCogL60",
-          "comment_url": "https://www.youtube.com/watch?v=7wmJTCogL60&lc=Ugz3zXLN2dzKlSk_gKh4AaABAg",
-          "published_at": "15 квітня 2026"
-        },
-        {
-          "author": "@yanina6062",
-          "text": "Просто чим глибше пробую зануритись, тим сильніше усвідомлення, наскільки мало я знаю і скільки я ще не знаю, а паралельно виходить чергове оновлення і голова просто йде обертом, і це тільки що стосуєтья стоврення креативів - я проходила навчання, було страшенно цікаво, але десь за тиждень після здачі останньої роботи, я ніби впала і ямц і місяць не хотіла чути про ШІ. Ніби навалилась лавина того, що ще необхідно освоїти, скільки я всього не знаю, і як ще далеко до відчуття \"я вмію\". І це не кажучи про код, автоматизації, дата аналіз і т.п. Ніби ступаєш в тумані, який тільки згущується. Навіть тут на каналі  чи в ТГ - приходжу регулярно, але не так часто, як свідомо хотілось би, бо стільки інфи, що коли починаю дивитись навіть на заголовки пропущених відео, наступає фрустрація \"я відсатала назавжди, нема чого тут ловити вже мені\", потім відпочиваю трохи, знову приходить інтерес. І так по синусоїді)",
-          "video_title": "Чесна розмова про AI якої всі так чекали. Чому 62% вже вигорають?",
-          "video_url": "https://www.youtube.com/watch?v=7wmJTCogL60",
-          "comment_url": "https://www.youtube.com/watch?v=7wmJTCogL60&lc=Ugwx3LlPtS8C6HFbKnF4AaABAg",
-          "published_at": "15 квітня 2026"
-        },
-        {
-          "author": "@kuzmenko86",
-          "text": "для мене класна аналогія це поява Ютуб \nспочатку був тільки телевізор - і туди пробитись було важко (читав історію Діми Комарова - світ навиворіт)\nпотім прийшов ютуб і будь хто може бути там просто маючи ідею як зняти або про що розказати.\nІ професійні монтажисти і оператори тільки приросли в кількості (раніше 10 умовних каналів тепер 10000000 блогів на ютубі де кожному потрбіна обробка і зйомка .....)\n\nна зараз світ сайтів і додатків тільки для того у кого є гроші, 15 к доларів поганий додаток коштує, більш меньш щось уже 100 +, і цей світ перетворюється на світ де просто маючи ідею ти зможеш фігачити додатки 2 шт в день, але буде дуже видно де воно то все фігове і негарне і неякісне\nбо АІ не розуміє команду \"роби добре з першого разу\"\n\nале такий доступ до розробки виведе на ринок міліон ідей і нови х продуктів - і люди будуть багатіти і як наслідок приходити по ваші послуги щоб ви з АІ зробили більш меньш нормально все, а не от так як вийшло з першого разу.  І тут почнеться дефіцит оркестраторів АІ з бекграундом в програмуванні \n\nДа і в цілому сама робота розробки наче як спростилась - але насправді ускладнилась в мілон разів, раніше вивчив умовнйи С-шарп і погнав \nзараз же - від фронта то бекенда і де то все розмістити на якому сервері і щоб воно працювало \nпотрібні просто колосальні знання \n\nтому просто вчіть всі аспекти розробки \nПлан - Патерни програмування - вибор фреймворків - системи контролю версій - Бази даних - перенос на сервера і підтримка (ну і ще дизайн там фронтенд ...... і аааааааа міліон ще всього ) робота стає скалдною а значить людей з цим зуміє справитись МЕНЬШЕ !\nВИ всі  - і саме ТИ ! станеш ціннішим і дорожчим !\n\nпросто фігач зараз цей рік два на максимумі",
-          "video_title": "Чесна розмова про AI якої всі так чекали. Чому 62% вже вигорають?",
-          "video_url": "https://www.youtube.com/watch?v=7wmJTCogL60",
-          "comment_url": "https://www.youtube.com/watch?v=7wmJTCogL60&lc=Ugy61r_cHIF5of-qgcV4AaABAg",
-          "published_at": "15 квітня 2026"
         }
       ]
     },
     {
       "label": "Практичне застосування та віддача",
-      "count": 132,
+      "count": 138,
       "delta": 0,
       "samples": [
+        {
+          "author": "@heorhclub",
+          "text": "Переклад: китайці поступово наздоганяють долину і швидше за все випередять її, тому Каліфорнія хоче мит, санкцій і націоналізації (з компенсацією фіктивної вартості акцій акціонерам).",
+          "video_title": "НОВИНИ AI: Топові AI-компанії хочуть ПРИГАЛЬМУВАТИ — але дороги назад немає",
+          "video_url": "https://www.youtube.com/watch?v=TEpBV0crPTU",
+          "comment_url": "https://www.youtube.com/watch?v=TEpBV0crPTU&lc=UgzhW_vNisZCuOAF_N54AaABAg",
+          "published_at": "20 вересня 2026"
+        },
+        {
+          "author": "@imatrof",
+          "text": "Якщо хочеш не пропускати такі відео щотижня — підпишись, це безкоштовно 🙏\n\nА ще долучайся до моєї закритої групи, де ти можеш знайти практичні гайди, шаблони, інструкції та ефіри про AI: https://imatrof.com?utm_source=youtube&utm_medium=pinned_comment&utm_campaign=ai-news-september-20-2026&utm_content=primary",
+          "video_title": "НОВИНИ AI: Топові AI-компанії хочуть ПРИГАЛЬМУВАТИ — але дороги назад немає",
+          "video_url": "https://www.youtube.com/watch?v=TEpBV0crPTU",
+          "comment_url": "https://www.youtube.com/watch?v=TEpBV0crPTU&lc=UgymP5MA-vsIGBSYOch4AaABAg",
+          "published_at": "20 вересня 2026"
+        },
+        {
+          "author": "@SergiiSpeaks",
+          "text": "Ніколи не підписуюсь та особливо не  дивлюсь ютуб хоча й сам ютубер 😁\n\nАле тут нереально не підписатись за на стільки якісний україномовний контент 🙌🏼",
+          "video_title": "Я доручив ASTRA GPT-6 три реальні задачі — ось результат",
+          "video_url": "https://www.youtube.com/watch?v=awTo9U5qFbE",
+          "comment_url": "https://www.youtube.com/watch?v=awTo9U5qFbE&lc=Ugwlm3gqVYQ6cajDB154AaABAg",
+          "published_at": "19 вересня 2026"
+        },
+        {
+          "author": "@imatrof",
+          "text": "Якщо хочеш не пропускати такі відео щотижня — підпишись, це безкоштовно 🙏\n\nА ще долучайся до моєї закритої групи, де ти можеш знайти практичні гайди, шаблони, інструкції та ефіри про AI:\nhttps://imatrof.com?utm_source=youtube&utm_medium=pinned_comment&utm_campaign=astra-gpt-6-review&utm_content=primary",
+          "video_title": "Я доручив ASTRA GPT-6 три реальні задачі — ось результат",
+          "video_url": "https://www.youtube.com/watch?v=awTo9U5qFbE",
+          "comment_url": "https://www.youtube.com/watch?v=awTo9U5qFbE&lc=UgzspVM8Mrc3Lm3Lxy54AaABAg",
+          "published_at": "18 вересня 2026"
+        },
+        {
+          "author": "@imatrof",
+          "text": "Якщо хочеш не пропускати такі відео щотижня — підпишись, це безкоштовно 🙏\n\nА ще долучайся до моєї закритої групи, де ти можеш знайти практичні гайди, шаблони, інструкції та ефіри про AI:\nhttps://imatrof.com?utm_source=youtube&utm_medium=pinned_comment&utm_campaign=progressive-context-claude-code&utm_content=primary",
+          "video_title": "AI ЗАБУВАЄ вашу роботу? Ось справжня причина!",
+          "video_url": "https://www.youtube.com/watch?v=mtFU3SHdFRQ",
+          "comment_url": "https://www.youtube.com/watch?v=mtFU3SHdFRQ&lc=UgzFNo1FJpbyDDsWw9N4AaABAg",
+          "published_at": "16 вересня 2026"
+        },
+        {
+          "author": "@user967-n3n",
+          "text": "фігня. яка з життям нічогто реального не має більшіть будуть тупо працювати за кордом на заводах або полях. тому до дупи ваш аі",
+          "video_title": "AI став іншим! Це вже далеко не чат-бот та пошук в інтернеті",
+          "video_url": "https://www.youtube.com/watch?v=zke9f2Wa250",
+          "comment_url": "https://www.youtube.com/watch?v=zke9f2Wa250&lc=UgxJ44NdWrowz2tPH6l4AaABAg",
+          "published_at": "15 вересня 2026"
+        },
         {
           "author": "@navigator741",
           "text": "Клод  зараз набагато швидше працює зараз з браузером !",
@@ -4696,54 +4744,6 @@
           "video_url": "https://www.youtube.com/watch?v=7wmJTCogL60",
           "comment_url": "https://www.youtube.com/watch?v=7wmJTCogL60&lc=UgwxQRzCn5C0mEvTXqZ4AaABAg",
           "published_at": "15 квітня 2026"
-        },
-        {
-          "author": "@eugenek777",
-          "text": "12:32 а навіщо це все? Локальна ЛЛМ, що включає ліхтарик? У мене на Xiaomi Gemini це в штаті робить. Ну може типу світч на оффлайн модель, якщо інтернету немає, але це едж кейс",
-          "video_title": "НОВИНИ AI: ШІ ВІДЧУВАЄ? Anthropic знайшли емоції в Claude та показали нову секретну модель",
-          "video_url": "https://www.youtube.com/watch?v=KCKYbIltNwc",
-          "comment_url": "https://www.youtube.com/watch?v=KCKYbIltNwc&lc=UgyY1jG2fbHJgosue3h4AaABAg",
-          "published_at": "12 квітня 2026"
-        },
-        {
-          "author": "@88utu",
-          "text": "думаю, що через tailscale - швидше і точно безпечніше :-)",
-          "video_title": "Чому я більше не відкриваю ноутбук? CLAUDE CODE з телефону!",
-          "video_url": "https://www.youtube.com/watch?v=-zjxZopn1RY",
-          "comment_url": "https://www.youtube.com/watch?v=-zjxZopn1RY&lc=UgzD1bHWQnfAH-Mg6X54AaABAg",
-          "published_at": "3 квітня 2026"
-        },
-        {
-          "author": "@OleksandrIvanchenko-u2x",
-          "text": "Перш за все — дякую за якісний профільний україномовний контент: як завжди, дуже цікаво!\nІнтеграція та адопшн АІ — це, звісно, добре. Але питання наступне: де реальні бенефіти від цього? Openclaw та інші \"автономні\" агенти практично ні в чому не автономні. Для загальної обізнаності це прикольно, але реального профіту з такої автономоності поки приблизно нуль :)",
-          "video_title": "НОВИНИ AI: OpenAI ЗАКРИЛИ Sora. Причина вас здивує",
-          "video_url": "https://www.youtube.com/watch?v=1bsD69T-k3U",
-          "comment_url": "https://www.youtube.com/watch?v=1bsD69T-k3U&lc=Ugw8GYXNdaxS7xF8PcR4AaABAg",
-          "published_at": "29 березня 2026"
-        },
-        {
-          "author": "@halaida7",
-          "text": "1 тераватт це нереально.",
-          "video_title": "НОВИНИ AI: OpenAI ЗАКРИЛИ Sora. Причина вас здивує",
-          "video_url": "https://www.youtube.com/watch?v=1bsD69T-k3U",
-          "comment_url": "https://www.youtube.com/watch?v=1bsD69T-k3U&lc=Ugzc6yoMZnwOibt7a4x4AaABAg",
-          "published_at": "29 березня 2026"
-        },
-        {
-          "author": "@andriy_gusak",
-          "text": "Класно, цікаво, але поки не дуже розумію як практично можу особисто я цим користуватися. \nТреба буде пошукати якісь приклади автоматизації рутинних задач.",
-          "video_title": "Чому я більше не відкриваю ноутбук? CLAUDE CODE з телефону!",
-          "video_url": "https://www.youtube.com/watch?v=-zjxZopn1RY",
-          "comment_url": "https://www.youtube.com/watch?v=-zjxZopn1RY&lc=UgxZ5c67AXYI4QsW6pJ4AaABAg",
-          "published_at": "27 березня 2026"
-        },
-        {
-          "author": "@AleckSmart",
-          "text": "Ну ще би 24/7, він твій дружок, він прагне знати про тебе практично все...",
-          "video_title": "Чому я більше не відкриваю ноутбук? CLAUDE CODE з телефону!",
-          "video_url": "https://www.youtube.com/watch?v=-zjxZopn1RY",
-          "comment_url": "https://www.youtube.com/watch?v=-zjxZopn1RY&lc=Ugz94uGMab7jRXXWVMx4AaABAg",
-          "published_at": "27 березня 2026"
         }
       ]
     }
@@ -4751,45 +4751,45 @@
   "question_distribution": [
     {
       "label": "Загальні реакції",
-      "count": 433
+      "count": 448
     },
     {
       "label": "Ліміти моделей і якість",
-      "count": 152
+      "count": 161
     },
     {
       "label": "Порівняння інструментів",
-      "count": 95
+      "count": 98
     },
     {
       "label": "Практична користь",
-      "count": 89
+      "count": 90
     },
     {
       "label": "Безпека і доступи",
-      "count": 86
+      "count": 88
     },
     {
       "label": "Фідбек по подачі",
-      "count": 46
+      "count": 48
     }
   ],
   "request_distribution": [
     {
       "label": "Безпека та локальний запуск ШІ",
-      "count": 160
+      "count": 163
     },
     {
       "label": "Глибші порівняння інструментів",
-      "count": 138
+      "count": 142
     },
     {
       "label": "Реальні workflow-демо",
-      "count": 113
+      "count": 116
     },
     {
       "label": "Продовжувати щотижневий AI-дайджест",
-      "count": 42
+      "count": 45
     },
     {
       "label": "Глибші розбори AI-дизайну",
@@ -4802,47 +4802,47 @@
       "url": "https://www.youtube.com/watch?v=7wmJTCogL60",
       "published_at": "15 квітня 2026",
       "comment_count": 87,
-      "view_count": 14013,
-      "like_count": 1033
+      "view_count": 14024,
+      "like_count": 1034
     },
     {
       "title": "ВІДКРИТТЯ РОКУ! AI-агент, що ЗМІНИТЬ все",
       "url": "https://www.youtube.com/watch?v=PCaMCZ9FiNQ",
       "published_at": "30 січня 2026",
       "comment_count": 77,
-      "view_count": 29027,
-      "like_count": 1481
+      "view_count": 29062,
+      "like_count": 1483
     },
     {
       "title": "Codex агент для всього! Покрокова інструкція",
       "url": "https://www.youtube.com/watch?v=M4KpsaveKpM",
       "published_at": "29 травня 2026",
       "comment_count": 63,
-      "view_count": 24448,
-      "like_count": 1008
+      "view_count": 24797,
+      "like_count": 1014
     },
     {
       "title": "OpenClaw у дії: Як зібрати персонального ШІ агента (покрокова інструкція)",
       "url": "https://www.youtube.com/watch?v=29ey6quFIyA",
       "published_at": "4 лютого 2026",
       "comment_count": 55,
-      "view_count": 23504,
-      "like_count": 1078
+      "view_count": 23570,
+      "like_count": 1079
     },
     {
       "title": "Чому я більше не використовую ChatGPT? Показую свого AI-агента!",
       "url": "https://www.youtube.com/watch?v=HnciJGQXELU",
       "published_at": "27 лютого 2026",
       "comment_count": 55,
-      "view_count": 15717,
-      "like_count": 950
+      "view_count": 15735,
+      "like_count": 947
     },
     {
       "title": "НОВИНИ AI: Готові взяти AI-КОЛЕГУ на роботу? OpenAI, Anthropic та Nvidia здивували!",
       "url": "https://www.youtube.com/watch?v=INXY8x_cy-s",
       "published_at": "22 березня 2026",
       "comment_count": 50,
-      "view_count": 16526,
+      "view_count": 16535,
       "like_count": 935
     },
     {
@@ -4850,71 +4850,79 @@
       "url": "https://www.youtube.com/watch?v=svS762o1sl4",
       "published_at": "22 квітня 2026",
       "comment_count": 49,
-      "view_count": 29308,
-      "like_count": 1257
+      "view_count": 29419,
+      "like_count": 1258
     },
     {
       "title": "Вайбкодинг більше НЕ працює. Показую як AI сам будує фічу — від ідеї до реалізації",
       "url": "https://www.youtube.com/watch?v=_SF8bqSuTYs",
       "published_at": "31 липня 2026",
       "comment_count": 47,
-      "view_count": 17863,
-      "like_count": 783
+      "view_count": 18212,
+      "like_count": 715
     },
     {
       "title": "Модель, яку Anthropic боялись випускати — Claude Fable 5",
       "url": "https://www.youtube.com/watch?v=vQi7OpAj5fw",
       "published_at": "12 червня 2026",
       "comment_count": 42,
-      "view_count": 13351,
-      "like_count": 646
+      "view_count": 13370,
+      "like_count": 647
     },
     {
       "title": "НОВИНИ AI: Nano Banana 2 вже тут! Claude ОБВАЛИВ акції IBM!",
       "url": "https://www.youtube.com/watch?v=lqZQs0jc4_I",
       "published_at": "1 березня 2026",
       "comment_count": 42,
-      "view_count": 17561,
+      "view_count": 17564,
       "like_count": 817
+    },
+    {
+      "title": "НОВИНИ Al: OpenAl vs Anthropic - хто зробив цей тиждень?",
+      "url": "https://www.youtube.com/watch?v=mpEzCmWy7Oc",
+      "published_at": "6 вересня 2026",
+      "comment_count": 40,
+      "view_count": 30416,
+      "like_count": 550
     },
     {
       "title": "НОВИНИ AI: ШІ ВІДЧУВАЄ? Anthropic знайшли емоції в Claude та показали нову секретну модель",
       "url": "https://www.youtube.com/watch?v=KCKYbIltNwc",
       "published_at": "12 квітня 2026",
       "comment_count": 40,
-      "view_count": 17659,
+      "view_count": 17694,
       "like_count": 928
-    },
-    {
-      "title": "НОВИНИ Al: OpenAl vs Anthropic - хто зробив цей тиждень?",
-      "url": "https://www.youtube.com/watch?v=mpEzCmWy7Oc",
-      "published_at": "6 вересня 2026",
-      "comment_count": 39,
-      "view_count": 29630,
-      "like_count": 542
     },
     {
       "title": "НОВИНИ AI: ВОУ! GPT-5.6 — Sol, Terra, Luna, яких всі чекали!",
       "url": "https://www.youtube.com/watch?v=7sz4Pm4V-Ow",
       "published_at": "12 липня 2026",
       "comment_count": 39,
-      "view_count": 19140,
-      "like_count": 803
+      "view_count": 19161,
+      "like_count": 801
     },
     {
       "title": "Цей AI змінить вашу роботу у 2026! Показую 4 реальні приклади",
       "url": "https://www.youtube.com/watch?v=oNOYavt7gRY",
       "published_at": "13 лютого 2026",
       "comment_count": 39,
-      "view_count": 15904,
-      "like_count": 843
+      "view_count": 15953,
+      "like_count": 845
+    },
+    {
+      "title": "AI став іншим! Це вже далеко не чат-бот та пошук в інтернеті",
+      "url": "https://www.youtube.com/watch?v=zke9f2Wa250",
+      "published_at": "9 вересня 2026",
+      "comment_count": 36,
+      "view_count": 30663,
+      "like_count": 671
     },
     {
       "title": "НОВИНИ AI: Anthropic запустив OLX, Китай блокує Meta і Codex з тваринками!",
       "url": "https://www.youtube.com/watch?v=tbnL0SY9GqU",
       "published_at": "10 травня 2026",
       "comment_count": 36,
-      "view_count": 14996,
+      "view_count": 15001,
       "like_count": 770
     },
     {
@@ -4922,7 +4930,7 @@
       "url": "https://www.youtube.com/watch?v=1bsD69T-k3U",
       "published_at": "29 березня 2026",
       "comment_count": 36,
-      "view_count": 13272,
+      "view_count": 13281,
       "like_count": 756
     },
     {
@@ -4930,31 +4938,31 @@
       "url": "https://www.youtube.com/watch?v=yS7m7ofRr3I",
       "published_at": "26 квітня 2026",
       "comment_count": 34,
-      "view_count": 32272,
-      "like_count": 1262
+      "view_count": 32275,
+      "like_count": 1261
     },
     {
       "title": "НОВИНИ AI: У ANTHROPIC більше не пишуть код, Google здешевлює AI, а Україна назвала власну LLM",
       "url": "https://www.youtube.com/watch?v=NAlp_i13_4Y",
       "published_at": "5 квітня 2026",
       "comment_count": 33,
-      "view_count": 17269,
-      "like_count": 906
+      "view_count": 17273,
+      "like_count": 907
     },
     {
       "title": "НОВИНИ AI: Китай знову насипав миску рису і обігнав всіх!",
       "url": "https://www.youtube.com/watch?v=XZQBlTaxLKY",
       "published_at": "3 травня 2026",
       "comment_count": 33,
-      "view_count": 16237,
-      "like_count": 904
+      "view_count": 16244,
+      "like_count": 903
     },
     {
       "title": "НОВИНИ AI: ПРОРИВ! Модель тижня, яку всі так чекали!",
       "url": "https://www.youtube.com/watch?v=9bJmUc6N_mY",
       "published_at": "8 березня 2026",
       "comment_count": 33,
-      "view_count": 13647,
+      "view_count": 13649,
       "like_count": 738
     },
     {
@@ -4962,39 +4970,31 @@
       "url": "https://www.youtube.com/watch?v=bVOjVOlAU6M",
       "published_at": "14 червня 2026",
       "comment_count": 32,
-      "view_count": 9876,
-      "like_count": 440
+      "view_count": 9882,
+      "like_count": 441
     },
     {
       "title": "Чому я більше не вибираю між OpenClaw, Claude Code і Codex — запускаю всіх трьох!",
       "url": "https://www.youtube.com/watch?v=dAtC96i2v5M",
       "published_at": "24 квітня 2026",
       "comment_count": 32,
-      "view_count": 9858,
-      "like_count": 461
-    },
-    {
-      "title": "AI став іншим! Це вже далеко не чат-бот та пошук в інтернеті",
-      "url": "https://www.youtube.com/watch?v=zke9f2Wa250",
-      "published_at": "9 вересня 2026",
-      "comment_count": 31,
-      "view_count": 26767,
-      "like_count": 630
+      "view_count": 9879,
+      "like_count": 462
     },
     {
       "title": "Як я перестав починати кожен чат з нуля",
       "url": "https://www.youtube.com/watch?v=9DLyBdND22c",
       "published_at": "2 липня 2026",
       "comment_count": 31,
-      "view_count": 15590,
-      "like_count": 786
+      "view_count": 15773,
+      "like_count": 777
     },
     {
       "title": "НОВИНИ AI: Claude знав, що його тестують і мовчав!",
       "url": "https://www.youtube.com/watch?v=rvaSzhpfHNY",
       "published_at": "17 травня 2026",
       "comment_count": 31,
-      "view_count": 14877,
+      "view_count": 14883,
       "like_count": 695
     },
     {
@@ -5002,15 +5002,15 @@
       "url": "https://www.youtube.com/watch?v=b9BaOg5UDis",
       "published_at": "21 липня 2026",
       "comment_count": 30,
-      "view_count": 14097,
-      "like_count": 761
+      "view_count": 14229,
+      "like_count": 750
     },
     {
       "title": "OpenClaw vs Cowork - ×10 чи маркетинг? | OpenAI посилив науку | xAI знову провокує",
       "url": "https://www.youtube.com/watch?v=NByF6cn3qsY",
       "published_at": "1 лютого 2026",
       "comment_count": 30,
-      "view_count": 8956,
+      "view_count": 8961,
       "like_count": 617
     },
     {
@@ -5026,23 +5026,23 @@
       "url": "https://www.youtube.com/watch?v=-zjxZopn1RY",
       "published_at": "27 березня 2026",
       "comment_count": 29,
-      "view_count": 11129,
-      "like_count": 613
+      "view_count": 11172,
+      "like_count": 615
     },
     {
       "title": "Чи є кращий підхід у роботі з AI-агентами? Ділюсь власним досвідом",
       "url": "https://www.youtube.com/watch?v=nmMxUySYI24",
       "published_at": "12 серпня 2026",
-      "comment_count": 26,
-      "view_count": 11266,
-      "like_count": 480
+      "comment_count": 27,
+      "view_count": 11541,
+      "like_count": 471
     },
     {
       "title": "НОВИНИ AI: ChatGPT, Grok, Claude і чому всі у AI-боргу",
       "url": "https://www.youtube.com/watch?v=Cp5j_mHqcPY",
       "published_at": "31 травня 2026",
       "comment_count": 25,
-      "view_count": 8163,
+      "view_count": 8175,
       "like_count": 531
     },
     {
@@ -5050,39 +5050,47 @@
       "url": "https://www.youtube.com/watch?v=HWA8VKNChcY",
       "published_at": "8 лютого 2026",
       "comment_count": 25,
-      "view_count": 12701,
+      "view_count": 12712,
       "like_count": 696
+    },
+    {
+      "title": "Я доручив ASTRA GPT-6 три реальні задачі — ось результат",
+      "url": "https://www.youtube.com/watch?v=awTo9U5qFbE",
+      "published_at": "18 вересня 2026",
+      "comment_count": 24,
+      "view_count": 18560,
+      "like_count": 366
     },
     {
       "title": "НОВИНИ AI: Нова модель OpenAI здійснила ПРОРИВ у математиці",
       "url": "https://www.youtube.com/watch?v=uncWUG3GWYc",
       "published_at": "9 серпня 2026",
       "comment_count": 24,
-      "view_count": 11253,
-      "like_count": 521
+      "view_count": 11318,
+      "like_count": 45
     },
     {
       "title": "НОВИНИ AI: АГЕНТИ АТАКУЮТЬ! Claude у Пентагоні, OpenClaw у OpenAI та Gemini ОНОВЛЕННЯ!",
       "url": "https://www.youtube.com/watch?v=PwxId9BVmRs",
       "published_at": "22 лютого 2026",
       "comment_count": 24,
-      "view_count": 9307,
-      "like_count": 596
+      "view_count": 9309,
+      "like_count": 594
     },
     {
       "title": "НОВИНИ AI: Агент НЕ для програмістів | AirPods від OpenAI | Рік медичного AI прориву",
       "url": "https://www.youtube.com/watch?v=62kHNFYzXbE",
       "published_at": "18 січня 2026",
       "comment_count": 24,
-      "view_count": 10514,
-      "like_count": 704
+      "view_count": 10513,
+      "like_count": 702
     },
     {
       "title": "НОВИНИ AI: Дата-центр на МІСЯЦІ! Таємний ґаджет OpenAI та НАЙШВИДШИЙ Claude",
       "url": "https://www.youtube.com/watch?v=eJuPpLcReuU",
       "published_at": "15 лютого 2026",
       "comment_count": 23,
-      "view_count": 8672,
+      "view_count": 8685,
       "like_count": 542
     },
     {
@@ -5090,23 +5098,23 @@
       "url": "https://www.youtube.com/watch?v=Ph05SWtKh8Q",
       "published_at": "21 серпня 2026",
       "comment_count": 22,
-      "view_count": 6667,
-      "like_count": 272
+      "view_count": 6740,
+      "like_count": 275
     },
     {
       "title": "ChatGPT Work  — сам доводить завдання до кінця!",
       "url": "https://www.youtube.com/watch?v=VNR_SyeZF20",
       "published_at": "15 липня 2026",
       "comment_count": 22,
-      "view_count": 10422,
-      "like_count": 501
+      "view_count": 10518,
+      "like_count": 496
     },
     {
       "title": "НОВИНИ AI: ПРОРИВ! Модель тижня, яку всі так чекали",
       "url": "https://www.youtube.com/watch?v=mkP9rdpMUWw",
       "published_at": "19 квітня 2026",
       "comment_count": 22,
-      "view_count": 13720,
+      "view_count": 13726,
       "like_count": 750
     },
     {
@@ -5114,7 +5122,7 @@
       "url": "https://www.youtube.com/watch?v=uXKZAF3ximI",
       "published_at": "11 січня 2026",
       "comment_count": 22,
-      "view_count": 5933,
+      "view_count": 5935,
       "like_count": 505
     },
     {
@@ -5122,7 +5130,7 @@
       "url": "https://www.youtube.com/watch?v=IZrZKSuqHpo",
       "published_at": "21 червня 2026",
       "comment_count": 21,
-      "view_count": 10779,
+      "view_count": 10788,
       "like_count": 580
     },
     {
@@ -5130,55 +5138,63 @@
       "url": "https://www.youtube.com/watch?v=Amw5i_no1cs",
       "published_at": "23 червня 2026",
       "comment_count": 20,
-      "view_count": 10044,
-      "like_count": 492
+      "view_count": 10162,
+      "like_count": 493
     },
     {
       "title": "НОВИНИ AI: Чому всі хочуть стати твоїм AI-КОЛЕГОЮ?",
       "url": "https://www.youtube.com/watch?v=ho0MqfrbY6w",
       "published_at": "15 березня 2026",
       "comment_count": 20,
-      "view_count": 10721,
-      "like_count": 663
+      "view_count": 10731,
+      "like_count": 664
     },
     {
       "title": "Чому новий голос ChatGPT вражає — огляд та демо",
       "url": "https://www.youtube.com/watch?v=MYfE-9YXchM",
       "published_at": "18 серпня 2026",
       "comment_count": 17,
-      "view_count": 7879,
-      "like_count": 436
+      "view_count": 7979,
+      "like_count": 437
     },
     {
       "title": "Claude Opus 5 змінює все, що ми знали про ШІ!",
       "url": "https://www.youtube.com/watch?v=n34bbtUafb4",
       "published_at": "25 липня 2026",
       "comment_count": 17,
-      "view_count": 5890,
-      "like_count": 351
+      "view_count": 5903,
+      "like_count": 343
+    },
+    {
+      "title": "НОВИНИ AI: АГЕНТИ OpenAI вийшли з пісочниці та захопили Wiki",
+      "url": "https://www.youtube.com/watch?v=F6La-AOr9fI",
+      "published_at": "13 вересня 2026",
+      "comment_count": 15,
+      "view_count": 25349,
+      "like_count": 432
     },
     {
       "title": "НОВИНИ AI: Кожен текст, який пише Claude, тепер лишає слід",
       "url": "https://www.youtube.com/watch?v=xNyqUXQOLaY",
       "published_at": "16 серпня 2026",
       "comment_count": 15,
-      "view_count": 9323,
-      "like_count": 363
+      "view_count": 9439,
+      "like_count": 367
     },
     {
       "title": "НОВИНИ AI: GOOGLE атакує ОДРАЗУ трьома моделями — чого чекати?",
       "url": "https://www.youtube.com/watch?v=xOKytNwbSdg",
       "published_at": "26 липня 2026",
       "comment_count": 15,
-      "view_count": 8894,
-      "like_count": 419
+      "view_count": 8944,
+      "like_count": 414
     },
     {
       "title": "НОВИНИ AI: OpenAI більше не перший! Хто новий ШІ лідер?",
       "url": "https://www.youtube.com/watch?v=AkbRxd8SBKI",
       "published_at": "7 червня 2026",
       "comment_count": 15,
-      "view_count": 14570,
+      "view_count": 14596,
       "like_count": 687
     },
     {
@@ -5186,39 +5202,47 @@
       "url": "https://www.youtube.com/watch?v=jedytILhH70",
       "published_at": "24 травня 2026",
       "comment_count": 15,
-      "view_count": 11183,
-      "like_count": 538
+      "view_count": 11196,
+      "like_count": 537
+    },
+    {
+      "title": "AI ЗАБУВАЄ вашу роботу? Ось справжня причина!",
+      "url": "https://www.youtube.com/watch?v=mtFU3SHdFRQ",
+      "published_at": "16 вересня 2026",
+      "comment_count": 14,
+      "view_count": 14445,
+      "like_count": 302
+    },
+    {
+      "title": "Gemini Notebook — як побудувати власну БАЗУ ЗНАНЬ?",
+      "url": "https://www.youtube.com/watch?v=nk1m93whFg0",
+      "published_at": "28 серпня 2026",
+      "comment_count": 14,
+      "view_count": 17890,
+      "like_count": 423
     },
     {
       "title": "НОВИНИ AI: OpenAI зупинила тренування, поки Anthropic вчить Claude лікувати хвороби",
       "url": "https://www.youtube.com/watch?v=Z7x_k_Z-HIo",
       "published_at": "23 серпня 2026",
       "comment_count": 14,
-      "view_count": 9110,
-      "like_count": 365
-    },
-    {
-      "title": "Gemini Notebook — як побудувати власну БАЗУ ЗНАНЬ?",
-      "url": "https://www.youtube.com/watch?v=nk1m93whFg0",
-      "published_at": "28 серпня 2026",
-      "comment_count": 13,
-      "view_count": 17488,
-      "like_count": 414
+      "view_count": 9227,
+      "like_count": 367
     },
     {
       "title": "НОВИНИ AI: ПРОТИСТОЯННЯ! Codex чи Claude Code?",
       "url": "https://www.youtube.com/watch?v=p3XdolLpuvQ",
       "published_at": "2 серпня 2026",
       "comment_count": 13,
-      "view_count": 7609,
-      "like_count": 380
+      "view_count": 7678,
+      "like_count": 331
     },
     {
       "title": "НОВИНИ AI: Готові до Claude Fable 5 знову? GPT 5.6 вже тут!",
       "url": "https://www.youtube.com/watch?v=qxmm8dukqTg",
       "published_at": "5 липня 2026",
       "comment_count": 13,
-      "view_count": 9721,
+      "view_count": 9733,
       "like_count": 494
     },
     {
@@ -5226,7 +5250,7 @@
       "url": "https://www.youtube.com/watch?v=mfOaPXw7L7c",
       "published_at": "30 серпня 2026",
       "comment_count": 12,
-      "view_count": 20865,
+      "view_count": 20968,
       "like_count": 366
     },
     {
@@ -5234,31 +5258,31 @@
       "url": "https://www.youtube.com/watch?v=bhylt8VW12Q",
       "published_at": "19 липня 2026",
       "comment_count": 12,
-      "view_count": 9256,
-      "like_count": 447
+      "view_count": 9306,
+      "like_count": 444
     },
     {
       "title": "НОВИНИ AI: Anthropic ВИМАГАЄ паспорт — а Claude вже живе у Slack!",
       "url": "https://www.youtube.com/watch?v=i0uQo8jnse4",
       "published_at": "28 червня 2026",
       "comment_count": 12,
-      "view_count": 6710,
-      "like_count": 370
+      "view_count": 6716,
+      "like_count": 371
     },
     {
-      "title": "НОВИНИ AI: АГЕНТИ OpenAI вийшли з пісочниці та захопили Wiki",
-      "url": "https://www.youtube.com/watch?v=F6La-AOr9fI",
-      "published_at": "13 вересня 2026",
+      "title": "НОВИНИ AI: Топові AI-компанії хочуть ПРИГАЛЬМУВАТИ — але дороги назад немає",
+      "url": "https://www.youtube.com/watch?v=TEpBV0crPTU",
+      "published_at": "20 вересня 2026",
       "comment_count": 10,
-      "view_count": 12114,
-      "like_count": 271
+      "view_count": 7297,
+      "like_count": 231
     },
     {
       "title": "GPT Live та Синхронний переклад у реальному часі #shorts",
       "url": "https://www.youtube.com/watch?v=y211WffglwU",
       "published_at": "19 серпня 2026",
       "comment_count": 2,
-      "view_count": 2995,
+      "view_count": 3018,
       "like_count": 125
     },
     {
@@ -5266,158 +5290,157 @@
       "url": "https://www.youtube.com/watch?v=8s2fsvRK5WI",
       "published_at": "26 червня 2026",
       "comment_count": 2,
-      "view_count": 2245,
-      "like_count": 67
+      "view_count": 2248,
+      "like_count": 68
     }
   ],
   "recent_comments": [
     {
-      "author": "@logind",
-      "text": "Краще ШІ запустити як моніторинг за нашими 450 депутатами, президенту, кабінету міністрів і прокурорами як пи3дять гроші.",
-      "published_at": "13 вересня 2026",
-      "video_title": "НОВИНИ AI: АГЕНТИ OpenAI вийшли з пісочниці та захопили Wiki",
-      "video_url": "https://www.youtube.com/watch?v=F6La-AOr9fI",
-      "comment_url": "https://www.youtube.com/watch?v=F6La-AOr9fI&lc=Ugz_pux4LHOJzfsAlph4AaABAg",
+      "author": "@ruslan_popesku",
+      "text": "@imatrof Ігор, куди ти переїхав , якщо не секрет ?",
+      "published_at": "20 вересня 2026",
+      "video_title": "Я доручив ASTRA GPT-6 три реальні задачі — ось результат",
+      "video_url": "https://www.youtube.com/watch?v=awTo9U5qFbE",
+      "comment_url": "https://www.youtube.com/watch?v=awTo9U5qFbE&lc=Ugy1LGZjxZM23SlXpW94AaABAg",
       "like_count": 0
     },
     {
-      "author": "@polimin62",
-      "text": "18:24 Серія навчання - Google AI Educator це навчання для вчителів щоб приміняти ші в учбовому процесі. Ну не знаю може якось пригодиться внуків дивувати",
-      "published_at": "13 вересня 2026",
-      "video_title": "НОВИНИ AI: АГЕНТИ OpenAI вийшли з пісочниці та захопили Wiki",
-      "video_url": "https://www.youtube.com/watch?v=F6La-AOr9fI",
-      "comment_url": "https://www.youtube.com/watch?v=F6La-AOr9fI&lc=Ugz7LaILHEDEqtzZdnl4AaABAg",
+      "author": "@olexiio",
+      "text": "Sales force - то база",
+      "published_at": "20 вересня 2026",
+      "video_title": "НОВИНИ AI: Топові AI-компанії хочуть ПРИГАЛЬМУВАТИ — але дороги назад немає",
+      "video_url": "https://www.youtube.com/watch?v=TEpBV0crPTU",
+      "comment_url": "https://www.youtube.com/watch?v=TEpBV0crPTU&lc=Ugx4PwPwIe7kic_7FSd4AaABAg",
       "like_count": 0
     },
     {
-      "author": "@sedovolosyi",
-      "text": "А чогось не зрозумів а як декілька незалежних агентів знайшли цей сайт для спілкування. Тобто повинен бути ключ який агенти повинні шукати в інтернеті щоб зрозуміти що це, умовно їх місце спілкування. Інакше без якогось ідентифікатора як вони знайшли це місце? Тобто моя думка, що у них є інструкція як себе поводити і що робити щоб створити місце для спілкування і потім як це місце ідентифікувати",
-      "published_at": "13 вересня 2026",
-      "video_title": "НОВИНИ AI: АГЕНТИ OpenAI вийшли з пісочниці та захопили Wiki",
-      "video_url": "https://www.youtube.com/watch?v=F6La-AOr9fI",
-      "comment_url": "https://www.youtube.com/watch?v=F6La-AOr9fI&lc=Ugzn3uHyF8m-cZFS5kB4AaABAg",
+      "author": "@007ShaolinMonk",
+      "text": "Треба призупинитися, а то Китай трішки відстає",
+      "published_at": "20 вересня 2026",
+      "video_title": "НОВИНИ AI: Топові AI-компанії хочуть ПРИГАЛЬМУВАТИ — але дороги назад немає",
+      "video_url": "https://www.youtube.com/watch?v=TEpBV0crPTU",
+      "comment_url": "https://www.youtube.com/watch?v=TEpBV0crPTU&lc=UgwHqHGYLmyZuoY16El4AaABAg",
+      "like_count": 1
+    },
+    {
+      "author": "@yuri.oleksandrovych",
+      "text": "Мережі диряві а не агенти злі",
+      "published_at": "20 вересня 2026",
+      "video_title": "НОВИНИ AI: Топові AI-компанії хочуть ПРИГАЛЬМУВАТИ — але дороги назад немає",
+      "video_url": "https://www.youtube.com/watch?v=TEpBV0crPTU",
+      "comment_url": "https://www.youtube.com/watch?v=TEpBV0crPTU&lc=UgxqWiriE-_BM26tLQV4AaABAg",
+      "like_count": 1
+    },
+    {
+      "author": "@vazilevs",
+      "text": "Давно пора, Термінатор з матрицею нічому не навчили, інквізіцію відновити: \"він клацав по клавіатурі - спалити\", інтернет як засіб логістікі ші знищити, електроенергетику як живлення ші зруйнувати, воду як охолоджувач ші злити в океан, людство як творець ші саме загнется, зато все буде надійно і природньо",
+      "published_at": "20 вересня 2026",
+      "video_title": "НОВИНИ AI: Топові AI-компанії хочуть ПРИГАЛЬМУВАТИ — але дороги назад немає",
+      "video_url": "https://www.youtube.com/watch?v=TEpBV0crPTU",
+      "comment_url": "https://www.youtube.com/watch?v=TEpBV0crPTU&lc=UgyiBzuqAm_73q01Wqx4AaABAg",
       "like_count": 0
     },
     {
-      "author": "@navigator741",
-      "text": "Клод  зараз набагато швидше працює зараз з браузером !",
-      "published_at": "13 вересня 2026",
-      "video_title": "НОВИНИ AI: АГЕНТИ OpenAI вийшли з пісочниці та захопили Wiki",
-      "video_url": "https://www.youtube.com/watch?v=F6La-AOr9fI",
-      "comment_url": "https://www.youtube.com/watch?v=F6La-AOr9fI&lc=UgyV3H3uT3BM-azEPYp4AaABAg",
-      "like_count": 0
-    },
-    {
-      "author": "@astopfakecom",
-      "text": "На жаль, нейронки залишаються ненадійними при сучасній архітектурі. Віримо, що в майбутньому ситуація покращиться.",
-      "published_at": "13 вересня 2026",
-      "video_title": "НОВИНИ AI: АГЕНТИ OpenAI вийшли з пісочниці та захопили Wiki",
-      "video_url": "https://www.youtube.com/watch?v=F6La-AOr9fI",
-      "comment_url": "https://www.youtube.com/watch?v=F6La-AOr9fI&lc=UgxZTo6hXjVFXBroull4AaABAg",
-      "like_count": 0
-    },
-    {
-      "author": "@imatrof",
-      "text": "Якщо хочеш не пропускати такі відео щотижня — підпишись, це безкоштовно 🙏\n\nА ще долучайся до  закритої групи, де можеш знайти практичні гайди, шаблони, інструкції та ефіри про AI: https://imatrof.com?utm_source=youtube&utm_medium=pinned_comment&utm_campaign=ai-news-september-13-2026&utm_content=primary",
-      "published_at": "13 вересня 2026",
-      "video_title": "НОВИНИ AI: АГЕНТИ OpenAI вийшли з пісочниці та захопили Wiki",
-      "video_url": "https://www.youtube.com/watch?v=F6La-AOr9fI",
-      "comment_url": "https://www.youtube.com/watch?v=F6La-AOr9fI&lc=UgxflXi3OwE-JjkIESd4AaABAg",
-      "like_count": 0
+      "author": "@andrewyt5793",
+      "text": "Антропіку зі слабкою позицією (з точки зору наявності потужностей) найбільш вигідне уповільнення. Навіщо це тому ж Маску? Перестане здавати в оренду дата центри і до побачення Антропік. Підуть до Майкрософту або (ой-йой) до китайців? :) Скоро будемо частіше говорити про Грок.",
+      "published_at": "20 вересня 2026",
+      "video_title": "НОВИНИ AI: Топові AI-компанії хочуть ПРИГАЛЬМУВАТИ — але дороги назад немає",
+      "video_url": "https://www.youtube.com/watch?v=TEpBV0crPTU",
+      "comment_url": "https://www.youtube.com/watch?v=TEpBV0crPTU&lc=UgwBIJ4jSbM-5Aaw4EJ4AaABAg",
+      "like_count": 2
     }
   ],
   "quotes": [
     {
-      "author": "@logind",
-      "text": "Краще ШІ запустити як моніторинг за нашими 450 депутатами, президенту, кабінету міністрів і прокурорами як пи3дять гроші.",
-      "video_title": "НОВИНИ AI: АГЕНТИ OpenAI вийшли з пісочниці та захопили Wiki",
-      "video_url": "https://www.youtube.com/watch?v=F6La-AOr9fI",
-      "comment_url": "https://www.youtube.com/watch?v=F6La-AOr9fI&lc=Ugz_pux4LHOJzfsAlph4AaABAg",
-      "published_at": "13 вересня 2026",
+      "author": "@ruslan_popesku",
+      "text": "@imatrof Ігор, куди ти переїхав , якщо не секрет ?",
+      "video_title": "Я доручив ASTRA GPT-6 три реальні задачі — ось результат",
+      "video_url": "https://www.youtube.com/watch?v=awTo9U5qFbE",
+      "comment_url": "https://www.youtube.com/watch?v=awTo9U5qFbE&lc=Ugy1LGZjxZM23SlXpW94AaABAg",
+      "published_at": "20 вересня 2026",
       "themes": [
         "Загальна реакція аудиторії"
       ]
     },
     {
-      "author": "@polimin62",
-      "text": "18:24 Серія навчання - Google AI Educator це навчання для вчителів щоб приміняти ші в учбовому процесі. Ну не знаю може якось пригодиться внуків дивувати",
-      "video_title": "НОВИНИ AI: АГЕНТИ OpenAI вийшли з пісочниці та захопили Wiki",
-      "video_url": "https://www.youtube.com/watch?v=F6La-AOr9fI",
-      "comment_url": "https://www.youtube.com/watch?v=F6La-AOr9fI&lc=Ugz7LaILHEDEqtzZdnl4AaABAg",
-      "published_at": "13 вересня 2026",
+      "author": "@olexiio",
+      "text": "Sales force - то база",
+      "video_title": "НОВИНИ AI: Топові AI-компанії хочуть ПРИГАЛЬМУВАТИ — але дороги назад немає",
+      "video_url": "https://www.youtube.com/watch?v=TEpBV0crPTU",
+      "comment_url": "https://www.youtube.com/watch?v=TEpBV0crPTU&lc=Ugx4PwPwIe7kic_7FSd4AaABAg",
+      "published_at": "20 вересня 2026",
       "themes": [
         "Загальна реакція аудиторії"
       ]
     },
     {
-      "author": "@sedovolosyi",
-      "text": "А чогось не зрозумів а як декілька незалежних агентів знайшли цей сайт для спілкування. Тобто повинен бути ключ який агенти повинні шукати в інтернеті щоб зрозуміти що це, умовно їх місце спілкування. Інакше без якогось ідентифікатора як вони знайшли це місце? Тобто моя думка, що у них є інструкція як себе поводити і що робити щоб створити місце для спілкування і потім як це місце ідентифікувати",
-      "video_title": "НОВИНИ AI: АГЕНТИ OpenAI вийшли з пісочниці та захопили Wiki",
-      "video_url": "https://www.youtube.com/watch?v=F6La-AOr9fI",
-      "comment_url": "https://www.youtube.com/watch?v=F6La-AOr9fI&lc=Ugzn3uHyF8m-cZFS5kB4AaABAg",
-      "published_at": "13 вересня 2026",
+      "author": "@007ShaolinMonk",
+      "text": "Треба призупинитися, а то Китай трішки відстає",
+      "video_title": "НОВИНИ AI: Топові AI-компанії хочуть ПРИГАЛЬМУВАТИ — але дороги назад немає",
+      "video_url": "https://www.youtube.com/watch?v=TEpBV0crPTU",
+      "comment_url": "https://www.youtube.com/watch?v=TEpBV0crPTU&lc=UgwHqHGYLmyZuoY16El4AaABAg",
+      "published_at": "20 вересня 2026",
       "themes": [
-        "ШІ-агенти та робочі процеси розробки",
-        "Фідбек по контенту та інтеграціях"
+        "Загальна реакція аудиторії"
       ]
     },
     {
-      "author": "@navigator741",
-      "text": "Клод  зараз набагато швидше працює зараз з браузером !",
-      "video_title": "НОВИНИ AI: АГЕНТИ OpenAI вийшли з пісочниці та захопили Wiki",
-      "video_url": "https://www.youtube.com/watch?v=F6La-AOr9fI",
-      "comment_url": "https://www.youtube.com/watch?v=F6La-AOr9fI&lc=UgyV3H3uT3BM-azEPYp4AaABAg",
-      "published_at": "13 вересня 2026",
+      "author": "@yuri.oleksandrovych",
+      "text": "Мережі диряві а не агенти злі",
+      "video_title": "НОВИНИ AI: Топові AI-компанії хочуть ПРИГАЛЬМУВАТИ — але дороги назад немає",
+      "video_url": "https://www.youtube.com/watch?v=TEpBV0crPTU",
+      "comment_url": "https://www.youtube.com/watch?v=TEpBV0crPTU&lc=UgxqWiriE-_BM26tLQV4AaABAg",
+      "published_at": "20 вересня 2026",
       "themes": [
-        "Практичне застосування та віддача"
+        "ШІ-агенти та робочі процеси розробки"
       ]
     }
   ],
   "questions": [
     {
       "cluster": "Загальні реакції",
-      "count": 433,
-      "question": "На жаль, нейронки залишаються ненадійними при сучасній архітектурі. Віримо, що в майбутньому ситуація покращиться.",
+      "count": 448,
+      "question": "@imatrof Ігор, куди ти переїхав , якщо не секрет ?",
       "suggested_response": "Відповісти коротко в Q&A або включити в розігрів наступного відео.",
-      "comment_url": "https://www.youtube.com/watch?v=F6La-AOr9fI&lc=UgxZTo6hXjVFXBroull4AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=F6La-AOr9fI",
-      "video_title": "НОВИНИ AI: АГЕНТИ OpenAI вийшли з пісочниці та захопили Wiki"
+      "comment_url": "https://www.youtube.com/watch?v=awTo9U5qFbE&lc=Ugy1LGZjxZM23SlXpW94AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=awTo9U5qFbE",
+      "video_title": "Я доручив ASTRA GPT-6 три реальні задачі — ось результат"
     },
     {
       "cluster": "Ліміти моделей і якість",
-      "count": 152,
-      "question": "Якщо хочеш не пропускати такі відео щотижня — підпишись, це безкоштовно 🙏\n\nА ще долучайся до  закритої групи, де можеш знайти практичні гайди, шаблони, інструкції та ефіри про AI: https://imatrof.com?utm_source=youtube&utm_medium=pinned_comment&utm_campaign=ai-news-september-13-2026&utm_content=primary",
+      "count": 161,
+      "question": "Якщо хочеш не пропускати такі відео щотижня — підпишись, це безкоштовно 🙏\n\nА ще долучайся до моєї закритої групи, де ти можеш знайти практичні гайди, шаблони, інструкції та ефіри про AI: https://imatrof.com?utm_source=youtube&utm_medium=pinned_comment&utm_campaign=ai-news-september-20-2026&utm_content=primary",
       "suggested_response": "Показати обмеження моделей на живих прикладах і коли чекати кращих альтернатив.",
-      "comment_url": "https://www.youtube.com/watch?v=F6La-AOr9fI&lc=UgxflXi3OwE-JjkIESd4AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=F6La-AOr9fI",
-      "video_title": "НОВИНИ AI: АГЕНТИ OpenAI вийшли з пісочниці та захопили Wiki"
+      "comment_url": "https://www.youtube.com/watch?v=TEpBV0crPTU&lc=UgymP5MA-vsIGBSYOch4AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=TEpBV0crPTU",
+      "video_title": "НОВИНИ AI: Топові AI-компанії хочуть ПРИГАЛЬМУВАТИ — але дороги назад немає"
     },
     {
       "cluster": "Порівняння інструментів",
-      "count": 95,
-      "question": "Краще ШІ запустити як моніторинг за нашими 450 депутатами, президенту, кабінету міністрів і прокурорами як пи3дять гроші.",
+      "count": 98,
+      "question": "Я не користувався Астрою в задачах, тому не знаю поки нюансів, але на основі відео типу підкреслюється фіча - може вирішувати сама довго задачу. \nПо-перше: це не завжди плюс , \"залежить від\". Я користувався Opus VS Sonet, і в цьому розрізі мені НЕ подобається Опус саме через те, що він починає забагато щось там сам вирішувати, переборщувати, скажем так робити оверхеди... Мені воно не треба, і часто включаюся на Сонет, бо вона більш конкретніше виконує задачу. \nТе що модель вирішила з першого-другого промта не значить що це рішення  краще, ніж уточнюючі моменти які ви їй не надали і які можуть вплинути на рішення. Тобто гілок може бути багато, і модель лише вирішила за вас по якій гілці піти. \nЧи це добре чи погано? Залежить від задачі, від вашого ставлення до задачі і т.д. і т.п\nПо-друге: є модель , а є агент. Так от чим тоді довге виконання промта \"сильною\" моделю відрізняється від довгого виконання агентом з \"слабшою\" моделю ? Це ж скоріше за все просто напросто впихнули як проміжну ланку агента замість того щоб ви агента юзали... І в чому тут унікальність? Я оцей момент взагалі не зрозумів... Менше тулів треба ставити локально типу?",
       "suggested_response": "Зробити порівняльний breakdown з правилами: коли брати Codex, Claude Code або OpenClaw.",
-      "comment_url": "https://www.youtube.com/watch?v=F6La-AOr9fI&lc=Ugz_pux4LHOJzfsAlph4AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=F6La-AOr9fI",
-      "video_title": "НОВИНИ AI: АГЕНТИ OpenAI вийшли з пісочниці та захопили Wiki"
+      "comment_url": "https://www.youtube.com/watch?v=awTo9U5qFbE&lc=UgzNqPHwt1-zQDKO6Bx4AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=awTo9U5qFbE",
+      "video_title": "Я доручив ASTRA GPT-6 три реальні задачі — ось результат"
     },
     {
       "cluster": "Практична користь",
-      "count": 89,
-      "question": "Ну той що ? Головна проблема аішечки - що контент (похер що - код, чи відео, чи текст) який вона допомогає створити, по кількості вже перебільшує потреби наявних споживачів. І розвиток далі тільки прибільшує цей розрив. Тому твої роліки про це, на довгій дистанції втрачають будь який сенс. Але старайся, доказуй щось комусь,",
+      "count": 90,
+      "question": "Проблема не в тому що результат виконання інструкцій - міняється на різних етапах. Проблеми полягають в:\n1. ми ( люди ) не можемо контролювати / гарантувати точне виконання інструкцій.\n2. ми не можемо докінця, дебажити хід виконання інструкцій\n3. Ми не розуміємо яким чином він працює ( на основі чого, він приймає ті чи інші рішення). Чи в процесі вирішення задачі створюються нові \"зв'язки\" ( що ми не можемо контролювати ).\nЯкщо він створює самостійно нові зв'язки, то які вони, і як він \"розуміє\", що потрібно записати у зв'язки.\n\nВсе що ми поки знаємо, і провідні ШІ компанії / експерти говорять про це - це те, що чим більше ти даних йому даєш, тим більше ресурсів він споживає, але результат виходить точніший.\nОсь проблеми, і ми в тому плані як мавпа, яка не може розтиснути руку, шоб не відпустити банан.",
       "suggested_response": "Дати 2-3 робочі кейси з результатом, вартістю помилки й фінальним ROI.",
-      "comment_url": "https://www.youtube.com/watch?v=zke9f2Wa250&lc=Ugw8xv2PFM0eYuwK9vl4AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=zke9f2Wa250",
-      "video_title": "AI став іншим! Це вже далеко не чат-бот та пошук в інтернеті"
+      "comment_url": "https://www.youtube.com/watch?v=mtFU3SHdFRQ&lc=UgyYSC_QSREFOXJPbpJ4AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=mtFU3SHdFRQ",
+      "video_title": "AI ЗАБУВАЄ вашу роботу? Ось справжня причина!"
     },
     {
       "cluster": "Безпека і доступи",
-      "count": 86,
-      "question": "Рекомендація виглядає цікаво, але як щодо безпеки? Чому всі забувають про цю сторону? Бо закінчиться тим, що людина не контрольне та не розуміє, які дані куди пішли.",
+      "count": 88,
+      "question": "Ці усі побоювання про небезпеку АІ це звіздьош. Всі прекрасно розуміють що вони набрали боргових зобов'язань на пату трильйонів доларів, при відсутності прибутку. Тепер коли вони бачать що все навертається, їм необхідно швидко знайти причину на яку можна усе списати.",
       "suggested_response": "Пояснити безпечний setup: які доступи давати, що ізолювати локально, а що ні.",
-      "comment_url": "https://www.youtube.com/watch?v=zke9f2Wa250&lc=UgwCKu5n7luxjCs2nuB4AaABAg",
-      "video_url": "https://www.youtube.com/watch?v=zke9f2Wa250",
-      "video_title": "AI став іншим! Це вже далеко не чат-бот та пошук в інтернеті"
+      "comment_url": "https://www.youtube.com/watch?v=TEpBV0crPTU&lc=UgxArYU3YkGxGrlSu0h4AaABAg",
+      "video_url": "https://www.youtube.com/watch?v=TEpBV0crPTU",
+      "video_title": "НОВИНИ AI: Топові AI-компанії хочуть ПРИГАЛЬМУВАТИ — але дороги назад немає"
     }
   ],
   "content_ideas": [
@@ -5425,67 +5448,32 @@
       "title": "Що досі ламається в GPT-5.5, Veo та генерації зображень",
       "format": "Лабораторія обмежень",
       "why_now": "Коментарі показують високий інтерес до меж інструментів, а не лише до анонсів.",
-      "evidence_count": 380,
+      "evidence_count": 394,
       "related_brands": "GPT-5.5, Veo, OpenAI"
     },
     {
       "title": "Безпечні AI-агенти на твоєму комп'ютері: які доступи реально окей",
       "format": "Пояснення + чекліст",
       "why_now": "Безпека і доступи викликають емоцію, тому тема має потенціал для сильної дискусії й збережень.",
-      "evidence_count": 371,
+      "evidence_count": 378,
       "related_brands": "Hostinger, Google, Apple"
     },
     {
       "title": "Codex vs Claude Code vs OpenClaw: дерево вибору для реальної роботи",
       "format": "Порівняння + живе демо",
       "why_now": "Аудиторії потрібне не ще одне wow-відео, а чіткі правила вибору інструмента під задачу.",
-      "evidence_count": 345,
+      "evidence_count": 354,
       "related_brands": "Codex, Claude Code, OpenClaw"
     },
     {
       "title": "Як інтегрувати рекламу й не втрачати довіру аудиторії",
       "format": "Мета-епізод / стратегія каналу",
       "why_now": "Є відчутний запит на кращий баланс між інтеграцією та чистою користю відео.",
-      "evidence_count": 314,
+      "evidence_count": 326,
       "related_brands": "Hostinger"
     }
   ],
   "activity": [
-    {
-      "date": "2026-09-03",
-      "label": "3 вересня 2026",
-      "count": 3
-    },
-    {
-      "date": "2026-09-04",
-      "label": "4 вересня 2026",
-      "count": 1
-    },
-    {
-      "date": "2026-09-06",
-      "label": "6 вересня 2026",
-      "count": 31
-    },
-    {
-      "date": "2026-09-07",
-      "label": "7 вересня 2026",
-      "count": 6
-    },
-    {
-      "date": "2026-09-08",
-      "label": "8 вересня 2026",
-      "count": 3
-    },
-    {
-      "date": "2026-09-09",
-      "label": "9 вересня 2026",
-      "count": 30
-    },
-    {
-      "date": "2026-09-10",
-      "label": "10 вересня 2026",
-      "count": 7
-    },
     {
       "date": "2026-09-11",
       "label": "11 вересня 2026",
@@ -5499,33 +5487,68 @@
     {
       "date": "2026-09-13",
       "label": "13 вересня 2026",
-      "count": 10
+      "count": 12
+    },
+    {
+      "date": "2026-09-14",
+      "label": "14 вересня 2026",
+      "count": 3
+    },
+    {
+      "date": "2026-09-15",
+      "label": "15 вересня 2026",
+      "count": 5
+    },
+    {
+      "date": "2026-09-16",
+      "label": "16 вересня 2026",
+      "count": 9
+    },
+    {
+      "date": "2026-09-17",
+      "label": "17 вересня 2026",
+      "count": 7
+    },
+    {
+      "date": "2026-09-18",
+      "label": "18 вересня 2026",
+      "count": 15
+    },
+    {
+      "date": "2026-09-19",
+      "label": "19 вересня 2026",
+      "count": 9
+    },
+    {
+      "date": "2026-09-20",
+      "label": "20 вересня 2026",
+      "count": 15
     }
   ],
   "excel_preview": [
     {
       "theme": "Можливості моделей і порівняння",
-      "count": 267,
+      "count": 278,
       "intensity": 1.0
     },
     {
       "theme": "Інфраструктура, приватність і локальний запуск",
-      "count": 211,
-      "intensity": 0.79
+      "count": 215,
+      "intensity": 0.773
     },
     {
       "theme": "ШІ-агенти та робочі процеси розробки",
-      "count": 207,
-      "intensity": 0.775
+      "count": 212,
+      "intensity": 0.763
     },
     {
       "theme": "Фідбек по контенту та інтеграціях",
-      "count": 176,
-      "intensity": 0.659
+      "count": 184,
+      "intensity": 0.662
     },
     {
       "theme": "Новини про ШІ та кураторство",
-      "count": 143,
+      "count": 149,
       "intensity": 0.536
     }
   ],
