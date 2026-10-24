@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "type": "module",
   "engines": {
-    "node": ">=18 <25"
+    "node": "^20.0.0 || ^22.0.0 || ^24.0.0"
   },
   "scripts": {
     "dev": "vite",
@@ -14,8 +14,8 @@
     "test": "vitest run"
   },
   "devDependencies": {
-    "vite": "^6.4.3",
-    "vitest": "^3.2.4"
+    "vite": "^6.4.5",
+    "vitest": "^4.1.12"
   },
   "overrides": {
     "postcss": "^8.5.18"
